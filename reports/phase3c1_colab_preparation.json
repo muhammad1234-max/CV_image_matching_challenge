@@ -1,0 +1,8 @@
+{
+  "status": "PREPARED",
+  "notebook_cells_compile": true,
+  "migration_archive_inventory_verified": true,
+  "actual_colab_execution": "PENDING",
+  "tests_passed": 125,
+  "migration_sha256": "821914367105f240095c497bda4390fc98aa64375c1654394460aa00e7dd93d9"
+}

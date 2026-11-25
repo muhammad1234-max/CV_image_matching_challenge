@@ -1,0 +1,14 @@
+{
+  "docs/phase5a2_execution_integrity.md": "8341f8b4776543b14901b430652f092d858c76ea347643f51e9d25148a68f366",
+  "docs/phase5a2_resource_report.md": "ca3e3934d4db2af531ffc71208c1e7f331c5f6e6bc27d70b2026e0d32d7c657c",
+  "docs/phase5a2_capture_results.md": "4f1777804758b485660fdad4785d9f182c960c02d6a7ca3bdc8edf62b6cc691a",
+  "docs/phase5a2_original_results.md": "7e2ccf771ce4934fe3a29a94fda55413b37b83584a05a4df7723773f513e3951",
+  "docs/phase5a2_trial_results.md": "23ab0ad572f222dcfa766c98c2a0523ca6a9071a45e369842bb330b4c63a299f",
+  "docs/phase5a2_automatic_decision.md": "2f3d454afb5b2b6cab6d09592f52c30be0469a8c490ffc8811ab486a1a90d598",
+  "docs/phase5a2_scoring.md": "c447fc41ba7633a894e548a5e04ce837e5d68ab31a815e4d3f5d9206eb57e6f5",
+  "docs/phase5a2_supervisor_handoff.md": "b05df79b9524c7278b0e63dbf2f093db83935977dab89a2a1b0c965ee1b471ea",
+  "reports/phase5a2/preflight.json": "fd7ae22c79f4e658ddb7211e55d60f748bc4e491ef04033f432059a0097596fd",
+  "reports/phase5a2/verify_release.py": "d70607d7b2e4f8b74b45708cf94a00f88ef18917814b1bda7220ee2d017f13b2",
+  "reports/phase5a2/tests.xml": "1755f15d340a7d62c0fa943e33539d712733fecba5cde6d0bbda64f146a3da0c",
+  "reports/phase5a2/tests.log": "34767d505a631dff0ccd69ddf9bd4592cf7bcf923fad24ef6bd6850bd7cc250d"
+}

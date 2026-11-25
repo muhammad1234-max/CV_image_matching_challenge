@@ -1,0 +1,7 @@
+# Phase 5A.3 supervisor handoff
+
+Review the new operational bundle for the 138-image Dioscuri/Baalshamin retry. The prospective run remains unstarted. The repaired original and trial children produce their own atomic provenance receipts. A complete synthetic checkpoint chain survives export, restore and resume. Tampered or absent evidence stops selection. Eligible timeouts and unsupported geometry retain the frozen fallback.
+
+The CPU release evidence covers 24 new generated-child tests, 48 existing runner regressions, 20 frozen candidate tests and 394 full-suite cases including those subsets. See release.json for identities and generated.xml, regression.xml and suite.xml for results. The actual GPU environment, runtime capacity, checkpoint assets and external custody require live preflight.
+
+Added files and purposes are the versioned child/adapter sources for receipt production, phase5a3_build.py for the release, phase5a3_rehearse.py for byte-verified embedded execution, phase5a3_package.py for evidence verification, the CPU platform fixture and generated-program regressions, the versioned notebook and the eight phase documents. SHA256.json lists the packaged paths. Historical release source and evidence remain unchanged.

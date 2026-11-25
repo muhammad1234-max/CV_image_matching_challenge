@@ -1,0 +1,70 @@
+{
+  "included": [
+    {
+      "file": "environment.json",
+      "sha256": "2408edbaf32eaf2bd344c52af86d87595b03a8fda6dd03d388d1003f1075fc01",
+      "bytes": 126
+    },
+    {
+      "file": "audit_status.json",
+      "sha256": "e38919f38de1187a6ff624b671c125afb34db925de03db428a657d914907c33e",
+      "bytes": 406
+    },
+    {
+      "file": "sample_submission_contract.json",
+      "sha256": "8fb56b57c5ca166014496ccf67c8b4f3fa688b2e34402f3a9b023450e5d5193b",
+      "bytes": 1735
+    },
+    {
+      "file": "sample_dataset_coverage.csv",
+      "sha256": "d645ac276988335134794f1fd50d74d1f596498cd5a3a87e7f52492a8a82a009",
+      "bytes": 388
+    },
+    {
+      "file": "thresholds_raw_and_parsed.csv",
+      "sha256": "34ced4582a883bb67cacdfbc668a706f23d36be7351c56c61b3160829641b163",
+      "bytes": 17871
+    },
+    {
+      "file": "threshold_source.json",
+      "sha256": "18f1b021c8ec28795a0fb2d18a3232b71df3fff144c8057ae52fc56224583985",
+      "bytes": 529
+    },
+    {
+      "file": "threshold_reconciliation.md",
+      "sha256": "459325df03803e16007f36cf16f42252463ca828fa01e0ba52b0c2d2509ca019",
+      "bytes": 2638
+    },
+    {
+      "file": "pose_outlier_crosstab.csv",
+      "sha256": "fe47661a660c18bcb70775169672127df5584bdfa7bff6594a3677188ddaa407",
+      "bytes": 749
+    },
+    {
+      "file": "pose_integrity.json",
+      "sha256": "2f8fb06dff1b7824fb195b82a4d999b44c6e459d96f88591d2c7852199a53689",
+      "bytes": 311
+    },
+    {
+      "file": "dataset_overlap_candidates.csv",
+      "sha256": "b19e1397a03f654cc449d08193666b26cd3a79773afa50ed69d2333381fa0cbc",
+      "bytes": 59
+    },
+    {
+      "file": "overlap_status.json",
+      "sha256": "9fa9a9f559ec003ac2a549bbd9f93a93eb3000610e90cdcb5497ed5e4307e2de",
+      "bytes": 1423
+    },
+    {
+      "file": "source_provenance_review.md",
+      "sha256": "46cdd8a6320be3450fb20bbe09d0cbf13ce3e19ffb0df55869c649e7b5373227",
+      "bytes": 8854
+    },
+    {
+      "file": "validation_grouping_proposal.md",
+      "sha256": "d97e7becded59723d92598516244df221c21ba54078c7a6fff15d37bc581e7aa",
+      "bytes": 1359
+    }
+  ],
+  "omitted": []
+}

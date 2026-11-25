@@ -1,0 +1,22 @@
+{
+  "configs/novel_model/final_candidate_v1.yaml": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+  "docs/phase5a_automatic_decision.md": "e00dbced3e4df1fc7f0d9bff043e4e175503775ba3c2cacf17e6fc5c64a45ea3",
+  "docs/phase5a_execution_and_integrity.md": "0860c78d268f190b023e1e4c95398fc1ecc471f69a96dd3e5927ace8ecaa6cac",
+  "docs/phase5a_independent_scores.md": "8f8fbba9b7d523bed9140b8188f47bf61de622a7831d5eef714a674d65e35262",
+  "docs/phase5a_original_reconstruction.md": "81ea3fb5bc54b50653467f06a1ec2835624c1560f9d75216aea99b2f832971f6",
+  "docs/phase5a_parent_capture.md": "fec7a4a68d2945699147ff1dab2ea727ddf05dd44c902c7f93259a4caf58309f",
+  "docs/phase5a_resource_report.md": "96821e2fae431869a41d1923bbccd2bbb015318060f49de0f508a44b31fef30d",
+  "docs/phase5a_supervisor_handoff.md": "b0b334bbdc50ccdfb27ed6e16c34852bf3a3a471be29c4ec8f426333c497a655",
+  "docs/phase5a_trial_reconstruction.md": "0636af79e2f4efd6413e5011d378922c7420cd3581ffbf54db618869cbd44560",
+  "reports/phase4i/freeze.json": "7772fb0772322efc225d8930b59fdc9c9228551c470d6d4328158b6e07a6ec9e",
+  "reports/phase4i/inference_pins.json": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+  "reports/phase5a/integrity.json": "1b3dfbd9a94a720d6999f27d60b6d479e544a288188f415e035d90ec0fbc2fab",
+  "reports/phase5a/resources.json": "7eecf6b7be911731af7a8e147076a36077b0f7a2bb0a34379c275737516b28aa",
+  "reports/phase5a/runner_probe.json": "aeda97ad916f27c8f7c178cc719ca7dea0a978ebe846678bcd2e3d37748de185",
+  "reports/phase5a/status.json": "3615314c7fb9728beba4d1e202d2b034c6e21c1b0edfebbed7b833b7f7481099",
+  "reports/phase5a/suite.log": "17471c27970c01a80d7a6a62be5e4aa9b5c4a52c5ebbd42bc9d232cad3e2b8d7",
+  "reports/phase5a/suite.xml": "b58cfda203d18dde5bf35c96b284fd0ae93499b140c819b10835294dac655998",
+  "reports/phase5a/targeted.log": "3201154564519cd29dfda2be7294cbc0430b22b12b7f0e1324ad8abdbc147b07",
+  "reports/phase5a/targeted.xml": "0c6bdc2388752369d54d68021a6ff2eb4788b90b28f554a079e4b6599426efe6",
+  "scripts/phase5a_audit.py": "2b8c4d3e658376941d3d9f8db19be16443f398f0515c84a1e18cbef1f03bf071"
+}

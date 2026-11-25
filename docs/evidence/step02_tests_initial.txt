@@ -1,0 +1,100 @@
+test_counts (test_dataset_utilities.DatasetTests.test_counts) ... ok
+test_duplicate_invalid_missing (test_dataset_utilities.DatasetTests.test_duplicate_invalid_missing) ... ok
+test_header (test_dataset_utilities.DatasetTests.test_header) ... ERROR
+test_header (test_dataset_utilities.DatasetTests.test_header) ... ERROR
+test_inventory (test_dataset_utilities.DatasetTests.test_inventory) ... ok
+test_splits (test_dataset_utilities.DatasetTests.test_splits) ... <frozen importlib._bootstrap>:488: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x000001CF7EE5E110>
+D:\CV_Project\scripts\create_validation_splits.py:15: ResourceWarning: unclosed file <_io.BufferedReader name='D:\\CV_Project\\tests\\tmpso1hkbod\\labels.csv'>
+  digest=hashlib.file_digest(source.open('rb'),'sha256').hexdigest()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_clusterness_and_harmonic (test_evaluation_contract.ContractTests.test_clusterness_and_harmonic) ... ok
+test_correct_poses (test_evaluation_contract.ContractTests.test_correct_poses) ... ok
+test_csv_roundtrip (test_evaluation_contract.ContractTests.test_csv_roundtrip) ... ok
+test_discrepancy (test_evaluation_contract.ContractTests.test_discrepancy) ... ok
+test_ground_truth_outlier_excluded (test_evaluation_contract.ContractTests.test_ground_truth_outlier_excluded) ... ok
+test_label_permutation (test_evaluation_contract.ContractTests.test_label_permutation) ... ok
+test_malformed_rotation_rejected (test_evaluation_contract.ContractTests.test_malformed_rotation_rejected) ... ok
+test_nan_unregistered_pose (test_evaluation_contract.ContractTests.test_nan_unregistered_pose) ... ok
+test_predicted_outliers_lose_pose_credit (test_evaluation_contract.ContractTests.test_predicted_outliers_lose_pose_credit) ... ok
+test_similarity_alignment (test_evaluation_contract.ContractTests.test_similarity_alignment) ... ok
+test_strict_threshold_and_skip (test_evaluation_contract.ContractTests.test_strict_threshold_and_skip) ... ok
+test_wrong_pose (test_evaluation_contract.ContractTests.test_wrong_pose) ... ok
+
+======================================================================
+ERROR: test_header (test_dataset_utilities.DatasetTests.test_header)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\CV_Project\scripts\inspect_dataset.py", line 21, in inspect
+    if reader.fieldnames != FIELDS: raise ValueError('Expected exact five-column header')
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Expected exact five-column header
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python313\Lib\shutil.py", line 625, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\CV_Project\\tests\\tmphk67ns72\\out\\tmpileoibze\\ids.sqlite'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\CV_Project\tests\test_dataset_utilities.py", line 25, in test_header
+    with self.assertRaises(ValueError):inspect(self.csv,self.root/'out')
+                                       ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\CV_Project\scripts\inspect_dataset.py", line 16, in inspect
+    with tempfile.TemporaryDirectory(dir=output) as temporary:
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Python313\Lib\tempfile.py", line 951, in __exit__
+    self.cleanup()
+    ~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\tempfile.py", line 955, in cleanup
+    self._rmtree(self.name, ignore_errors=self._ignore_cleanup_errors)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tempfile.py", line 935, in _rmtree
+    _shutil.rmtree(name, onexc=onexc)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Python313\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tempfile.py", line 910, in onexc
+    _os.unlink(path)
+    ~~~~~~~~~~^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\CV_Project\\tests\\tmphk67ns72\\out\\tmpileoibze\\ids.sqlite'
+
+======================================================================
+ERROR: test_header (test_dataset_utilities.DatasetTests.test_header)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Python313\Lib\shutil.py", line 625, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\CV_Project\\tests\\tmphk67ns72\\out\\tmpileoibze\\ids.sqlite'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python313\Lib\tempfile.py", line 955, in cleanup
+    self._rmtree(self.name, ignore_errors=self._ignore_cleanup_errors)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tempfile.py", line 935, in _rmtree
+    _shutil.rmtree(name, onexc=onexc)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Python313\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tempfile.py", line 910, in onexc
+    _os.unlink(path)
+    ~~~~~~~~~~^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\CV_Project\\tests\\tmphk67ns72\\out\\tmpileoibze\\ids.sqlite'
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.534s
+
+FAILED (errors=2)

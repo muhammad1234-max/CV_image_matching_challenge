@@ -1,0 +1,3 @@
+# Stage B — ns64 original
+
+**Not started.** The authorized dataset has no new sealed parent or original reconstruction in this phase. No 138-row original prediction or indexed observations were generated. Scene assignments, registered cameras, pose accuracy, score, mapper duration and memory are unavailable. The time-only checkpoint described in the audit was a discarded CPU fixture. It cannot be used to resume this dataset.

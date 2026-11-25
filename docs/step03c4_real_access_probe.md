@@ -1,0 +1,9 @@
+No real container access probes were executed. Both receipts, runtime image ID, package hashes, GPU model visible to the sandbox, import outcomes and access-denial evidence remain pending. No protected input or output is to be uploaded to the Colab capability-check notebook.
+
+Once a compatible host and reviewed image exist, use a trusted administrative environment with the original receipt paths available. With the project tools present run:
+python scripts/ns64_probe_v2.py prepare /path/to/train/ETs /path/to/dependency_receipt.zip /scratch/order11 20261111
+Repeat with /scratch/order12 and 20261112. Use the new preparation command to apply the source correction. The historical migration ZIP alone does not contain these new scripts. Transfer the prepared directories privately to the trusted Docker host. The launcher mounts only package plus an empty output. Keep private.json inaccessible to the worker.
+python scripts/ns64_probe_v2.py probe /scratch/order11 sha256:IMAGE_ID /scratch/probe11
+Repeat for order12 into probe12. Review host.json, boundary.json and readiness.json from each. Only share sanitized receipts after inspection. A nonzero process exit or missing receipt blocks launch. If an import fails, preserve its precise module name, correct and version only the missing dependency and repeat both probes.
+
+The launcher creates and verifies a harmless administrative canary outside both bind mounts. The new probe checks that path and its /proc/1/root alias in addition to the original path, traversal and symlink probes. Controls requested include user 65534, dropped capabilities, no-new-privileges, no network, separate PID namespace, read-only root/input and a fresh output. The probe records mount points, process visibility, network interfaces, GPU model and software versions. Those controls have yet to be observed in the target environment.

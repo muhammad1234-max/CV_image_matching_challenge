@@ -1,0 +1,417 @@
+{
+  "checks": {
+    "assets": {
+      "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+      "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+      "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d",
+      "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+      "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+      "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+      "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e"
+    },
+    "bootstrap": {
+      "peak_tree_pss_bytes": 56641536,
+      "seconds": 5.402235190999988
+    },
+    "capture_program_sha256": "434f361895ccbae412b409b6342581721f8312a3be2dfbcef6c4634a032307bb",
+    "create_env": {
+      "peak_tree_pss_bytes": 482304,
+      "seconds": 1.1153864239999791
+    },
+    "cuda": {
+      "device": "Tesla T4",
+      "peak_bytes": 1536,
+      "python": "/tmp/phase5a6_dioscuri/runtime/venv/bin/python",
+      "remaining_bytes": 0,
+      "torch": "2.5.1+cu121",
+      "version": "3.11.11 (main, Mar 17 2025, 21:02:09) [Clang 20.1.0 ]"
+    },
+    "disk_after_setup": {
+      "export_free": 20940148736,
+      "required": 7293630294,
+      "scratch_free": 2689227161600
+    },
+    "freeze": [
+      "absl-py==2.5.1",
+      "addict==2.4.0",
+      "aiohappyeyeballs==2.7.1",
+      "aiohttp==3.14.5",
+      "aiosignal==1.4.0",
+      "annotated-types==0.8.0",
+      "antlr4-python3-runtime==4.9.3",
+      "asmk @ asmk-0.1-cp311-cp311-linux_x86_64.whl#sha256=d45f694a50fe0fa1c25e500b0edf6a0b1e5802a84241c95ae78f4be270976308",
+      "attrs==26.1.0",
+      "certifi==2026.10.23",
+      "cffi==2.1.1",
+      "charset-normalizer==3.5.2",
+      "cloudpickle==3.1.2",
+      "contourpy==1.3.3",
+      "croco @ croco-0.1.2-py3-none-any.whl#sha256=ee26071c4c63f454d043c38f851cc692ee9d956bcd18a90996b21325df7e23a2",
+      "curope @ curope-0.0.0-cp311-cp311-linux_x86_64.whl#sha256=6e021ae761fd6694e80482e2aa0ff581cf321eb247d4b212f3ac2ed7a8ce6ee2",
+      "cycler==0.12.1",
+      "cython==0.29.37",
+      "dacite==1.9.2",
+      "dad @ dad-0.2.0-py3-none-any.whl#sha256=d45d0f363cd3c793ca98721b689342d4ae3344eac6667a26137110b5eb5c27f8",
+      "dedode @ dedode-0.0.1-py3-none-any.whl#sha256=436f876a5b57957f660ab652f019ff85379057a39ade5f16396124d82474c142",
+      "depth_anything_v2 @ depth_anything_v2-0.0.1-py3-none-any.whl#sha256=c19b2c9d4b18d45d758757f6c215087b5edb08f3641438915db84e6d6672594f",
+      "dotmap==1.3.30",
+      "dsine @ dsine-0.0.0-py3-none-any.whl#sha256=3ff645d126f5c081e9077252a65d28cdc4aad38201ba14f65ddb986ae32e6f43",
+      "dust3r @ dust3r-0.1.0-py3-none-any.whl#sha256=b4313794fd89ff3d7ee7ebdf1210ed852f6f505bbffad9fdfe712fabe4814b2b",
+      "e2cnn==0.2.3",
+      "einops==0.8.1",
+      "faiss-cpu==1.10.0",
+      "filelock==4.2.4",
+      "fonttools==4.68.0",
+      "frozenlist==1.8.0",
+      "fsspec==2025.12.0",
+      "grpcio==1.85.1",
+      "h5py==3.13.0",
+      "hf-xet==1.8.0",
+      "hloc @ hloc-1.5-py3-none-any.whl#sha256=44a53f7e6ea41915dd6c48d9dce20a393fd2186ad109709c5003e62a84e49939",
+      "huggingface_hub==0.36.2",
+      "hydra-core==1.3.2",
+      "idna==3.20",
+      "iglovikov-helper-functions==0.0.53",
+      "imagecorruptions==1.1.2",
+      "imageio==2.38.1",
+      "jinja2==3.1.6",
+      "joblib==1.6.0",
+      "jpeg4py==0.1.4",
+      "kiwisolver==1.5.1",
+      "kornia-moons==0.2.9",
+      "kornia==0.8.0",
+      "kornia_rs==0.2.0",
+      "lazy-loader==0.6",
+      "lightglue @ lightglue-0.0-py3-none-any.whl#sha256=56383e98ab14c77b2f2c8214c43b2ee33b8f11bf622c4b6e8b5b335ce421adfd",
+      "lightning-utilities==0.15.3",
+      "lightning==2.5.1",
+      "loguru==0.7.3",
+      "markdown==3.11.3",
+      "markupsafe==3.0.3",
+      "mast3r @ mast3r-0.1.0-py3-none-any.whl#sha256=6a5367dd9d097d6549129a74ab15b29daf9f397fd8b04242627b79b53679f0d8",
+      "matplotlib==3.10.1",
+      "moge @ moge-1.0.0-py3-none-any.whl#sha256=9940118078e5c034b91e2d0f27982ff6e00a914e7c0d967c6db881c6d62fd3a3",
+      "mono @ mono-0.0.0-py3-none-any.whl#sha256=479f3fc45d9638a14653080f1bb1af546303402b3b8e7f5aae54e6dd65271aa3",
+      "mpmath==1.3.0",
+      "mpsfm @ mpsfm-0.1.0-py3-none-any.whl#sha256=7c28365aec2bea6d1127296a85cfbfd69820cb45102200b90e18ca866accebfe",
+      "multidict==7.2.1",
+      "narwhals==2.28.0",
+      "networkx==3.6.1",
+      "ninja==1.11.1.3",
+      "numpy==1.26.4",
+      "nvidia-cublas-cu12==12.1.3.1",
+      "nvidia-cuda-cupti-cu12==12.1.105",
+      "nvidia-cuda-nvrtc-cu12==12.1.105",
+      "nvidia-cuda-runtime-cu12==12.1.105",
+      "nvidia-cudnn-cu12==9.1.0.70",
+      "nvidia-cufft-cu12==11.0.2.54",
+      "nvidia-curand-cu12==10.3.2.106",
+      "nvidia-cusolver-cu12==11.4.5.107",
+      "nvidia-cusparse-cu12==12.1.0.106",
+      "nvidia-nccl-cu12==2.21.5",
+      "nvidia-nvjitlink-cu12==12.9.86",
+      "nvidia-nvtx-cu12==12.1.105",
+      "omegaconf==2.3.0",
+      "opencv-python==4.11.0.86",
+      "packaging==24.2",
+      "pandas==2.2.3",
+      "pillow==11.0.0",
+      "plotly==6.0.1",
+      "prettytable==3.16.0",
+      "propcache==0.5.4",
+      "protobuf==7.36.2",
+      "pyaml==25.1.0",
+      "pyceres==2.4",
+      "pycolmap==3.11.1",
+      "pycparser==3.12",
+      "pydantic==2.11.2",
+      "pydantic_core==2.33.1",
+      "pydegensac==0.1.2",
+      "pyparsing==3.3.3",
+      "pyrender @ pyrender-0.1.45-py3-none-any.whl#sha256=619169d5468873900b414af58f89d3a6bd61d411e877810f3ff9291a4db4063b",
+      "python-dateutil==4.0.0",
+      "pytorch-lightning==2.5.1",
+      "pytz==2026.6",
+      "pyyaml==6.0.2",
+      "regex==2026.11.15",
+      "requests==2.34.2",
+      "safetensors==0.8.0",
+      "scikit-image==0.26.0",
+      "scikit-learn==1.6.1",
+      "scipy==1.15.2",
+      "six==1.17.0",
+      "superglue_pretrained_network @ superglue_pretrained_network-0.0.0-py3-none-any.whl#sha256=fd0f5aca1dcfc3c7c744fb40e8c03965089a793d955ee19ff8f529e444dbfd14",
+      "sympy==1.13.1",
+      "tensorboard-data-server==0.7.2",
+      "tensorboard==2.19.0",
+      "threadpoolctl==3.8.0",
+      "tifffile==2026.3.3",
+      "timm==1.0.15",
+      "tokenizers==0.21.4",
+      "torch==2.5.1+cu121",
+      "torchmetrics==1.9.0",
+      "torchvision==0.20.1+cu121",
+      "tqdm==4.67.1",
+      "transformers==4.47.0",
+      "triton==3.1.0",
+      "typing-inspection==0.4.5",
+      "typing_extensions==4.16.0",
+      "tzdata==2026.6",
+      "urllib3==2.8.0",
+      "utils3d @ utils3d-0.0.2-py3-none-any.whl#sha256=e6674c15a840e54adc063f05e9816edf0ec533fc112dba0d986be77edd14d117",
+      "vggt @ vggt-0.0.1-py3-none-any.whl#sha256=2f25a6f22fda1b6f0c64f0dfbe795075e4f0e043eec3322fe1a1d6cf1a47f93a",
+      "wcwidth==0.9.4",
+      "werkzeug==3.1.9",
+      "yacs==0.1.8",
+      "yarl==1.25.1"
+    ],
+    "generated_boundary": {
+      "path_checks": {
+        "/content/drive": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/content/imc_ets_images.zip": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/content/imc_ns64_colab_migration.zip": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/content/ns64": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/content/ns64/ets_attempt/inference/predictions.csv": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/content/ns64/project/configs/baselines/organizer_v1/development_scoring/ETs/train_labels.csv": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/content/private.json": {
+          "accessible": false,
+          "errno": 2
+        },
+        "/kaggle/input": {
+          "accessible": true
+        },
+        "/private.json": {
+          "accessible": false,
+          "errno": 2
+        }
+      },
+      "separate_clean_runtime": true,
+      "status": "PASS"
+    },
+    "generated_environment_preamble": {
+      "peak_tree_pss_bytes": 712211456,
+      "seconds": 21.63666856000009
+    },
+    "generated_kaggle_programs": {
+      "capture": {
+        "interpreter": "/tmp/phase5a6_dioscuri/runtime/venv/bin/python",
+        "program_sha256": "b57758fb8c85bbb1c363b9e8f5ff6c9c90f8a7cd07a3709821e9f907b5a1894a"
+      },
+      "decision": {
+        "interpreter": "/tmp/phase5a6_dioscuri/runtime/venv/bin/python",
+        "program_sha256": "79653b3b03d0dc3b627fb57979df9b995a883c2a18553901bd51daa286adcdfb"
+      },
+      "original": {
+        "interpreter": "/tmp/phase5a6_dioscuri/runtime/venv/bin/python",
+        "program_sha256": "e2aae36c3801769eaa781c66e59e3ad003400b253c9423a8ee0b8109b8514fa9"
+      },
+      "trial": {
+        "interpreter": "/tmp/phase5a6_dioscuri/runtime/venv/bin/python",
+        "program_sha256": "4b645ca0da6fa9651978ac06d9795caf55e05d5cdb240eb6ed383ead4c07e936"
+      }
+    },
+    "gpu_memory": "GPU-34dd94a8-82b6-46ad-75f4-5cf4ca9c0939, 0, 14912\nGPU-68723268-4fcb-6163-c1c6-780509ec451c, 0, 14912\n",
+    "idle": {
+      "full_avg10": 0.0,
+      "gpu": [
+        [
+          "Tesla T4",
+          15360,
+          0
+        ],
+        [
+          "Tesla T4",
+          15360,
+          0
+        ]
+      ],
+      "groups": [
+        {
+          "current": 1561608192,
+          "events": {
+            "high": 0,
+            "low": 0,
+            "max": 0,
+            "oom": 0,
+            "oom_group_kill": 0,
+            "oom_kill": 0
+          },
+          "limit": 32212254720,
+          "path": "/sys/fs/cgroup"
+        }
+      ],
+      "host": {
+        "MemAvailable": 31899832320,
+        "MemTotal": 33658159104,
+        "SwapFree": 0,
+        "SwapTotal": 0
+      },
+      "totals": {
+        "pss": 127893504,
+        "rss": 149606400,
+        "uss": 113025024
+      },
+      "tree": [
+        {
+          "pid": 48,
+          "pss": 127893504,
+          "rss": 149606400,
+          "uss": 113025024
+        }
+      ]
+    },
+    "install_build_tools": {
+      "peak_tree_pss_bytes": 55890944,
+      "seconds": 3.262549339000003
+    },
+    "install_lock": {
+      "peak_tree_pss_bytes": 227257344,
+      "seconds": 216.45249883399998
+    },
+    "install_python": {
+      "peak_tree_pss_bytes": 43192320,
+      "seconds": 2.1869773640000005
+    },
+    "journal": "35ea6c250304d1fa81e490ea82219dfb62737e4076b5fb437658485326e99a4a",
+    "load_aliked": {
+      "peak_tree_pss_bytes": 1028898816,
+      "seconds": 6.519321763999983
+    },
+    "load_dinov2": {
+      "peak_tree_pss_bytes": 777036800,
+      "seconds": 6.676826723999966
+    },
+    "load_isc": {
+      "peak_tree_pss_bytes": 1295692800,
+      "seconds": 6.531417767999983
+    },
+    "load_mast3r": {
+      "peak_tree_pss_bytes": 5775195136,
+      "seconds": 15.453275467000026
+    },
+    "load_retrieval": {
+      "peak_tree_pss_bytes": 5903303680,
+      "seconds": 16.501998227999934
+    },
+    "load_superpoint": {
+      "peak_tree_pss_bytes": 608025600,
+      "seconds": 3.264656240000022
+    },
+    "mounts": {
+      "dioscuri_opaque.bin": "2390cb5c85812982edfd47d73471e548fb70e5e8f4d4d76b35674951f089fd9c",
+      "journal-35ea6c250304d1fa81e490ea82219dfb62737e4076b5fb437658485326e99a4a.json": "35ea6c250304d1fa81e490ea82219dfb62737e4076b5fb437658485326e99a4a",
+      "ns64_runtime.bin": "39e9bb97ede83c777a06f385fbe4acb27fc4665ba1556b504dc64000dcafb925"
+    },
+    "native_asmk.asmk_method": {
+      "peak_tree_pss_bytes": 439660544,
+      "seconds": 2.1880361049999806
+    },
+    "native_asmk.hamming": {
+      "peak_tree_pss_bytes": 440688640,
+      "seconds": 2.2204046420000054
+    },
+    "native_curope": {
+      "peak_tree_pss_bytes": 444496896,
+      "seconds": 2.2035922140000253
+    },
+    "native_distributed": {
+      "peak_tree_pss_bytes": 551449600,
+      "seconds": 3.276897907000034
+    },
+    "native_driver_toolkit": {
+      "peak_tree_pss_bytes": 449579008,
+      "seconds": 2.1920559970000113
+    },
+    "native_dust3r.inference": {
+      "peak_tree_pss_bytes": 449610752,
+      "seconds": 2.186094054000023
+    },
+    "native_faiss": {
+      "peak_tree_pss_bytes": 447960064,
+      "seconds": 2.186450261999994
+    },
+    "native_gpu": {
+      "peak_tree_pss_bytes": 397312,
+      "seconds": 1.1136569239999972
+    },
+    "native_kornia": {
+      "peak_tree_pss_bytes": 560569344,
+      "seconds": 3.275137789999974
+    },
+    "native_lightglue": {
+      "peak_tree_pss_bytes": 722085888,
+      "seconds": 4.362190851000037
+    },
+    "native_mast3r.model": {
+      "peak_tree_pss_bytes": 445832192,
+      "seconds": 2.191738148000013
+    },
+    "native_models._research_only.magicleap.superpoint": {
+      "peak_tree_pss_bytes": 448084992,
+      "seconds": 2.1899566349999873
+    },
+    "native_models.isc.model": {
+      "peak_tree_pss_bytes": 637725696,
+      "seconds": 4.354943993999996
+    },
+    "native_numpy": {
+      "peak_tree_pss_bytes": 422912,
+      "seconds": 1.1267019860000005
+    },
+    "native_pipeline": {
+      "peak_tree_pss_bytes": 1181642752,
+      "seconds": 9.789908596999965
+    },
+    "native_pycolmap": {
+      "peak_tree_pss_bytes": 385024,
+      "seconds": 1.11704152599998
+    },
+    "native_python": {
+      "peak_tree_pss_bytes": 385024,
+      "seconds": 1.1113945469999749
+    },
+    "native_torch": {
+      "peak_tree_pss_bytes": 635227136,
+      "seconds": 3.275635553000029
+    },
+    "native_torchvision": {
+      "peak_tree_pss_bytes": 589883392,
+      "seconds": 3.2635698459999958
+    },
+    "native_transformers": {
+      "peak_tree_pss_bytes": 441216000,
+      "seconds": 3.25739693700001
+    },
+    "preflight": "PASS",
+    "production_fixture": {
+      "peak_tree_pss_bytes": 194734080,
+      "seconds": 30.349738204000005
+    },
+    "raw_freeze_sha256": "9c7f6569276186b8238d4c568b562bc8472ab0270c7a2c9917fea4d170d3999f",
+    "selection": {
+      "CUDA_VISIBLE_DEVICES": "GPU-34dd94a8-82b6-46ad-75f4-5cf4ca9c0939",
+      "WORLD_SIZE": "1"
+    },
+    "session_seconds_remaining": 13820.058713308,
+    "stage_budget_remaining": 14400
+  },
+  "release": "fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac"
+}

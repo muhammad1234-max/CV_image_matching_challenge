@@ -1,0 +1,206 @@
+{
+  "platform": "Windows-10-10.0.19045-SP0",
+  "processor": "Intel64 Family 6 Model 60 Stepping 3, GenuineIntel",
+  "python": "3.13.7",
+  "numpy": "2.1.2",
+  "scipy": "1.17.0",
+  "blas_threads_requested": 1,
+  "fixture": "rigid, seed 17, fixed sparse construction; median of 3 in fresh process per size",
+  "rows": [
+    {
+      "n": 22,
+      "edges": 121,
+      "payload_bytes": 34506,
+      "outcome": "RETAIN",
+      "rss_before_bytes": 64524288,
+      "process_peak_working_set_bytes": 65552384,
+      "rss_after_bytes": 65548288,
+      "samples_seconds": [
+        {
+          "proposal": 0.002540799992857501,
+          "internal": 0.002551800003857352,
+          "consensus": 0.0005413000035332516,
+          "import": 0.0081044000107795,
+          "total": 0.014112700009718537
+        },
+        {
+          "proposal": 0.0016093000012915581,
+          "internal": 0.0024561000027460977,
+          "consensus": 0.0004667999892262742,
+          "import": 0.00675910001154989,
+          "total": 0.011659199997666292
+        },
+        {
+          "proposal": 0.001939099995070137,
+          "internal": 0.0028688000020338222,
+          "consensus": 0.001218500008690171,
+          "import": 0.007774900004733354,
+          "total": 0.014349800010677427
+        }
+      ],
+      "median_seconds": {
+        "import": 0.007774900004733354,
+        "proposal": 0.001939099995070137,
+        "internal": 0.002551800003857352,
+        "consensus": 0.0005413000035332516,
+        "total": 0.014112700009718537
+      }
+    },
+    {
+      "n": 51,
+      "edges": 326,
+      "payload_bytes": 91894,
+      "outcome": "RETAIN",
+      "rss_before_bytes": 65490944,
+      "process_peak_working_set_bytes": 67153920,
+      "rss_after_bytes": 67149824,
+      "samples_seconds": [
+        {
+          "proposal": 0.003699099994264543,
+          "internal": 0.007426900003338233,
+          "consensus": 0.0011497999948915094,
+          "import": 0.016915100000915118,
+          "total": 0.03001629999198485
+        },
+        {
+          "proposal": 0.0029805999947711825,
+          "internal": 0.007889899992733262,
+          "consensus": 0.0010968000133289024,
+          "import": 0.018323900003451854,
+          "total": 0.031173900002613664
+        },
+        {
+          "proposal": 0.0025202999968314543,
+          "internal": 0.009479800006374717,
+          "consensus": 0.0010873999999603257,
+          "import": 0.01694800000404939,
+          "total": 0.030890100009855814
+        }
+      ],
+      "median_seconds": {
+        "import": 0.01694800000404939,
+        "proposal": 0.0029805999947711825,
+        "internal": 0.007889899992733262,
+        "consensus": 0.0010968000133289024,
+        "total": 0.030890100009855814
+      }
+    },
+    {
+      "n": 76,
+      "edges": 514,
+      "payload_bytes": 144563,
+      "outcome": "RETAIN",
+      "rss_before_bytes": 65413120,
+      "process_peak_working_set_bytes": 67682304,
+      "rss_after_bytes": 67678208,
+      "samples_seconds": [
+        {
+          "proposal": 0.004142799996770918,
+          "internal": 0.013060500001301989,
+          "consensus": 0.002218300011008978,
+          "import": 0.027646100003039464,
+          "total": 0.04830070000025444
+        },
+        {
+          "proposal": 0.003405299998121336,
+          "internal": 0.010958200000459328,
+          "consensus": 0.0020223000028636307,
+          "import": 0.027896700004930608,
+          "total": 0.04696219999459572
+        },
+        {
+          "proposal": 0.00451220000104513,
+          "internal": 0.011254600001848303,
+          "consensus": 0.0015175000007729977,
+          "import": 0.02919119999569375,
+          "total": 0.04792759999691043
+        }
+      ],
+      "median_seconds": {
+        "import": 0.027896700004930608,
+        "proposal": 0.004142799996770918,
+        "internal": 0.011254600001848303,
+        "consensus": 0.0020223000028636307,
+        "total": 0.04792759999691043
+      }
+    },
+    {
+      "n": 138,
+      "edges": 979,
+      "payload_bytes": 274710,
+      "outcome": "RETAIN",
+      "rss_before_bytes": 65687552,
+      "process_peak_working_set_bytes": 69664768,
+      "rss_after_bytes": 69660672,
+      "samples_seconds": [
+        {
+          "proposal": 0.006500999996205792,
+          "internal": 0.022200800012797117,
+          "consensus": 0.005839699995703995,
+          "import": 0.05418849999841768,
+          "total": 0.09115059999749064
+        },
+        {
+          "proposal": 0.005887499995878898,
+          "internal": 0.02175669999269303,
+          "consensus": 0.0031002000032458454,
+          "import": 0.06167019999702461,
+          "total": 0.09530469999299385
+        },
+        {
+          "proposal": 0.005657799993059598,
+          "internal": 0.02079260000027716,
+          "consensus": 0.0023628999915672466,
+          "import": 0.05826760000491049,
+          "total": 0.08965429999807384
+        }
+      ],
+      "median_seconds": {
+        "import": 0.05826760000491049,
+        "proposal": 0.005887499995878898,
+        "internal": 0.02175669999269303,
+        "consensus": 0.0031002000032458454,
+        "total": 0.09115059999749064
+      }
+    },
+    {
+      "n": 225,
+      "edges": 1631,
+      "payload_bytes": 457425,
+      "outcome": "RETAIN",
+      "rss_before_bytes": 67444736,
+      "process_peak_working_set_bytes": 73670656,
+      "rss_after_bytes": 73666560,
+      "samples_seconds": [
+        {
+          "proposal": 0.010179699995205738,
+          "internal": 0.03620849999424536,
+          "consensus": 0.005299800002831034,
+          "import": 0.09746380000433419,
+          "total": 0.15344890000415035
+        },
+        {
+          "proposal": 0.010595600004307926,
+          "internal": 0.03861630000756122,
+          "consensus": 0.003798099991399795,
+          "import": 0.08946719999948982,
+          "total": 0.15267409999796655
+        },
+        {
+          "proposal": 0.01031189999775961,
+          "internal": 0.03923140000551939,
+          "consensus": 0.004881100001512095,
+          "import": 0.085210699995514,
+          "total": 0.1442215999995824
+        }
+      ],
+      "median_seconds": {
+        "import": 0.08946719999948982,
+        "proposal": 0.01031189999775961,
+        "internal": 0.03861630000756122,
+        "consensus": 0.004881100001512095,
+        "total": 0.15267409999796655
+      }
+    }
+  ]
+}

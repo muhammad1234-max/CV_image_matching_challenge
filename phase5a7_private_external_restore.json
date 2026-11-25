@@ -1,0 +1,15 @@
+{
+  "archive": "05666655ebe8bae2f04bb77709b02c91d7ee1e4cdcdfa97d78056eb8d9b840a6",
+  "bytes": 1196965500,
+  "incomplete_rejected": true,
+  "journal": "df8786f4d6a1fe5e0a12b913eb58c2640a4e806aca37d3003ce57bff48cac0d0",
+  "next_stage": "original",
+  "parent": "d94b02e0165a6f65426db188a8da14cc9d64e6719f984b2c8d9f41eb69b74429",
+  "producer_sha256": "9526b8549bdbfb2dd33145fef40c128d0feba3d331e16098af96517fcd1e880d",
+  "release": "a4139e05464bb7052bac562a311131667d0f92cb275e134ff79447cd12111309",
+  "retrieved_from": "/kaggle/input/notebooks/dataanalyst6969/phase5a7-custody-producer",
+  "scope": "disposable synthetic persistence",
+  "seal": "b70a28c796ab3cc2a6ce80e85936147425b2c74ee649428340d832bdf8fbe938",
+  "stale_rejected": true,
+  "status": "FIXTURE_RESTORE_PASS"
+}

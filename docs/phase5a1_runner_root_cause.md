@@ -1,0 +1,7 @@
+# Phase 5A runner defects
+
+In the frozen session.stage_run, monitored returned after any zero exit. stage_run copied capture diagnostics but had no equivalent semantic check for original. It wrote time.json, called workflow.seal, moved the directory into place, and called workflow.verify. Both seal and verify used files_in, which hashes the files present. They therefore agreed on a directory containing only time.json. session.unpack checked the external hash and paths but reused the same verify on restore. Resume verified predecessor hashes with the same omission. stage_run also skipped writing or inspecting an existing export ZIP.
+
+The trial exception handler surrounded the monitored child. It caught the simulated input-digest exception and wrote available=false with its message. workflow.select treated that flag as a normal unavailable trial, copied original predictions, and returned ABSTAIN. The negative fixture and observed historical outputs are in reports/phase5a/runner_probe.json.
+
+The replacement notebook calls Runner.run. It reads the predecessor chain before execution, preserves typed child diagnostics, checks stage content before sealing, checks the seal before publication, then reopens a temporary ZIP and checks its content. Restore uses the same validator and matches the seal to the external attempt history. Frozen workflow.select still makes the scientific choice after validation.

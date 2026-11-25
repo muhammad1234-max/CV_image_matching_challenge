@@ -1,0 +1,1 @@
+All recorded execution stages passed. One reconstructed model merged the two true scenes (28 and 23 images). The dataset has no true outliers. Coverage was complete despite imperfect clustering and limited pose accuracy. One predefined stairs order cannot establish order robustness. The two ETs runs showed identical memberships but different mAA.

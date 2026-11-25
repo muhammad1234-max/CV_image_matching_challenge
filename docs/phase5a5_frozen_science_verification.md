@@ -1,0 +1,3 @@
+# Phase 5A.5 frozen science verification
+
+The build independently checked all 45 frozen scientific paths or embedded members, the approved Phase 5A.3 notebook and its two packages, the model/configuration pins and the clean-runtime ZIP. It verified the existing opaque archive and ordered 138 image digests. Model SHA256 is 8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26. Protocol SHA256 is ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690. New operational identities are in release.json and the checked scientific identities are in scientific.json. No prospective metrics exist.

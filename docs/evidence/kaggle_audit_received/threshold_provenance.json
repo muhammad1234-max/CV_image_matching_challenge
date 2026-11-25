@@ -1,0 +1,383 @@
+{
+  "sources": [
+    {
+      "source": "train_thresholds.csv",
+      "sha256": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2",
+      "rows": [
+        {
+          "dataset": "amy_gardens",
+          "scene": "peach",
+          "thresholds": [
+            0.01,
+            0.02,
+            0.05,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "ETs",
+          "scene": "ET",
+          "thresholds": [
+            0.002,
+            0.005,
+            0.008,
+            0.01,
+            0.02,
+            0.04
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "ETs",
+          "scene": "another_ET",
+          "thresholds": [
+            0.002,
+            0.005,
+            0.008,
+            0.01,
+            0.02,
+            0.04
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "fbk_vineyard",
+          "scene": "vineyard_split_1",
+          "thresholds": [
+            0.01,
+            0.02,
+            0.05,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "fbk_vineyard",
+          "scene": "vineyard_split_2",
+          "thresholds": [
+            0.01,
+            0.02,
+            0.05,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "fbk_vineyard",
+          "scene": "vineyard_split_3",
+          "thresholds": [
+            0.01,
+            0.02,
+            0.05,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "stairs",
+          "scene": "stairs_split_1",
+          "thresholds": [
+            0.01,
+            0.02,
+            0.05,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "stairs",
+          "scene": "stairs_split_2",
+          "thresholds": [
+            0.01,
+            0.02,
+            0.05,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2023_haiper",
+          "scene": "bike",
+          "thresholds": null,
+          "valid": false
+        },
+        {
+          "dataset": "imc2023_haiper",
+          "scene": "chairs",
+          "thresholds": null,
+          "valid": false
+        },
+        {
+          "dataset": "imc2023_haiper",
+          "scene": "fountain",
+          "thresholds": null,
+          "valid": false
+        },
+        {
+          "dataset": "imc2023_heritage",
+          "scene": "cyprus",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2023_heritage",
+          "scene": "dioscuri",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2023_heritage",
+          "scene": "wall",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2023_theather_imc2024_church",
+          "scene": "kyiv-puppet-theater",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2023_theather_imc2024_church",
+          "scene": "church",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2024_dioscuri_baalshamin",
+          "scene": "dioscuri",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2024_dioscuri_baalshamin",
+          "scene": "baalshamin",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2024_lizard_pond",
+          "scene": "lizard",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "imc2024_lizard_pond",
+          "scene": "pond",
+          "thresholds": [
+            0.025,
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_brandenburg_british_buckingham",
+          "scene": "brandenburg_gate",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_brandenburg_british_buckingham",
+          "scene": "british_museum",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_brandenburg_british_buckingham",
+          "scene": "buckingham_palace",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_piazzasanmarco_grandplace",
+          "scene": "piazza_san_marco",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_piazzasanmarco_grandplace",
+          "scene": "grand_place_brussels",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_sacrecoeur_trevi_tajmahal",
+          "scene": "sacre_coeur",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_sacrecoeur_trevi_tajmahal",
+          "scene": "trevi_fountain",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_sacrecoeur_trevi_tajmahal",
+          "scene": "taj_mahal",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_stpeters_stpauls",
+          "scene": "st_peters_square",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        },
+        {
+          "dataset": "pt_stpeters_stpauls",
+          "scene": "st_pauls_cathedral",
+          "thresholds": [
+            0.05,
+            0.1,
+            0.2,
+            0.5,
+            1.0,
+            2.0
+          ],
+          "valid": true
+        }
+      ],
+      "complete": true,
+      "units": "not inferred"
+    }
+  ],
+  "synthetic_substitution": false,
+  "official_parity": "not established"
+}

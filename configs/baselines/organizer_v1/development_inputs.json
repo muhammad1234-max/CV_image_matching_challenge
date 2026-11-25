@@ -1,0 +1,7817 @@
+[
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et001.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et002.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et003.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et004.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et005.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et006.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et007.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et008.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et009.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "another_et_another_et010.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et000.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et001.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et002.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et003.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et004.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et005.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et006.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et007.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "et_et008.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "outliers_out_et001.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "outliers_out_et002.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "ETs",
+    "image": "outliers_out_et003.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0000.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0001.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0002.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0003.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0004.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0005.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0006.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0007.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0008.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0009.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0010.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0011.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0012.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0013.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0014.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0015.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0016.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0017.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0018.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0019.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0020.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0021.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0022.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0023.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0024.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0025.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0026.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0027.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0028.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0029.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0030.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0031.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0032.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0033.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0034.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0035.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0036.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0037.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0038.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0039.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0040.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0041.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0042.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0043.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0044.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0045.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0046.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0047.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0048.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0049.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0050.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0051.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0052.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0053.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0054.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0055.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0056.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0057.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0058.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0059.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0060.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0061.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0062.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0063.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0064.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0065.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0066.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0067.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0068.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0069.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0070.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0071.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0072.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0073.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0074.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0075.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0076.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0077.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0078.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0079.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0080.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0081.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0082.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0083.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0084.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0085.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0086.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0087.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0088.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0089.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0090.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0091.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0092.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0093.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0094.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0095.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0096.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0097.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0098.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0099.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0100.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0101.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0102.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0103.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0104.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0105.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0106.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0107.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0108.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0109.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0110.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0111.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0112.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0113.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0114.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0115.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0116.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0117.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0118.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0119.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0120.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0121.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0122.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0123.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0124.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0125.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0126.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0127.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0128.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0129.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0130.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0131.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0132.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0133.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0134.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0135.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0136.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0137.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0138.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0139.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0140.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0141.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0142.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0143.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0144.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0145.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0146.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0147.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0148.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0149.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0150.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0151.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0152.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0153.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0154.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0155.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0156.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0157.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0158.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0159.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0160.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0161.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0162.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0163.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0164.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0165.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0166.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0167.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0168.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0169.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0170.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0171.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0172.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0173.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0174.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0175.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0176.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0177.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0178.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0179.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0180.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0181.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0182.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0183.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0184.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0185.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0186.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0187.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0188.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0189.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0190.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0191.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0192.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0193.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0194.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0195.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0196.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0197.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0198.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "amy_gardens",
+    "image": "peach_0199.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0900.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0905.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0910.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0915.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0920.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0925.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0930.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0935.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0940.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0945.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0950.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0955.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0960.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0965.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0970.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0975.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0980.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0985.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0990.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_0995.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1000.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1005.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1010.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1015.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1020.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1025.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1030.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1035.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1040.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1045.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1050.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1055.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1060.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1065.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1070.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1075.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1080.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1085.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1090.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1095.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1100.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1105.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_1_frame_1110.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1150.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1155.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1160.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1165.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1170.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1175.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1180.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1185.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1190.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1195.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1200.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1205.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1210.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1215.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1220.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1225.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1230.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1235.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1240.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1245.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1250.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1255.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1260.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1265.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1270.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1275.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1280.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1285.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1290.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1295.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1300.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1305.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1310.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1315.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_2_frame_1320.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0070.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0075.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0080.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0085.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0090.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0095.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0100.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0105.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0110.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0115.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0120.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0125.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0130.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0135.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0140.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0145.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0150.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0155.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0160.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0165.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0170.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0175.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0180.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0185.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0190.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0195.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0200.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0205.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0210.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0215.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0220.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0225.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0230.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0235.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0240.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0245.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0250.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0255.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0260.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0265.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0270.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0275.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0280.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0285.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0290.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0295.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0300.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_0305.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1390.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1395.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1400.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1405.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1410.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1415.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1420.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1425.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1430.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1435.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1440.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1445.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1450.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1455.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1460.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1465.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1470.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1475.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1480.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1485.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1490.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1495.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1500.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1505.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1510.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1515.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1520.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1525.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1530.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1535.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1540.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1545.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1550.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1555.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1560.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1565.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "fbk_vineyard",
+    "image": "vineyard_split_3_frame_1570.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_004.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_029.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_038.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_049.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_062.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_076.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_088.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_094.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_101.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_115.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_119.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_128.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_137.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_139.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "bike_image_150.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_004.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_020.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_035.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_045.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_051.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_073.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_094.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_103.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_115.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_122.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_131.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_141.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_144.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_152.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_155.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "chairs_image_160.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_000.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_007.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_012.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_025.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_033.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_041.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_056.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_071.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_082.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_101.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_108.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_116.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_129.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_136.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_143.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_155.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_163.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_166.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_173.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_186.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_199.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_214.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "image": "fountain_image_230.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6480.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6488.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6492.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6496.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6500.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6508.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6512.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6520.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6524.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6528.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6540.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6548.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6557.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6565.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6569.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6573.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6577.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6585.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6589.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6593.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6597.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6601.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6605.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6609.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6613.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6617.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6621.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6625.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6629.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "cyprus_dsc_6633.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1516.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1520.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1524.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1541.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1548.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1561.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1563.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1566.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_3dom_fbk_img_1580.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0003.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0004.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0010.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0015.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0022.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0026.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0028.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0033.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0034.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0036.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0068.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0069.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0070.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0071.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0072.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0092.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0095.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0116.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0160.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0171.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_archive_0230.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0055.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0068.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0079.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0081.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0092.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0095.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0105.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0112.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0115.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0132.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0161.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0163.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0181.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0187.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0188.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0200.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0209.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0213.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0216.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0227.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0230.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0237.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0238.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0246.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0258.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0266.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0276.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0277.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0283.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0314.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0338.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0339.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0348.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0354.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0359.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0364.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0369.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0370.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0376.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0401.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0412.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0418.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0424.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0444.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "dioscuri_img_0460.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4115_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4120_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4122_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4125_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4127_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4128_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4129_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4165_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4167_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4176_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4177_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4178_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4473_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_dsc_4474_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3222.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3225.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3229.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3233.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3237.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3240.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3249.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3250.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3251.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3253.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3254.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3255.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3261.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_3262.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8367.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8368.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8372.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8375.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8599.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8600.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8630_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8632.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8634.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8641.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8648.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8656_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8662.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8665_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8838_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8849_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8871.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8890.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8894.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8904.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8916.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8948_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_8978_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9065.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9068.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9070.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9072.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9075.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9076.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9078.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9078_thumb.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9084.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "outliers_img_9085.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4928_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4931_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4934_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4937_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4940_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4943_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4946_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4952_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4955_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4958_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4961_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4964_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4967_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4970_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4973_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4976_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4979_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4982_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4985_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4991_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4994_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_4997_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5000_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5003_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5006_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5009_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5012_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5015_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5018_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5021_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5024_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5027_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5030_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5033_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5039_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5042_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5045_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5048_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5051_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5054_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5057_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5060_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_heritage",
+    "image": "wall_dsc_5063_acr.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00004.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00005.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00006.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00012.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00013.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00014.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00016.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00017.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00018.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00019.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00020.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00021.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00022.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00023.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00025.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00026.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00028.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00035.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00038.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00039.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00040.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00041.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00043.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00045.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00046.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00047.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00048.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00053.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00055.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00063.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00069.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00071.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00073.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00075.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00078.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00079.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00080.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00082.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00083.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00087.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00091.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00092.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00093.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00099.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00100.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00104.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00108.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00109.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00110.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "church_00111.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165343.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165418.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165449.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165549.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165608.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165612.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165641.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165700.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165703.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165709.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165722.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165737.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165748.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165811.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165815.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165822.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165845.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165920.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_165957.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170001.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170022.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170250.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170339.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170350.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170633.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "image": "kyiv_puppet_theater_img_20220127_170709.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_182z.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19144401003_5d0dee05f5_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_194d.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19577278428_e8044e854b_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19577300988_4e4ff423a7_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19577310688_5d2e78386b_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19577313278_bf436a42f4_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19578696189_92b41b9b79_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19739127926_d1f03f70ed_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19739156806_e4f69d8792_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19758050972_3e8ee37d98_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19758057422_3b2d8bf005_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19765295615_6a8758cc07_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19770021361_0a7ef660e2_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19770034361_ab8a99f3a9_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_19875043841_a36e9ccb18_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_2316.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_25.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_5740.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_5741.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_5747.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_5748.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_5821.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_8100208.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_85328479_89f3b31dfa_o.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_cimg2278.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_cimg2282.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dsc01926.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscf4498.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscf4501.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscf4642.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscf4644.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2009.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2022.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2027.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2032.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2034.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2063.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2064.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2065.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_dscn2066.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_hpim3190.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_image29.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_image6.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_img_1145.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_img_2163.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_palmyr29.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_palmyra_baalshamin.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "baalshamin_pict0818.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1512.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1517.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1522.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1538.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1542.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1549.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1554.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1562.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1564.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1565.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1571.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1573.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_3dom_fbk_img_1582.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0001.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0003.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0004.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0005.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0008.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0010.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0013.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0015.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0025.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0026.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0030.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0054.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0057.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0132.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_archive_0230.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_147.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_154.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_161.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_185.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_214.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_228.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_236.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_dioscuria_261.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0055.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0060.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0075.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0099.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0102.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0105.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0107.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0119.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0133.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0152.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0168.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0182.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0207.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0219.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0244.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0257.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0272.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0281.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0297.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0311.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0324.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0336.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0353.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0362.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0391.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0409.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_img_0461.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_templic_23.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "dioscuri_templic_30.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_04356156_8480804407.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_08766078_2117237656.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_15001797_2073024252.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_15108470_13126668493.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_16939073_1562031964.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_17617215_8679921663.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_21013750_3810761207.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_22219055_9555156398.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_22516075_5997990597.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_23943395_7008829683.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_25155127_2232385924.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_25182601_5963423001.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_25259690_2957362243.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_25404198_10162152833.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_27039750_8082864097.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_29622692_8024707719.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_29709706_5736365308.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_30202749_4422920822.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_32208117_4023556230.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_32577037_2556031968.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_36840190_2262283891.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_37941822_4613817560.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_39500842_567338329.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "image": "outliers_46207490_2755733467.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_01069771_8567470929.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_02936509_94852264.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_03300929_2790010816.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_04684290_2698969364.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_04705241_3760208106.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_06809631_5499605152.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_06935805_2163586273.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_06950806_3245016486.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_08455944_11844596793.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_08655339_301940774.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_09870003_7184351941.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_18348543_5140101294.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_18933011_9395787270.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_19431740_4837182516.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_20133057_3035445116.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_22465257_94852237.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_23128078_9800439215.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_23898581_3418292777.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_24072578_3313430186.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_26655336_6192911644.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_28221825_5139496129.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_33797050_227462369.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_35200934_73110776.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_36555276_225381350.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_38891238_3944459389.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_41213067_5831563503.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_42723789_7775854318.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_43929418_4177129462.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_47510282_2492277573.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_47521158_5096477796.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_48127186_5425905321.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_52599802_11381897224.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_52630012_12435805525.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_53208747_4264002612.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_54714905_6154442539.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_54744886_13665893353.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_59713287_6809504619.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_59826471_8014732885.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_60553649_2254779884.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_60863296_2846812457.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_68654335_2476618452.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_69037173_2735815523.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_69366784_6629915323.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_71033172_8108767503.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_71214740_51142248.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_72396943_4654565284.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_73039718_4294835156.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_74077013_184987611.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_74576406_1433639911.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_75037828_1434507967.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_76173312_1901163610.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_76177997_2293073399.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_78329459_8088722344.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_79167472_5876853278.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_80142447_1434506947.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_82089809_2789175595.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_82618295_1916872032.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_82818583_7062231077.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_85067470_51142901.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_85386984_3990647856.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_90142764_8281118641.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_90954945_7168342309.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_91333167_11075684623.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_91824386_51142061.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_92841931_3067495942.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_92884278_346751510.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_93110830_1932760362.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_93385231_5436268017.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_94029235_930442362.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_94045317_3752214176.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_97371403_4823878472.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_98157145_9159024129.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_99467148_7775852980.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_99778055_7859904484.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "brandenburg_gate_99933312_2768771111.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_03576546_367645446.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_04790098_4924719784.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_09218102_3818070255.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_09362272_3871121693.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_09740642_11372944273.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_15144115_117839432.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_17406933_4349448982.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_17892330_2218662345.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_19254317_158538587.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_19811771_3152186510.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_21021803_3610519149.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_21326450_90598151.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_21757263_3848724084.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_25308247_4757972250.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_26677707_11389887745.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_27732591_4349424252.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_27779894_6489328657.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_28309287_5482270912.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_29840064_6240820088.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_30495805_5912735553.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_31925345_5986804667.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_32161143_8079875050.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_32520806_97760578.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_39461890_106560712.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_39667919_12715742453.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_42803655_6429621523.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_45839934_4117745134.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_51111273_4980544542.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_52641281_5921667676.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_53881364_5029031037.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_54432186_6732914439.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_56818398_67603532.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_59356487_3468534134.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_60624404_7093768535.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_61744140_838726075.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_61892850_2364933018.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_62774028_4348685003.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_63647221_4349439258.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_66361736_3945101598.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_66393650_5300086486.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_66747696_4734591579.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_67471600_1224757581.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_67521166_4735236552.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_67772160_2655952816.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_67894974_9704498288.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_68914717_4070962405.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_72728072_3851668437.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_73361450_117839447.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_73406890_5043569825.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_73748105_4531531922.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_74626542_2453940576.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_76518628_3747715512.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_77196526_11613990374.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_78137733_4059821853.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_78242267_4404579754.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_78567520_2219457772.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_80976991_8342057400.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_83025239_9530039386.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_84019782_6926081795.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_84932226_4352179060.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_85835963_3490488375.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_87893778_8781019493.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_89208997_5875216727.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_90026426_4349430506.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_90095149_11613863483.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_91782790_275554656.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_92242343_4351333520.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_93658023_4980549800.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_94308218_4349427490.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_95591790_8233423442.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_96255967_5091378744.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_98018049_7167451918.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_99480770_3945403640.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_99662030_3945401118.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "british_museum_99981082_8904760272.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_04861657_8587228495.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_05394210_3325092555.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_05879148_4721852797.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_06170639_4557285016.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_08413293_4591289960.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_10097113_4343681151.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_11220321_6429817645.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_11272171_837310675.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_11299827_3665838648.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_12842704_470297372.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_14258385_9378732166.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_16774617_219184039.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_19226918_112883362.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_20371484_12209806.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_21134535_11614071253.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_21167644_8707271738.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_21697383_6430594307.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_25910232_4557319964.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_26606950_5411314264.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_28542033_5434317589.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_34791488_2406713663.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_35128922_3585104193.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_35301556_5755414976.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_35654194_9287834913.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_35686206_4081926571.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_36576167_9378677290.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_37524858_3739802247.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_37797945_4824569303.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_38217522_12120715573.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_38257186_6252086513.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_39291857_1523464373.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_39528348_6563861043.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_40942590_10086689274.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_42572558_3847795752.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_44573130_5715131949.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_46109345_5162840183.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_46810479_13785513864.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_47315604_5047670100.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_48484647_7883607208.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_49269748_4041495348.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_51699589_9343866373.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_52402986_5523235865.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_52410261_4937469812.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_54621533_151517675.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_59781164_3740564586.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_59875279_3803024920.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_61805239_2253432740.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_62469402_3202824067.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_62660707_10596782846.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_64822253_2217151982.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_66580063_2204250033.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_66580194_6996358425.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_67053735_5824219898.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_69568614_12055226536.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_70462905_5669092857.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_70979018_2078157897.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_73465264_3740611434.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_74296459_103436516.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_76669421_1878873201.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_77667400_439062740.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_80761089_1260341347.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_81876166_676507850.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_82116100_4565320676.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_82600926_8760297100.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_84522886_5954681667.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_85181405_8612250269.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_85556619_3740631958.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_86418271_9241595670.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_89205589_356802584.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_89367054_672839242.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_91446393_39141513.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_91676499_3739813019.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_93037627_13638822993.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_94455955_3929007141.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_brandenburg_british_buckingham",
+    "image": "buckingham_palace_95865994_275402759.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_02928139_3448003521.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_04739785_8198592553.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_04822190_12621366523.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_10474405_6093717701.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_11626754_2718827730.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_16385535_4660789205.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_16537684_4545274148.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_16776129_4239663609.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_16971221_7856309770.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_18725380_2402129328.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_23327088_8208333914.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_24292909_11972893303.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_28088482_1061487806.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_30642459_5864476232.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_32069695_13023252634.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_32086795_402359870.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_32188921_4453876221.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_33340964_112626481.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_34264811_99184810.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_34904068_5083153.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_35905283_32603557.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_37175111_6635304477.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_38755762_4239668423.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_39172134_3155998144.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_39702035_1808089104.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_39852107_3868092306.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_41224690_4580747259.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_42287322_536307676.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_45927449_5904684394.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_46031506_3822251715.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_46459330_5716002401.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_47029087_8959697396.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_47042061_9637017399.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_47788810_3531619701.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_48325951_2932818065.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_49896012_2400282601.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_52914810_3288295639.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_55167859_91653543.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_55297752_267282770.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_55640818_3363877988.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_55695069_9640098822.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_61531052_7402696624.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_66573940_9624143830.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_67466492_5056065534.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_68663909_1356782012.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_68688218_4738908453.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_69399539_4178098151.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_70116109_2697195876.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_70118605_5991576631.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_70724808_2779990339.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_70970334_5790897082.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_71955478_140210696.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_73084286_312927075.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_75030977_10341125684.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_75716321_3698743515.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_76611857_9600863579.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_77299481_4479618965.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_79500596_4830716729.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_80691366_2623658065.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_81282261_3885204620.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_81935357_9658163122.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_82410562_10997050704.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_85164542_170630708.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_86731151_442052253.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_87446292_3971192822.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_88008039_6208734830.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_90467261_5816977333.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_90517919_4394638107.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_91139284_7856526282.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_91671915_1791174514.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_93423882_13476569344.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_93638576_44195081.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_95021816_8071366303.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_95734826_713795234.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "sacre_coeur_98546957_2200688611.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_02760416_4808737899.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_03779515_11822031593.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_05099279_2123782505.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_05644193_4809375226.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_07292828_6865863886.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_07295255_5949580464.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_09748237_4479958542.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_15626988_320395276.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_16773607_5525472114.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_17911381_11822031993.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_21749909_452666809.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_23360557_2453971988.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_25038173_427948647.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_28658320_3250275528.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_33243562_4772593759.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_33561486_8345882977.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_33878661_5337234382.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_34892661_4479236831.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_35012799_233724898.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_35310867_4710497352.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_35871047_6486466789.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_36670333_3773568633.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_40047213_6060347747.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_40301482_6349100470.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_40357326_9141483717.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_40461214_8192836476.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_41314954_4418442825.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_45203396_7995388605.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_46195638_3569985892.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_46483850_3092227510.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_47981545_2123782613.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_48590156_9372591744.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_51297211_3293524007.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_52650931_8268706459.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_53757432_11494604856.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_54900410_4709458745.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_57532696_297637106.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_66281696_4846036976.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_67319805_2215339300.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_68263048_3884219324.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_68284397_7307804012.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_70456501_320396748.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_70518655_6429111743.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_72418664_4552163871.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_72721370_6780643247.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_73045053_2123874963.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_73346411_11842150495.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_75694348_4552162843.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_75960124_233048597.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_78595827_6619694947.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_79695821_354966524.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_80209116_3299258442.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_80696644_2234023339.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_81509461_2124556500.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_82182023_330370375.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_82967489_11494979004.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_84623051_5972175223.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_84741117_2234024581.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_85291466_3299259390.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_86821641_6619697153.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_86871041_2123874981.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_87027560_6486839789.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_87115605_383650319.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_88652653_6486332399.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_88681740_6486186923.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_89175833_3348677963.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_92344991_5630498660.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_95761991_3716491774.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_96431892_320398075.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_96947007_371077369.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_97524709_11495119913.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_97855310_320398500.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_99106990_5972735988.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_99238567_2155545598.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "taj_mahal_99395911_415466662.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_00358444_4165248133.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_01241225_4293371290.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_01404558_5160423697.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_09071644_2938441433.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_14195208_276265172.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_15038544_3727504813.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_16517106_11484965983.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_16771025_6187661240.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_17378230_8657377873.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_17750259_5579050866.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_17804574_3525103748.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_17973182_5956257468.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_18865921_5109712344.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_19939802_5963665770.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_21017479_3693575843.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_21324671_251787492.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_22494549_5871994022.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_22555231_8007352373.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_26921609_5411058517.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_27009206_5185352408.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_29250228_5522743340.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_29511430_5519433926.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_30002765_4759346847.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_30069642_3966141600.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_30910735_201249046.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_33816922_8591444000.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_34630714_3685665828.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_38993702_4733402071.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_40184297_2989394429.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_41815199_3578791286.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_42098841_2972162031.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_43321508_5715952972.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_48230932_8038671426.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_50357199_8205859052.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_52144216_2711106071.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_54470469_2296508341.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_55838538_4636348360.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_56026722_4376692497.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_56493755_3454995877.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_58525833_5956866479.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_58732203_2711105477.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_59883665_3581996971.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_64273020_5411668132.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_66347814_2029982255.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_66677085_4725569846.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_69481877_5327669439.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_70315674_7178465185.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_71421235_8100441323.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_72669213_5987184866.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_73284018_2156414038.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_74305025_425098856.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_75017867_5746101695.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_75810419_3515709926.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_78010545_349314185.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_78723734_3158991011.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_78842056_325218062.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_79598868_8555774052.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_80167621_5886522855.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_81409989_5495330211.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_84357746_4061156508.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_85397053_1435622623.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_86451018_5200654015.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_89086898_3494993799.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_90077341_5746101059.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_90669518_8321386929.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_91266839_729663994.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_91729188_430652744.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_92808638_88785341.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_93831605_13948911711.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_94682384_4342842330.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_95794971_4901889397.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_96647518_7739315718.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_98071474_3495805188.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_98446525_8467892061.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_sacrecoeur_trevi_tajmahal",
+    "image": "trevi_fountain_99804374_8024711160.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_00162897_2573777698.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_00593112_5162872967.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_01024897_4276850874.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_01207461_5308976270.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_01405760_428260779.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_02139247_2294669227.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_02796054_3846089993.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_04223687_109190093.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_04913236_119772663.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_05641764_12250203953.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_06850079_5924336712.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_07127770_6944612870.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_07173502_9664669062.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_08212369_4763831145.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_08811062_7652433566.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_15340635_6286567877.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_15717585_5849870034.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_15866879_138904614.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_16273036_6590036823.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_16894231_3531570752.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_16950686_8459946808.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_18009039_2159636076.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_18206585_1326228024.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_19156543_414105990.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_19750027_343386986.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_20239254_119772598.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_22051479_11389229645.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_22597499_4761259569.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_23624636_5162872877.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_28850329_4038914991.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_29137875_1898785145.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_29687506_6744340327.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_31055607_5795560563.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_34381859_7319928252.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_35236682_3866876026.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_36924691_6406659277.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_37031536_5918950469.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_37175263_9450449849.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_37347628_10902811376.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_37670824_2154551459.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_37863559_4180603861.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_37891131_11165782483.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_43920096_10906605833.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_44160609_6465554263.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_45685596_2848901240.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_47854767_3623008711.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_49523263_2763776233.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_50777283_4936535855.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_51592699_1165340842.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_57396867_1162831381.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_59351891_5209994388.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_60046937_167213677.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_60576713_6612091735.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_61359543_7319932086.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_61499819_8185541808.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_61565132_8158727335.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_61928556_183808445.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_62295984_6069707235.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_62683867_5924337162.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_62837228_5299508393.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_62863183_527769429.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_63162714_8395296503.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_64178508_2848319812.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_64682734_3599756412.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_65579340_8658903934.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_66235659_2635311972.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_66281560_69430718.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_66354598_8658993474.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_72125766_3947493463.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_72419011_510114579.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_72783275_3199359396.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_74628702_527678504.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_75319895_8696585631.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_75906168_9021331.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_76072058_330233851.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_76302715_6756627863.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_77160340_9329931708.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_77730672_2187628006.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_78098197_5849317301.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_78172907_4888149381.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_79023023_183808253.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_79100344_12250598976.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_79454276_6423703259.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_79467047_6166196003.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_79907102_3247748633.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_80420443_8644508595.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_86793288_81064886.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_87389732_138449670.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_88075832_10885187075.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_88095326_6571972013.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_89029188_167214313.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_89408252_1252638430.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_89944336_8704609569.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_92227797_2634489539.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_92567399_6203586908.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_92611863_4804339601.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_93701474_6332090181.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_94451439_81070120.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_95155835_6249315212.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_pauls_cathedral_95298370_81064887.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_01086691_5427945640.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_01113045_2151200754.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_03091803_3301752366.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_03746789_4463922325.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_03988695_8001663418.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_04610226_4103646673.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_04687924_2163037290.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_05036686_9559490324.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_05894880_3961210476.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_07459783_2116496273.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_09150846_12806538585.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_11170243_108218811.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_12334689_522974921.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_14434211_3241927710.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_16459160_169609859.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_16560660_87393276.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_17992917_296706864.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_18412179_6172244512.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_18948310_1391071648.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_20328156_5873219320.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_21905075_5452965061.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_22421524_4050930227.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_22746486_9560856076.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_24059795_9603235434.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_24636762_4089050891.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_24719115_774461939.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_27722146_2540992403.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_27821246_220471245.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_29679303_181377461.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_32164473_4104406816.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_33011793_12700964863.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_33563670_5242619236.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_35727766_2927321004.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_36268301_7354161880.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_37466637_151112376.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_40696807_2666761892.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_41659819_2070196997.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_43335638_88784147.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_44390759_5115213112.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_44455970_5746646894.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_44478569_2733152198.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_45146398_300508266.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_45336170_8518744916.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_46268845_5210431.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_46663883_6534848061.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_47361588_602059416.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_48141965_9536256202.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_48496249_4257721183.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_50829067_6827571714.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_51093586_7936643532.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_51383333_4555047040.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_55218853_3759440157.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_56468077_4089051561.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_57090695_8548496597.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_57954696_5417448065.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_58474381_9559488022.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_58475035_2122656414.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_60121796_5502368748.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_60793175_3515361889.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_60887425_4988344850.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_61199489_492461058.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_61596216_926981615.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_64157046_4825759910.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_64605808_5986711471.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_64856605_10034558183.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_67407966_4358094261.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_70326181_5251675186.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_70611917_5987268232.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_71743967_13589039945.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_71826517_5746260945.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_72710271_9087579115.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_72862254_5114619647.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_73950904_275489778.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_74059884_5303611340.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_74375638_1347790951.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_77282490_453023076.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_78236367_3680548187.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_79673014_480541710.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_79705761_286952048.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_80363066_1340868362.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_84026672_4257874044.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_84278273_4258469058.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_84356787_41289007.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_84897883_3397284524.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_85112064_8554016061.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_85174888_2795417037.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_87967653_2756655360.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_89231283_4583657302.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_91440455_2973906531.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_92930792_3241113575.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_93827329_275493871.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_93849170_8602630853.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_94126033_8728856148.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_94275623_8588288449.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_95260621_11241567214.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_95364400_2795430893.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_95709487_7541298516.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_96944137_5746647680.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_96961885_104769206.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "pt_stpeters_stpauls",
+    "image": "st_peters_square_97299190_230228215.png",
+    "partition": "dev_b"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453576271.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453601885.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453606287.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453612890.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453616892.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453620694.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453626698.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453643106.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453651110.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453659313.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453663515.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453667117.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453668718.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453675921.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453678922.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453683725.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453689727.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453693529.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453697531.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453704934.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453901046.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453912451.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453930259.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453947066.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453955270.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453963274.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453985484.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_1_1710453990286.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453720741.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453725143.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453728949.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453733751.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453736752.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453739354.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453740954.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453745156.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453753160.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453756762.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453759963.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453765165.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453774370.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453779372.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453783374.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453786375.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453790978.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453793579.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453798181.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453801783.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453805788.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453862225.png",
+    "partition": "dev_a"
+  },
+  {
+    "dataset": "stairs",
+    "image": "stairs_split_2_1710453871430.png",
+    "partition": "dev_a"
+  }
+]

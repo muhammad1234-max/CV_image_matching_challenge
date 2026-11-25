@@ -1,0 +1,17 @@
+usage: __main__.py competitions submit [-h] [-f FILE_NAME] [-k KERNEL]
+                                       -m MESSAGE [-v VERSION] [-q]
+                                       [--sandbox]
+                                       [competition]
+
+options:
+  -h, --help            show this help message and exit
+  competition           Competition URL suffix (use "kaggle competitions list" to show options)
+                        If empty, the default competition will be used (use "kaggle config set competition")"
+  -f, --file FILE_NAME  File for upload (full path), or the name of the output file produced by a kernel (for code competitions)
+  -k, --kernel KERNEL   Name of kernel (notebook) to submit to a code competition
+  -m, --message MESSAGE
+                        Message describing this submission
+  -v, --version VERSION
+                        Version of kernel to submit to a code competition, e.g. "3"
+  -q, --quiet           Suppress printing information about the upload/download progress
+  --sandbox             Mark submission as a sandbox submission (competition hosts/admins only)

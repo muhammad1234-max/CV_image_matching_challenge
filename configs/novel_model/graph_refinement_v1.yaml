@@ -1,0 +1,10 @@
+seed: 20261111
+trials: 20
+exponent_range: [0.65, 1.35]
+max_ratio: 0.30
+max_overlap: 0.20
+min_stability: 0.90
+min_boundary: 2
+min_side_images: 6
+eigengap_min: 1.0e-8
+tie_tolerance: 1.0e-10

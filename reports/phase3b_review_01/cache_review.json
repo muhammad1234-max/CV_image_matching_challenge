@@ -1,0 +1,8 @@
+{
+  "archive_integrity": "PASS",
+  "archive_sha256": "ded2315f71a93027cc6f60b67e8027b29fa2500f9b6bf0e2be2070b93142e2c1",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/ETs/F/colmap.db"
+  ],
+  "interpretation": "F database absent from cache: exporter excludes artifacts whose current bytes differ from their stage checkpoint. F must rerun if needed; completed predictions independently validated."
+}

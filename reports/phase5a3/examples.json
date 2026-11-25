@@ -1,0 +1,223 @@
+{
+  "after": {
+    "capture": {
+      "benchmark": {
+        "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+        "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+        "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+        "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+      },
+      "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+      "config_sha256": "237b459efbbbef24c91e79c22a9a65dcba5f368c19efd68309b7fff8bb4ec2d5",
+      "experiment_id": "ns64_isolated_v1_imc2024_dioscuri_baalshamin_20261111",
+      "method_id": "ns64_mast3rhybrid_022c",
+      "permutation_sha256": "7a5fb45b157015000a675453c0f758395bafea3561d1a0ed1c612c10da9f1745",
+      "seed": 20261111,
+      "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+    },
+    "original": {
+      "benchmark": {
+        "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+        "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+        "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+        "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+      },
+      "branch_execution": {
+        "candidate_config": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+        "dataset": "imc2024_dioscuri_baalshamin",
+        "mapper_logical_sha256": "6909f0b09a9a74975ff32984ef8a9aec9382615d816dd08cc5718eb0d8f2a380",
+        "outputs": {
+          "branch.json": "c9eb66a7448dbf0095e3927cf19f2542c145b757b5c015ddee521b33159b9751",
+          "errors.npz": "2a5b60d98a07d877e50a11dc6733b6a37e58c6cba4a5fc9bb84d699d54c7599f",
+          "input.json": "1e0947e3aaf319a7d5e05b0385f9e595eae6838ba286d65a71024c3511a8b1ea",
+          "prediction.csv": "1935770feb6f950e426d996692861ac1ba43b189a5206c1bd6da03acf64dcf56"
+        },
+        "parent": "419e3391d5f620cf62773e706ae09fffc41c680276b150fd65d83119c9a57f51",
+        "predecessors": {
+          "capture": "edd06376d2550536b33d464d92845ce29c48a10b544cb5c59e5216e616cf4b65"
+        },
+        "proposed_mask": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+        "runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+        "schema": "phase5a3.branch.1",
+        "stage": "original",
+        "status": "COMPLETE",
+        "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+      },
+      "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+      "config_sha256": "237b459efbbbef24c91e79c22a9a65dcba5f368c19efd68309b7fff8bb4ec2d5",
+      "experiment_id": "ns64_isolated_v1_imc2024_dioscuri_baalshamin_20261111",
+      "method_id": "ns64_mast3rhybrid_022c",
+      "permutation_sha256": "7a5fb45b157015000a675453c0f758395bafea3561d1a0ed1c612c10da9f1745",
+      "seed": 20261111,
+      "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+    },
+    "trial": {
+      "benchmark": {
+        "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+        "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+        "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+        "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+      },
+      "branch_execution": {
+        "candidate_config": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+        "dataset": "imc2024_dioscuri_baalshamin",
+        "mapper_logical_sha256": "c46d7db77a00b46a2420d443517fbf6d13417ff7d81bd5bdf94efb56f2f3e504",
+        "outputs": {
+          "branch.json": "7128c2feb1a535f8606d836ec5414de5510616b554e4fc730169b1e4df72e59c",
+          "errors.npz": "2a5b60d98a07d877e50a11dc6733b6a37e58c6cba4a5fc9bb84d699d54c7599f",
+          "input.json": "dcfb619cb4941ac1946fc7089b1d653aea4f775b91c412f1d799dc8e867f5036",
+          "prediction.csv": "22bc69685337214055b44db966a15c142432bdb6218d67668fb265595e6f2e0f"
+        },
+        "parent": "419e3391d5f620cf62773e706ae09fffc41c680276b150fd65d83119c9a57f51",
+        "predecessors": {
+          "capture": "edd06376d2550536b33d464d92845ce29c48a10b544cb5c59e5216e616cf4b65",
+          "original": "75f3c3612ef7dd2746a466e08f12577b68f7f361f5defbf3a92dfedc1cd8e5b7"
+        },
+        "proposed_mask": "dc1accab8d04fcc607b399d4413deb4b20486ee3e4a33c033429fc7dbc7e5d7f",
+        "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+        "runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+        "schema": "phase5a3.branch.1",
+        "stage": "trial",
+        "status": "COMPLETE",
+        "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+      },
+      "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+      "config_sha256": "237b459efbbbef24c91e79c22a9a65dcba5f368c19efd68309b7fff8bb4ec2d5",
+      "experiment_id": "ns64_isolated_v1_imc2024_dioscuri_baalshamin_20261111",
+      "method_id": "ns64_mast3rhybrid_022c",
+      "permutation_sha256": "7a5fb45b157015000a675453c0f758395bafea3561d1a0ed1c612c10da9f1745",
+      "seed": 20261111,
+      "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+    }
+  },
+  "decision": {
+    "action": "REJECT",
+    "final_sha256": "1935770feb6f950e426d996692861ac1ba43b189a5206c1bd6da03acf64dcf56",
+    "original_sha256": "1935770feb6f950e426d996692861ac1ba43b189a5206c1bd6da03acf64dcf56",
+    "per_image": {
+      "image_0000.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0001.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0002.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0003.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0004.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0005.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0006.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0007.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0008.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0009.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0010.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      },
+      "image_0011.png": {
+        "common": 40,
+        "cost_delta_px": 0.0,
+        "gained": 0,
+        "hard": 40,
+        "hard_common": 40,
+        "lost": 0,
+        "original": 40
+      }
+    },
+    "reason": "insufficient improvement on both sides",
+    "selected": "original"
+  },
+  "previous_generated_identity": {
+    "capture": true,
+    "original": false,
+    "trial": false
+  },
+  "scope": "Synthetic child execution only",
+  "seals": {
+    "capture": "edd06376d2550536b33d464d92845ce29c48a10b544cb5c59e5216e616cf4b65",
+    "decision": "824d017286018697647b5c1e5e81a5376062bbfaaacd08b29bb1fc86d8e2da83",
+    "original": "75f3c3612ef7dd2746a466e08f12577b68f7f361f5defbf3a92dfedc1cd8e5b7",
+    "trial": "75f8380e5069e779aff6b4700e7ba0cf9b01e18acb56f226bffaa5dfd6f6091b"
+  }
+}

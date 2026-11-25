@@ -1,0 +1,3 @@
+# Phase 5A.5 checkpoint persistence
+
+The first notebook produces a synthetic SQLite capture, validates it, seals and exports it, saves its complete journal, and restores it under the same revision. phase5a5_synthetic_checkpoint.bin contains only this disposable fixture. Independently retain its SHA256 from the JSON output. The second notebook checks the external digest, verifies the registered capture seal and journal in a fresh directory, and confirms that original is the next stage. A file left in working storage has not yet demonstrated cross-session recovery. Completion requires the second session's SYNTHETIC_CUSTODY_RESTORED receipt.

@@ -1,0 +1,98 @@
+{
+  "scores": {
+    "participant": {
+      "combined_score": 0.5628763937749686,
+      "maa": 0.4097222222222222,
+      "clusterness": 0.898876404494382
+    },
+    "prose_sensitivity": {
+      "combined_score": 0.5628763937749686,
+      "maa": 0.4097222222222222,
+      "clusterness": 0.898876404494382
+    }
+  },
+  "true_scene_count": 2,
+  "true_outliers": 24,
+  "predicted_outliers": 7,
+  "predicted_clusters": 7,
+  "diagnostics": {
+    "false_outliers": 7,
+    "missed_outliers": 24,
+    "merged_clusters": {
+      "cluster2": [
+        "baalshamin",
+        "dioscuri"
+      ]
+    },
+    "split_scenes": {
+      "baalshamin": [
+        "cluster0",
+        "cluster2"
+      ],
+      "dioscuri": [
+        "cluster2",
+        "cluster3",
+        "cluster4",
+        "cluster5",
+        "cluster6"
+      ]
+    },
+    "contingency": [
+      {
+        "true_scene": "baalshamin",
+        "predicted_scene": "cluster0",
+        "images": 47
+      },
+      {
+        "true_scene": "baalshamin",
+        "predicted_scene": "cluster2",
+        "images": 1
+      },
+      {
+        "true_scene": "baalshamin",
+        "predicted_scene": "outliers",
+        "images": 1
+      },
+      {
+        "true_scene": "dioscuri",
+        "predicted_scene": "cluster2",
+        "images": 14
+      },
+      {
+        "true_scene": "dioscuri",
+        "predicted_scene": "cluster3",
+        "images": 33
+      },
+      {
+        "true_scene": "dioscuri",
+        "predicted_scene": "cluster4",
+        "images": 5
+      },
+      {
+        "true_scene": "dioscuri",
+        "predicted_scene": "cluster5",
+        "images": 3
+      },
+      {
+        "true_scene": "dioscuri",
+        "predicted_scene": "cluster6",
+        "images": 4
+      },
+      {
+        "true_scene": "dioscuri",
+        "predicted_scene": "outliers",
+        "images": 6
+      },
+      {
+        "true_scene": "outliers",
+        "predicted_scene": "cluster0",
+        "images": 9
+      },
+      {
+        "true_scene": "outliers",
+        "predicted_scene": "cluster1",
+        "images": 15
+      }
+    ]
+  }
+}

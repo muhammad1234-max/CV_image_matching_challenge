@@ -1,0 +1,7 @@
+# WARNING — ORDER SENSITIVE
+
+For each of the three pairwise comparisons, all 231 same-scene decisions agree and the adjusted Rand index is 1. Each predicted outlier is treated as a singleton for pair comparisons. Image-level outlier disagreements are zero. Both true scenes, containing ten and nine images, were recovered intact in each run.
+
+On the participant and sensitivity evaluations, seed 20261111 lost 0.038462 mAA and 0.036984 combined relative to the historical run. Seed 20261112 matched both historical scores. These are changes in the scored pose outcome with identical registration counts. No tolerance was fitted to these observations.
+
+After proper similarity alignment within each scene, relative camera-center RMS differences between neutral runs were 0.000785 and 0.000740 for the ten- and nine-image scenes. Raw comparison values are in verified.json. COLMAP logged initialization with database image IDs (12,18) and (15,17) in the first run, and (5,9) and (22,11) in the second. IDs are run-local. They cannot by themselves identify a change in the underlying initialization pair. Published pipeline initialization calls set_random_seed with the configuration seed. Changing opaque order changes image indexing, and incremental reconstruction includes initial-pair selection and bundle adjustment. One run per order cannot separate these mechanisms or estimate same-order repeat variability.

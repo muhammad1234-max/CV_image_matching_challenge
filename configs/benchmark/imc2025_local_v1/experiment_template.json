@@ -1,0 +1,23 @@
+{
+  "benchmark_version": null,
+  "benchmark_hash": null,
+  "git_commit": null,
+  "code_snapshot_sha256": null,
+  "dataset_inventory_hash": null,
+  "split_hash": null,
+  "evaluator_hash": null,
+  "threshold_hash": null,
+  "model_config_hash": null,
+  "weights_hashes": null,
+  "environment": null,
+  "seeds": null,
+  "runtime_seconds": null,
+  "cpu_peak_memory_bytes": null,
+  "gpu_peak_memory_bytes": null,
+  "per_dataset": null,
+  "submission_format_checks": null,
+  "role": null,
+  "experiment_id": null,
+  "baseline_reference_id": null,
+  "evaluation_partition": null
+}

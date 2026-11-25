@@ -1,0 +1,86 @@
+{
+  "checked": [
+    {
+      "file": "imc_ns64_order_seed_20261111.zip",
+      "numerical_members": [],
+      "sha256": "c209c3e8c3551dfe28ac042fe58bf773b7eeada35718fee2a87de727080a3309"
+    },
+    {
+      "file": "imc_ns64_stairs_worker_20261111.zip",
+      "numerical_members": [],
+      "sha256": "c4f74f7900f34d684f9fea12651dd9ab75f3ae3ce24194e36ab692bfed474c14"
+    },
+    {
+      "file": "reports/phase3c7/worker.zip",
+      "numerical_members": [],
+      "sha256": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9"
+    },
+    {
+      "file": "imc_ns64_imc2023_theather_imc2024_church_worker_20261111 (1).zip",
+      "numerical_members": [],
+      "sha256": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93"
+    },
+    {
+      "file": "phase4f_active_return.zip",
+      "numerical_members": [],
+      "sha256": "65c6d464b871bf14317be575c8d95ea505b17f9595b947ec0f303f1514ea1648"
+    },
+    {
+      "file": "phase4f_pass_through_return.zip",
+      "numerical_members": [],
+      "sha256": "7474d5378e7424bb28a14f995f9cfa266381141e21a2a57e6835cf2ea4d9deab"
+    },
+    {
+      "file": "phase4g1_imc2023_theather_imc2024_church_return.zip",
+      "numerical_members": [],
+      "sha256": "fb1cbaf236368c195c40716ff49fc4d0105d8704795d073975535d877411a420"
+    },
+    {
+      "file": "phase4g_stairs_outputs/phase4g1_stairs_return.zip",
+      "numerical_members": [],
+      "sha256": "8c3d012b9d08242807a25b274b39d320e921ecff333fc260c47aad25575e2c2e"
+    },
+    {
+      "file": "phase4g_stairs_outputs/phase4g_stairs_return.zip",
+      "numerical_members": [],
+      "sha256": "3f46111feb4b9fd983d38fff8ff1fda63fccf349a6769e8716f58ed9f02f1b56"
+    },
+    {
+      "file": "phase4g_theather_church_outputs/phase4g1_imc2023_theather_imc2024_church_return.zip",
+      "numerical_members": [],
+      "sha256": "fb1cbaf236368c195c40716ff49fc4d0105d8704795d073975535d877411a420"
+    },
+    {
+      "file": "phase4g_theather_church_outputs/phase4g_imc2023_theather_imc2024_church_return.zip",
+      "numerical_members": [],
+      "sha256": "38eda7d9a2a226198e2bf148f14fc781afd07191a6576409cc2fe79a90946a5f"
+    }
+  ],
+  "external_session_verified": false,
+  "historical_workspace_search": {
+    "archives": 104,
+    "hits": [],
+    "loose": [],
+    "nested": 27,
+    "uninspected": []
+  },
+  "independent_inputs": {
+    "fbk_vineyard": {
+      "parent_available": false,
+      "present": false
+    },
+    "imc2024_dioscuri_baalshamin": {
+      "bytes": 313857668,
+      "parent_available": false,
+      "permutation": "1b7bc97f6f54a2f5daa967a06e67211cd565f84d2d9403cd60f1faa50af543b0",
+      "present": true,
+      "sha256": "2390cb5c85812982edfd47d73471e548fb70e5e8f4d4d76b35674951f089fd9c"
+    }
+  },
+  "local_nvidia_smi": null,
+  "numerical_parent": {
+    "bytes": 18407424,
+    "dataset": "imc2023_haiper",
+    "sha256": "9d088fd433baee7e4101ab25a8b7f5fedf405c8342c1bc779f88ef911c32051a"
+  }
+}

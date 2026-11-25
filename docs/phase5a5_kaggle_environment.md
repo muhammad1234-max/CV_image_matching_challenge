@@ -1,0 +1,3 @@
+# Phase 5A.5 kaggle environment
+
+The compatibility kit runs in disposable /tmp storage. Its embedded operational source and both notebook digests are recorded in reports/phase5a5/release.json. The deployed notebook uses /kaggle/input for digest-allowlisted artifacts and /kaggle/working for small downloadable outputs. Fresh generated scripts select the configured venv interpreter, runtime, opaque archive, GPU inventory and actual pip freeze. The old scientific worker and its original kit are pinned. The compatibility notebook exercises generated programs with synthetic inputs. Full capture is outside this release phase.

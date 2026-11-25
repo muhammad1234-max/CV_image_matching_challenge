@@ -1,0 +1,158 @@
+{
+  "final_scores": {},
+  "haiper_fixed_comparison": {
+    "active": {
+      "registered": 54,
+      "rss_kib": 734516,
+      "scores": {
+        "participant": {
+          "clusterness": 1.0,
+          "combined_score": 0.8498402555910544,
+          "maa": 0.7388888888888888
+        },
+        "prose_sensitivity": {
+          "clusterness": 1.0,
+          "combined_score": 0.8498402555910544,
+          "maa": 0.7388888888888888
+        }
+      },
+      "seconds": 379.5216025609998
+    },
+    "pass_through": {
+      "registered": 54,
+      "rss_kib": 767288,
+      "scores": {
+        "participant": {
+          "clusterness": 0.6352941176470588,
+          "combined_score": 0.685551871151113,
+          "maa": 0.7444444444444445
+        },
+        "prose_sensitivity": {
+          "clusterness": 0.6352941176470588,
+          "combined_score": 0.685551871151113,
+          "maa": 0.7444444444444445
+        }
+      },
+      "seconds": 447.82844331399974
+    }
+  },
+  "historical_design_sets": [
+    {
+      "archive": "c209c3e8c3551dfe28ac042fe58bf773b7eeada35718fee2a87de727080a3309",
+      "dataset": "ETs",
+      "ns64": {
+        "clusterness": 1.0,
+        "combined_score": 0.5945945945945945,
+        "maa": 0.4230769230769231
+      },
+      "organizer": {
+        "clusterness": 0.4318181818181818,
+        "combined_score": 0.345873786407767,
+        "maa": 0.28846153846153844
+      },
+      "registration": {
+        "clusters": 2,
+        "outliers": 3,
+        "registered": 19,
+        "sha256": "501e0a5e68cf090cc96a0fec9cfbd8b8c361d2d27b026de973b69c90f5c65805"
+      },
+      "resources": {
+        "peak_gpu_allocated_bytes": 5993737216,
+        "peak_gpu_reserved_bytes": 9412018176,
+        "worker_peak_rss_kib": 6340560
+      },
+      "seconds": 364.1738361450007
+    },
+    {
+      "archive": "c4f74f7900f34d684f9fea12651dd9ab75f3ae3ce24194e36ab692bfed474c14",
+      "dataset": "stairs",
+      "ns64": {
+        "clusterness": 0.5,
+        "combined_score": 0.16666666666666669,
+        "maa": 0.1
+      },
+      "organizer": {
+        "clusterness": 0.5,
+        "combined_score": 0.05263157894736842,
+        "maa": 0.027777777777777776
+      },
+      "registration": {
+        "clusters": 1,
+        "outliers": 0,
+        "registered": 51,
+        "sha256": "de79869b7aef29284f65d04fe4df7289abdf259d87119fafdd3b8c3f71801ea7"
+      },
+      "resources": {
+        "peak_gpu_allocated_bytes": 5465738752,
+        "peak_gpu_reserved_bytes": 5916065792,
+        "worker_peak_rss_kib": 6343916
+      },
+      "seconds": 1016.559124938
+    },
+    {
+      "archive": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9",
+      "dataset": "imc2023_haiper",
+      "ns64": {
+        "clusterness": 0.6352941176470588,
+        "combined_score": 0.685551871151113,
+        "maa": 0.7444444444444445
+      },
+      "organizer": {
+        "clusterness": 0.6352941176470588,
+        "combined_score": 0.6315135834411384,
+        "maa": 0.6277777777777778
+      },
+      "registration": {
+        "clusters": 2,
+        "outliers": 0,
+        "registered": 54,
+        "sha256": "ea7077161376f1cce483ea97ef560f17dd1d5d9413c73d2c235bafdae00e10ba"
+      },
+      "resources": {
+        "peak_gpu_allocated_bytes": 5367882752,
+        "peak_gpu_reserved_bytes": 5928648704,
+        "worker_peak_rss_kib": 6807396
+      },
+      "seconds": 1086.6158454099987
+    },
+    {
+      "archive": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93",
+      "dataset": "imc2023_theather_imc2024_church",
+      "ns64": {
+        "clusterness": 1.0,
+        "combined_score": 0.6570743405275778,
+        "maa": 0.4892857142857142
+      },
+      "organizer": {
+        "clusterness": 0.5,
+        "combined_score": 0.3832599118942731,
+        "maa": 0.3107142857142857
+      },
+      "registration": {
+        "clusters": 2,
+        "outliers": 1,
+        "registered": 75,
+        "sha256": "819e78249e759f7d752112f4a3f91e7bfaeab5cbdd6e387de4719c38055c629a"
+      },
+      "resources": {
+        "peak_gpu_allocated_bytes": 6008265728,
+        "peak_gpu_reserved_bytes": 7472152576,
+        "worker_peak_rss_kib": 6329292
+      },
+      "seconds": 2164.2149544840004
+    }
+  ],
+  "prospective_groups_completed": 0,
+  "v2": {
+    "decision": {
+      "observations": {},
+      "reason": "affected point loss",
+      "selected": "pass_through"
+    },
+    "model": "af0eaa71875e61f265284e45fb13b2770b1bd711e4ec7941873c53832be02c01",
+    "package": "e9fde9686c7890b3c23b1569b26c53bce8a042c831285c2ffc79c782b56d1511",
+    "parent": "9d088fd433baee7e4101ab25a8b7f5fedf405c8342c1bc779f88ef911c32051a",
+    "plan": "5dba7362ecf4f5052e22a5bdf61a3ac1e4807cef2f7b55ed3ea8e843ca0a6504",
+    "selected_sha256": "44e7f97c6e04a180d8e0cafba12ee325acc199250866e416bfe7616c6e9ed769"
+  }
+}

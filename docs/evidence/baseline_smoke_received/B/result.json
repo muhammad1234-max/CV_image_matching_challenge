@@ -1,0 +1,15 @@
+{
+  "stage": "B",
+  "status": "PASS",
+  "metrics": {
+    "images": 22,
+    "embedding_shape": [
+      22,
+      768
+    ]
+  },
+  "runtime_seconds": 21.32949097200003,
+  "gpu_peak_allocated_bytes": 368589824,
+  "gpu_peak_reserved_bytes": 411041792,
+  "cpu_peak_rss_bytes": 1576189952
+}

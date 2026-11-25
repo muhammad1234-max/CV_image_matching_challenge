@@ -1,0 +1,16 @@
+version: reconstruction_feedback_v2
+authorized: {stairs: 51, imc2023_theather_imc2024_church: 76}
+seed: 20261111
+dataset_trial_cap: 1
+min_side_images: 6
+eigengap_min: 1.0e-8
+tie_tolerance: 1.0e-10
+minimum_retention: 0.95
+minimum_common_per_image: 30
+pixel_margin: 0.05
+deadline_seconds: 5400
+export_reserve_seconds: 90
+rss_budget_gib: 12
+gpu_budget: one free Tesla T4
+proposal: minimum median crossing endpoint Jaccard among connected Fiedler sweep proposals
+fallback: unchanged pass-through

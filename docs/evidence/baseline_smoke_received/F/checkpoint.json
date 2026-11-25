@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "cache_key": "511c9d02d6e72772c079a21826e6248614857bf9c9d83488d2cab0b04d447a6e",
+  "artifacts": {
+    "result.json": "8d7eff59d1d8a60ee212b62c3bdcbde409ff2cc4c6523ad540b38d45cf4c9841",
+    "colmap.db": "86258b4f1cdc3ec65afc151320f8bcd6d44034aa8d2f0c6fe47513f0fae83119",
+    "matches.h5": "e9954270f8df7fe4d4e8a11881f31dcd4f8068f9892effbf2de0ff9b07f49001",
+    "descriptors.h5": "f3f869942d98f381169fcc937e93165757cd65baf08168795022e1d18c8adcfe",
+    "keypoints.h5": "09eee59605b5b1f6b1f0aeaf9f42df799e1035e5ce760eba0a8853eaa6b8246f"
+  }
+}

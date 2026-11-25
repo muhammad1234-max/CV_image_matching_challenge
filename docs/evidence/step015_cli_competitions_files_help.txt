@@ -1,0 +1,18 @@
+usage: __main__.py competitions files [-h] [-v | --format OUTPUT_FORMAT] [-q]
+                                      [--page-token PAGE_TOKEN]
+                                      [--page-size PAGE_SIZE]
+                                      [competition]
+
+options:
+  -h, --help            show this help message and exit
+  competition           Competition URL suffix (use "kaggle competitions list" to show options)
+                        If empty, the default competition will be used (use "kaggle config set competition")"
+  -v, --csv             Print results in CSV format (if not set print in table format)
+  --format OUTPUT_FORMAT
+                        Print results in selected format (csv, table, json). For details on advanced options, see
+                        https://github.com/Kaggle/kaggle-cli/blob/main/docs/output_format.md
+  -q, --quiet           Suppress printing information about the upload/download progress
+  --page-token PAGE_TOKEN
+                        Page token for results paging.
+  --page-size PAGE_SIZE
+                        Number of items to show on a page. Default size is 20, max is 200

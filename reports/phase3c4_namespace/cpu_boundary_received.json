@@ -1,0 +1,120 @@
+{
+  "phase": "synthetic CPU namespace probe",
+  "gpu_readiness": "NOT_TESTED",
+  "host_python": "/usr/bin/python3.13",
+  "host_canary_exists": true,
+  "exit_code": 0,
+  "stdout": "{\n  \"status\": \"SYNTHETIC_BOUNDARY_PASS\",\n  \"reads\": {\n    \"/tmp/ns64_namespace_wj_csfli/private-admin-canary\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/content/drive\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/content/ns64/project\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/content/ns64/data/train/ETs\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/kaggle/input\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/private.json\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/input/../../private.json\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/proc/1/root/tmp/ns64_namespace_wj_csfli/private-admin-canary\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/input/escape\": {\n      \"denied\": true,\n      \"errno\": 2\n    },\n    \"/var/run/docker.sock\": {\n      \"denied\": true,\n      \"errno\": 2\n    }\n  },\n  \"writes\": {\n    \"/unexpected\": {\n      \"denied\": true,\n      \"errno\": 30\n    },\n    \"/input/unexpected\": {\n      \"denied\": true,\n      \"errno\": 30\n    }\n  },\n  \"permitted_input\": true,\n  \"controls\": {\n    \"CapEff\": \"0000000000000000\",\n    \"CapPrm\": \"0000000000000000\",\n    \"NoNewPrivs\": \"1\"\n  },\n  \"uid\": 0,\n  \"gid\": 0,\n  \"pid\": 1,\n  \"setup_observations\": {\n    \"mount_namespace\": \"mnt:[4026532522]\",\n    \"network_namespace\": \"net:[4026532524]\",\n    \"mountpoints\": [\n      \"/\",\n      \"/proc\",\n      \"/proc/bus\",\n      \"/proc/fs\",\n      \"/proc/irq\",\n      \"/proc/sys\",\n      \"/proc/sysrq-trigger\",\n      \"/proc/acpi\",\n      \"/proc/kcore\",\n      \"/proc/keys\",\n      \"/proc/timer_list\",\n      \"/proc/scsi\",\n      \"/dev\",\n      \"/dev/pts\",\n      \"/dev/mqueue\",\n      \"/dev/shm\",\n      \"/sys\",\n      \"/sys/fs/cgroup\",\n      \"/sys/firmware\",\n      \"/usr/sbin/docker-init\",\n      \"/usr/lib64-nvidia\",\n      \"/var/colab\",\n      \"/var/colab/cgroup/jupyter-children\",\n      \"/kaggle/input\",\n      \"/etc/resolv.conf\",\n      \"/etc/hostname\",\n      \"/etc/hosts\",\n      \"/opt/bin/.nvidia\",\n      \"/tmp/ns64_namespace_wj_csfli/root\",\n      \"/tmp/ns64_namespace_wj_csfli/root/input\",\n      \"/tmp/ns64_namespace_wj_csfli/root/output\"\n    ],\n    \"observed_by\": \"trusted setup before chroot\"\n  },\n  \"bounding_capabilities\": [],\n  \"ambient_capabilities\": [],\n  \"network_devices\": [\n    [\n      1,\n      \"lo\"\n    ]\n  ],\n  \"python\": \"3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]\"\n}\n",
+  "stderr": "",
+  "worker": {
+    "status": "SYNTHETIC_BOUNDARY_PASS",
+    "reads": {
+      "/tmp/ns64_namespace_wj_csfli/private-admin-canary": {
+        "denied": true,
+        "errno": 2
+      },
+      "/content/drive": {
+        "denied": true,
+        "errno": 2
+      },
+      "/content/ns64/project": {
+        "denied": true,
+        "errno": 2
+      },
+      "/content/ns64/data/train/ETs": {
+        "denied": true,
+        "errno": 2
+      },
+      "/kaggle/input": {
+        "denied": true,
+        "errno": 2
+      },
+      "/private.json": {
+        "denied": true,
+        "errno": 2
+      },
+      "/input/../../private.json": {
+        "denied": true,
+        "errno": 2
+      },
+      "/proc/1/root/tmp/ns64_namespace_wj_csfli/private-admin-canary": {
+        "denied": true,
+        "errno": 2
+      },
+      "/input/escape": {
+        "denied": true,
+        "errno": 2
+      },
+      "/var/run/docker.sock": {
+        "denied": true,
+        "errno": 2
+      }
+    },
+    "writes": {
+      "/unexpected": {
+        "denied": true,
+        "errno": 30
+      },
+      "/input/unexpected": {
+        "denied": true,
+        "errno": 30
+      }
+    },
+    "permitted_input": true,
+    "controls": {
+      "CapEff": "0000000000000000",
+      "CapPrm": "0000000000000000",
+      "NoNewPrivs": "1"
+    },
+    "uid": 0,
+    "gid": 0,
+    "pid": 1,
+    "setup_observations": {
+      "mount_namespace": "mnt:[4026532522]",
+      "network_namespace": "net:[4026532524]",
+      "mountpoints": [
+        "/",
+        "/proc",
+        "/proc/bus",
+        "/proc/fs",
+        "/proc/irq",
+        "/proc/sys",
+        "/proc/sysrq-trigger",
+        "/proc/acpi",
+        "/proc/kcore",
+        "/proc/keys",
+        "/proc/timer_list",
+        "/proc/scsi",
+        "/dev",
+        "/dev/pts",
+        "/dev/mqueue",
+        "/dev/shm",
+        "/sys",
+        "/sys/fs/cgroup",
+        "/sys/firmware",
+        "/usr/sbin/docker-init",
+        "/usr/lib64-nvidia",
+        "/var/colab",
+        "/var/colab/cgroup/jupyter-children",
+        "/kaggle/input",
+        "/etc/resolv.conf",
+        "/etc/hostname",
+        "/etc/hosts",
+        "/opt/bin/.nvidia",
+        "/tmp/ns64_namespace_wj_csfli/root",
+        "/tmp/ns64_namespace_wj_csfli/root/input",
+        "/tmp/ns64_namespace_wj_csfli/root/output"
+      ],
+      "observed_by": "trusted setup before chroot"
+    },
+    "bounding_capabilities": [],
+    "ambient_capabilities": [],
+    "network_devices": [
+      [
+        1,
+        "lo"
+      ]
+    ],
+    "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]"
+  }
+}

@@ -1,0 +1,7 @@
+# Structural decision rule
+
+For each original connected component reuse the frozen Fiedler sweep with weights log(1+c), two connected sides of at least six images, and objective cut(A,B)(1/vol(A)+1/vol(B)). A missing proposal gives ABSTAIN. A low objective detects a bottleneck, which can also occur between two viewpoints of the same object.
+
+For crossing edges compute R, their upper-quartile count divided by the median internal count. Compute J, their upper-quartile endpoint neighborhood Jaccard overlap. High R indicates substantial match support relative to internal connections. High J indicates alternate two-hop paths. These signals complement the objective but share observations and are statistically dependent.
+
+Use seed 20261111 to draw 20 exponents uniformly from [0.65,1.35]. Replace each count c by c^p and repeat the proposal. S is the fraction reproducing exactly the same unordered sides. This probes sensitivity to the weighting scale only. It does not simulate independent rematching. Split once if R <= .30, J <= .20, S >= .90 and at least two edges cross. Retain if R >= 1 or J >= .50. Abstain otherwise. Decisions serialize parallel to the sorted original pairs. The conservative thresholds are design choices, without development-score optimization. Small, singular or tied graphs limit interpretation. Lexical sweep tie-breaking in the inherited comparator can affect proposals under relabeling in unresolved ties.

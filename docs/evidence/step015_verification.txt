@@ -1,0 +1,8 @@
+PASS docs\step015_auth_and_data_status.md
+PASS docs\step015_execution_environment.md
+PASS docs\step015_metric_reconciliation.md
+PASS docs\step015_step2_readiness.md
+PASS docs\step015_supervisor_review.md
+PASS Python syntax
+PASS local document links
+PASS five Step 1.5 deliverables

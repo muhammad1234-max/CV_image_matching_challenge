@@ -1,0 +1,5 @@
+# Phase 5A.3 release rehearsal
+
+Run python scripts/phase5a3_build.py, then python scripts/phase5a3_rehearse.py from the project root. The second command extracts the actual notebook's two embedded packages, compares their hashes and embedded source bytes, and launches the targeted suite with verified package imports. The notebook-cell rehearsal exercises the setup/dispatch code from cell four onward, external journal acknowledgments, four separate child processes, output validation and stage downloads. The first three Colab dependency-installation cells require a live compatible GPU VM.
+
+Run the full lightweight suite and Phase 5A.1/frozen-candidate tests as recorded in the XML reports. python -m scripts.phase5a3_package checks the evidence, rebuilds the bundle, checks the frozen opaque archive and verifies the review ZIP. examples.json records synthetic before/after evidence. The new notebook and operational ZIP identities are in revision.json.

@@ -1,0 +1,3 @@
+# Phase 5A.4 supervisor handoff
+
+BLOCKED — RESOURCES OR EXECUTION. Operator sign-in and live preflight are required for imc2024_dioscuri_baalshamin, Development A, heritage_dioscuri, 138 images, seed 20261111. Use the approved Phase 5A.3 notebook on a fresh free T4 with Drive unmounted. Supply imc_ns64_clean_runtime.zip and the opaque ZIP at their separate prompts. Retain journals and hashes externally and complete capture custody before original. For the course report, record the CPU release validation and pending prospective evaluation separately. A second dataset evaluation is outside this authorization.

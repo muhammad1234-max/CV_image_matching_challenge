@@ -1,0 +1,5 @@
+# Phase 5A.3 adapter integration
+
+The new Colab adapter calls the existing session.stage_command and augments only the generated branch entrypoint. Capture and decision use the frozen programs. The branch process itself runs the writer. The adapter requires all four branch receipts from the child work directory, checks the transferred bytes and invokes the extended branch validator. A success exit without identity fails. The original Runner uses the extended validator before sealing and at live checkpoint, ZIP export, existing-ZIP reuse and restore boundaries. Each verification recomputes the expected branch bindings. An unchanged original prediction cannot authorize a decision after integrity failure.
+
+The runner-only implementation is in src/runner_5a3/provenance.py and colab.py. The prior protocol, session generator, workflow, runner, journal, accounting and checkpoint files were left at their approved revisions.

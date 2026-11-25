@@ -1,0 +1,14 @@
+{
+  "documented_output_capacity": "Up to 20 GB; actual private version completion and access still require live proof.",
+  "local": "Project search and workstation Downloads/Desktop found no Dioscuri capture archive.",
+  "notebook_versions": "Operator reported no saved version for the original run.",
+  "observed_failure": "Export hash printed; no retained matching archive. Runtime disappeared before an external read-back. Browser/network failure mechanism unobserved.",
+  "other_destinations": "Phase 5A.6 transport targeted the browser download. No additional configured persistent destination identified.",
+  "platform_documentation": "https://www.kaggle.com/docs/notebooks",
+  "private_inventory": "Local authenticated CLI request to list owned notebooks returned Authentication required. Operator-side private dataset/output check outstanding.",
+  "recommended_destination": "A completed private Kaggle Save & Run All version, verified from a fresh reader.",
+  "remote_persistence": "unverified",
+  "representative_target_bytes": 1195338874,
+  "runtime": "Operator reported archive absent, sealed parent absent and runner unloaded.",
+  "workstation_archive_bytes": 1196966521
+}

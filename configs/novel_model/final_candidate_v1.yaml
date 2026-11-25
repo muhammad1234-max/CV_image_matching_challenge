@@ -1,0 +1,19 @@
+version: final_candidate_v1
+proposal_model: reconstruction_feedback_v2
+seed: 20261111
+training: none
+development:
+  imc2024_dioscuri_baalshamin: heritage_dioscuri
+  fbk_vineyard: fbk_vineyard
+trial_limit: 1
+minimum_retention: 0.95
+minimum_common: 30
+hard_quantile: 0.75
+pixel_cap: 4.0
+pixel_margin: 0.05
+max_images: 225
+session_seconds: 14400
+min_capture_start: 8400
+export_reserve: 1200
+trial_seconds: 5400
+

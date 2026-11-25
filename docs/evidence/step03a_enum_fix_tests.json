@@ -1,0 +1,12 @@
+{
+  "tests": 81,
+  "failures": 0,
+  "errors": 0,
+  "duration_seconds": 2.082,
+  "command": "python -m unittest discover -s tests",
+  "coverage": "sets, Python enums, PyCOLMAP-style pybind enums and nested option objects; notebook and frozen integrity",
+  "notebook_sha256": "870cd708506572b737dbf92f2cd3dfe63064444699e5408e91ff367131f698bd",
+  "source_snapshot_hash": "f57789a8bbd105de5a054040beb5289345ebb47e495b7e4ecf6b0fb25a792b3b",
+  "gpu_inference_executed_locally": false,
+  "real_pycolmap_cpu_check": "NOT COMPLETED: isolated dependency download stalled and was stopped; actual package execution is not claimed"
+}

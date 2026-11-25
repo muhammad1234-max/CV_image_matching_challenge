@@ -1,0 +1,7 @@
+# Prospective protocol
+
+Run stairs (51 images) and imc2023_theather_imc2024_church (76 images) exactly once each with the frozen membership and seed 20261111. No Haiper rerun. Each notebook embeds the approved source and the same model bundle, verified before loading it. A changed protocol requires a new version. The manifest binds the complete notebook, worker, model and configuration. Hashes of historical opaque predictions serve solely as exact compatibility checks. No reference pose or score is shipped to inference.
+
+The Fiedler sweep uses log(1 + verified inliers), two connected sides with at least six images, and the prior eigengap and sweep tie tolerances. From one proposal per connected component, select the proposal with minimum median crossing-edge endpoint-neighborhood Jaccard. Break exact ties by canonical opaque side tuples. Make at most one trial per dataset. If the chosen component was not registered as exactly one complete model, abstain without trying the runner-up.
+
+Use independent verified copies of the single parent. Remove raw and verified records for all crossing IDs, preserve all other rows and pass the complete original options summary check. Each notebook uses a newly connected free T4, at most 5,400 seconds including setup, 90 seconds reserved for export, and 12 GiB process-tree RSS. Limits are operational design choices. If the pass-through is unavailable or incompatible, report a blocked run. If the trial times out or is inconclusive, select the completed pass-through.

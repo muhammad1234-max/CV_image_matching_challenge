@@ -1,0 +1,6 @@
+# Phase 2A dataset manifest
+Date: 2026-11-11. CLI 2.2.4; exactly one listing check for image-matching-challenge-2025-ongoing exited 1. Sanitized output contained no HTTP status or exception type. Server authentication is not established; precise failure cause is unavailable. See evidence/step02_access.json. No credential configuration was changed; no authenticated retries or downloads followed.
+
+Complete manifest, filenames, byte sizes, types and total download size: UNAVAILABLE. No official metadata downloaded. Historical filenames are not presented as a current manifest. Future successful listing must paginate to exhaustion, retain page tokens securely, and enumerate filename/size/type before any downloads. Metadata budget: 100 MB total, individual CSV/JSON/text only; no archives or image collections.
+
+Ongoing rules and evaluation page reads returned no readable text on this audit. Sources: https://www.kaggle.com/competitions/image-matching-challenge-2025-ongoing/rules and https://www.kaggle.com/competitions/image-matching-challenge-2025-ongoing/overview/evaluation. Existing indexed official schema evidence is retained in step01_competition_and_metric.md; live runtime, internet, external-weight permissions and notebook requirements remain unresolved. Original 2025 rules are not substituted.

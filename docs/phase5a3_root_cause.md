@@ -1,0 +1,5 @@
+# Phase 5A.3 root cause
+
+The frozen session.stage_command constructs original and trial from the worker prefix ending just before the PipelineConfig import. The published identity writer lies after that import. The prefix still writes the environment, boundary and opaque-input receipts. workflow.main writes reconstruction artifacts and has no stage-provenance writer. The previous adapter copied only receipts it found. The branch contract then rejected both reconstructions. Capture retains the published writer and pre-mapper hook. Decision consumes already validated predecessors.
+
+Two CPU tests execute the old generated original and trial against valid synthetic predecessors. Both reach prediction export, exit the native workflow and fail validation on the missing identity. The replacement changes only the operational branch entry after generation.

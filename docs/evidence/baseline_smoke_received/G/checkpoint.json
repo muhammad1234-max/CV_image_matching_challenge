@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "cache_key": "beee4142d0d778e3378f228ddfed76643ab12d0229e5be9784f1c1f1fb0271ab",
+  "artifacts": {
+    "result.json": "7c8546a9e5f65cb7ba95d22f44d87a9041784c1a02757e3f3132f9ef6f07f624",
+    "poses.json": "20e3cd095153a38beb4d02c232a179d74dfcff60b26c2d8c0d290acc5a492fc4",
+    "models/0/points3D.bin": "9d7ad66dcadcea6f86088a7353e2306154ec3ec23346b107928b8fd5c7e323a8",
+    "models/0/cameras.bin": "a1c4fe387b238f28931898e2ec9b2d00de299cad2e8a880415365863517f94ea",
+    "models/0/images.bin": "19a1da761097c702203697a2d133c472664ce7e2d542d9306d4c7227fbb896bb"
+  }
+}

@@ -1,0 +1,1 @@
+Four verified primary-seed datasets cover 203/1563 images. ETs combined 0.5945945945945945; stairs 0.16666666666666669; haiper 0.685551871151113; theater/church 0.6570743405275778. Seven datasets totaling 1360 images await GPU execution. The historical ETs and alternative seed remain separate. Full and fold aggregates remain unavailable.

@@ -1,0 +1,3 @@
+# Phase 5A.3 frozen science verification
+
+scientific_comparison.json records expected and observed hashes of the frozen local scientific files and historical package members. Configuration SHA256 is 8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26. Protocol SHA256 is ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690. The build retains the frozen scientific kit and registers a separate operational revision. The package verifier checks the SHA256 of the existing opaque archive and the permutation assembled from the 138 ordered member digests. The local integrity checks cover expected model identities. Actual weights and installed dependencies must be checked on the future VM.

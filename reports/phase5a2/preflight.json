@@ -1,0 +1,23 @@
+{
+  "dataset": "imc2024_dioscuri_baalshamin",
+  "images": 138,
+  "seed": 20261111,
+  "runner": "6a8ee14b6003dd775627ef49f0389d129213c199eebe5a3c51ee590d8e9c82c1",
+  "notebook": "0648f8b3be18a687c2a802f1d7ebd791c3ae55435a1ff06a7afe2088459c6c64",
+  "kit": "4ce3bf6abbe6618112268988dde7109cb7b2cc187e27b4ffb503ed845dc037d9",
+  "image_archive": "2390cb5c85812982edfd47d73471e548fb70e5e8f4d4d76b35674951f089fd9c",
+  "permutation": "1b7bc97f6f54a2f5daa967a06e67211cd565f84d2d9403cd60f1faa50af543b0",
+  "runtime": "39e9bb97ede83c777a06f385fbe4acb27fc4665ba1556b504dc64000dcafb925",
+  "config": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+  "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+  "generated_child_emits_identity": {
+    "capture": true,
+    "original": false,
+    "trial": false
+  },
+  "classification": "BLOCKED \u2014 RESOURCE OR EXECUTION",
+  "gpu_attempt_started": false,
+  "gpu_stage_seconds": 0,
+  "live_colab_preflight": null,
+  "checks": "generated child commands inspected without execution"
+}

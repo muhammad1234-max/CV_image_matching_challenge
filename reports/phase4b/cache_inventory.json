@@ -1,0 +1,350 @@
+{
+  "schema": "ns64_cache_inventory_v1",
+  "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+  "archive_index_sha256": "bd6e6c2b409fc985b8f23bc2ba66e667bd6877f42027b35decfd31b3c57d005d",
+  "four": [
+    {
+      "dataset": "ETs",
+      "archive": "imc_ns64_order_seed_20261111.zip",
+      "sha256": "c209c3e8c3551dfe28ac042fe58bf773b7eeada35718fee2a87de727080a3309",
+      "worker_sha256": "e7b9ba71cdd42e06a58d3331ce03ba54f3777a4ea351271c3223536d129e1b80",
+      "identity": {
+        "method_id": "ns64_mast3rhybrid_022c",
+        "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+        "experiment_id": "ns64_isolated_v1_ETs_20261111",
+        "seed": 20261111,
+        "permutation_sha256": "88b39706d192180b8ff291a8d4ac04e7e6ef09644560ec0064cc6b637e1651cf",
+        "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+        "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+      },
+      "member_hashes": {
+        "run.json": "c2cb8f8ed573f1fc6f52dd082529880165a9b88ad5978f188140c0d38ce265d3",
+        "environment.json": "43ad7b7b26f08eaf79bd143ba71912d34e3abe92119d3971784835545e4f7d23",
+        "boundary.json": "98164ce5daaa1945f98f8316da8d0f4a8aa97cc80bc57a678d137ac1738291a8",
+        "worker.log": "c6f20c44ab9d35eae69bf42b18e0a31ffb31ed862a6f4ba2c956eff66759dc8f",
+        "stages.jsonl": "8d4a7464d218e0a52c1c317cddd235e1206563afb3cda9b92cfbb4860ff17970",
+        "identity.json": "18e38db07d37526a0bdd781a16de721ec7a4deb88b3503a17a4af82af810da07",
+        "resources.json": "db24dde01437bab1f96b94b79878233d8a6d478338b8a34dbc1e4539806f527d",
+        "prediction.json": "168973c9015f5af8ca9576bb88be289b35e06dc9a095edc3d84d9c6114f3af2a",
+        "opaque.csv": "501e0a5e68cf090cc96a0fec9cfbd8b8c361d2d27b026de973b69c90f5c65805"
+      },
+      "node_count": 22,
+      "reported_verified_pairs": 80,
+      "topology_import": null,
+      "fields": {
+        "verified_pairs": "PARTIALLY AVAILABLE",
+        "opaque_image_ids": "AVAILABLE",
+        "database_camera_ids": "MISSING",
+        "verified_inlier_counts": "MISSING",
+        "keypoints": "MISSING",
+        "inlier_indices": "MISSING",
+        "calibrated_intrinsics": "MISSING",
+        "calibrated_relative_rotations": "MISSING",
+        "mapper_database": "MISSING",
+        "reconstruction": "PARTIALLY AVAILABLE"
+      }
+    },
+    {
+      "dataset": "stairs",
+      "archive": "imc_ns64_stairs_worker_20261111.zip",
+      "sha256": "c4f74f7900f34d684f9fea12651dd9ab75f3ae3ce24194e36ab692bfed474c14",
+      "worker_sha256": "54fb4002762e6395ae7a45191370334349f252ad1db7dd638d0f87a65651f812",
+      "identity": {
+        "method_id": "ns64_mast3rhybrid_022c",
+        "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+        "experiment_id": "ns64_isolated_v1_stairs_20261111",
+        "seed": 20261111,
+        "permutation_sha256": "744bdb099dfac67431db563c63058f42765beb757ee6bf5a2a39adc97a500b26",
+        "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+        "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+      },
+      "member_hashes": {
+        "run.json": "8e1d84c90ae0fd5adaf8f0610f64a246f8dd7a8b0739f1261343a15b3587403e",
+        "environment.json": "ea8bd3360fb364d6ee0f867a764edca061f376cc59ec9bb4e0084290a252eeb6",
+        "boundary.json": "f5a601b05bacaaff7e9f7919106ede12b36b7fa7aeb0a23770e172e81aff51da",
+        "worker.log": "bfaf6cabbf3fe767dcc5e6a3d2d643fb54eb107eca6494b1eaa6c5e746828829",
+        "stages.jsonl": "cb1542be5f3dc26b4c6e46304da7811ea62016a6dfbdca9b88163232135c06b4",
+        "identity.json": "54aa1bdba91415e244c6b4f481fdebed9f7605298204da21cd76d331a7171207",
+        "resources.json": "674124ba5be69cfe460ea3a15555b1001e5c86e2523c845ba0869f70c51f51c5",
+        "prediction.json": "713bfca7a5d5dd3a98807d6fcd7850755e8dd263331d75a6395917d8c75e1b2b",
+        "opaque.csv": "de79869b7aef29284f65d04fe4df7289abdf259d87119fafdd3b8c3f71801ea7"
+      },
+      "node_count": 51,
+      "reported_verified_pairs": 266,
+      "topology_import": null,
+      "fields": {
+        "verified_pairs": "PARTIALLY AVAILABLE",
+        "opaque_image_ids": "AVAILABLE",
+        "database_camera_ids": "MISSING",
+        "verified_inlier_counts": "MISSING",
+        "keypoints": "MISSING",
+        "inlier_indices": "MISSING",
+        "calibrated_intrinsics": "MISSING",
+        "calibrated_relative_rotations": "MISSING",
+        "mapper_database": "MISSING",
+        "reconstruction": "PARTIALLY AVAILABLE"
+      }
+    },
+    {
+      "dataset": "imc2023_haiper",
+      "archive": "reports/phase3c7/worker.zip",
+      "sha256": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9",
+      "worker_sha256": "e3487c87a4dc9649736156632cb6ad440169e3b242b0ffe42e019de2ba940113",
+      "identity": {
+        "method_id": "ns64_mast3rhybrid_022c",
+        "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+        "experiment_id": "ns64_isolated_v1_imc2023_haiper_20261111",
+        "seed": 20261111,
+        "permutation_sha256": "f1df2126a55898bce62da9d2783aa6e14d92592fd35f4c58ebcb2473d82e0b39",
+        "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+        "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+      },
+      "member_hashes": {
+        "weight_load.json": "9bf0012f87df161806a1029cb82139319669281fcd919d17d8ecdc73d956bc4b",
+        "preflight.json": "5228a4899ae3fbeea57c6a02a0591e42b29e0bb2d318abfc6a0b2dc48b1eba46",
+        "current_stage.json": "a01bebf8d8e83f7adf936052446c03d599bd50f42ddddf4466b27b919b61153b",
+        "verified_edges.json": "cd7789218d5f6ff2af8ba84dc5a9d3eb08a7fa21a971856e4c7f64a81156e2f4",
+        "run.json": "65bd9d11f7975bfb9395210a06a536afbad55903ae85b241256708bf27d7af58",
+        "environment.json": "2e06a6d69fb3776e332947c3c4272ca937d9e97e1ce7285c88404bdb2789dabc",
+        "boundary.json": "f5a601b05bacaaff7e9f7919106ede12b36b7fa7aeb0a23770e172e81aff51da",
+        "worker.log": "b6577663ebcdc0ce0769c318c30dbe5cbac1dd8f95e4b01f48f741e59c3e1cca",
+        "stages.jsonl": "a30d2c91af03348efd740c744552f8b785078f8e552bce8e0cb6891660a9a67d",
+        "identity.json": "2f1744f9558217ccad941f28fe09866331db1f8e7a68aeaf494c6ae436e9d542",
+        "resources.json": "74ea0f45a5ad8767481563196ffc70636fc0145e7c9837e7532f126ba0b9ad64",
+        "prediction.json": "19e2fa902b291efa5ca3b87d051cfa781230061365e6165d1f5da9033acab67d",
+        "opaque.csv": "ea7077161376f1cce483ea97ef560f17dd1d5d9413c73d2c235bafdae00e10ba"
+      },
+      "node_count": 54,
+      "reported_verified_pairs": 454,
+      "topology_import": {
+        "nodes": 54,
+        "edges": 454,
+        "trust": {
+          "source_sha256": "c6035c596a484331ebfaf8d3b6368b4a32acb00b3bebe670a8215c78b6c12549",
+          "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+          "parent_sha256": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9",
+          "membership_sha256": "ff96a29cfcba94e55bcc3c10cc75d80cf160894cd105660b26fb72e7d695154c",
+          "payload_sha256": "7e3ee20bd22bad3bba6652bc8cfa8c6723843563246ff56c34a219e6b527255c"
+        }
+      },
+      "fields": {
+        "verified_pairs": "AVAILABLE",
+        "opaque_image_ids": "AVAILABLE",
+        "database_camera_ids": "MISSING",
+        "verified_inlier_counts": "MISSING",
+        "keypoints": "MISSING",
+        "inlier_indices": "MISSING",
+        "calibrated_intrinsics": "MISSING",
+        "calibrated_relative_rotations": "MISSING",
+        "mapper_database": "MISSING",
+        "reconstruction": "PARTIALLY AVAILABLE"
+      }
+    },
+    {
+      "dataset": "imc2023_theather_imc2024_church",
+      "archive": "imc_ns64_imc2023_theather_imc2024_church_worker_20261111 (1).zip",
+      "sha256": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93",
+      "worker_sha256": "782f46de6e4b2340fe2b05cbd01ae4c9124f286cb21b07fefe3e80d75847d9d0",
+      "identity": {
+        "benchmark": {
+          "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+          "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+          "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+          "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+        },
+        "method_id": "ns64_mast3rhybrid_022c",
+        "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+        "experiment_id": "ns64_isolated_v1_imc2023_theather_imc2024_church_20261111",
+        "seed": 20261111,
+        "permutation_sha256": "2133395075c25d66aaeb7d9663d8fb594b1289888871edcf1541bf15ae9d588b",
+        "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+        "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d"
+      },
+      "member_hashes": {
+        "checkpoint_fuse_matching_sets_late.json": "b05ff6613c1a46f01698a8e7206fff83535941e1789e6eab1eb1c798b11f2465",
+        "checkpoint_incremental_mapping.json": "f5e33db46e95428acad8e5b40a3f0dfb44d381d2f94e4bef0d009efe71b94c17",
+        "checkpoint_run_detector_free_matching_stage.json": "4b5c325059be724e7150c8b29b90e9ba83a3d0ebc4c3c1d684c4aa0766dfd5c0",
+        "checkpoint_run_local_feature_extraction_and_matching_stage.json": "f1f5c3151cffec6f4fb9743e55b7ee729fdfb8ec0edfe95193d976c4d97ba2de",
+        "checkpoint_run_point_tracking_matching_stage.json": "48482b734eddd8c961ced5ec6cc0422d9ea2de56f67b71d956cf50e38c3a202c",
+        "checkpoint_shortlist_generator.json": "c4c961b91d01b9c0b636b01de52584c8e800abed72f82eec73bd42c45255c75f",
+        "checkpoint_verify_matches.json": "08de71570820296ab68caad9692b90fb44f9a98d81817022905d6f12ceb8f4d6",
+        "input_receipt.json": "c9d6af6dd44640b6394af06f62c9633d7b4b2996a4782ee658d6fb9740d6a409",
+        "weight_load.json": "9bf0012f87df161806a1029cb82139319669281fcd919d17d8ecdc73d956bc4b",
+        "preflight.json": "a2789fd8e0b416c556d00a013c59409dd3798fa50dba22c90e7bb71611797e7c",
+        "current_stage.json": "f6a1acf8d0e7605df7982c889b96f49c5cac2eb08aa0084ef59dc393c087308d",
+        "verified_edges.json": "a7eca7050542a0dcd4255b8970cea2586a3aed7603dc543c29813910afc43b1b",
+        "run.json": "619e0dfa62d467aa7d2ce6934e298f12a71bf6da190f8082acb756653f676bfc",
+        "environment.json": "dbead69d3c7a20fcea191f63e8ec38ca824b598711801327f15b8b9ae00ba602",
+        "boundary.json": "f5a601b05bacaaff7e9f7919106ede12b36b7fa7aeb0a23770e172e81aff51da",
+        "worker.log": "dfbc64a95c69a029d9ebe90442260fdaae683f4c7927f303ef9b451bbd3e348d",
+        "stages.jsonl": "2a225a2020939d5bcb5d6509f344d91558cf50754eb1383e334f51ddafc9ee86",
+        "identity.json": "1e82ff75cae24bc2faea508442f076409e7c7ec9ba9143bb38a30c797c97560f",
+        "resources.json": "07c223fda25164326c9b8842a1647030df3c1e3bc19a04f868ac3d6764dbf18d",
+        "prediction.json": "d15c1d5ec8c658cb87ae435c650ddaefc0417bab918635c7374053bcab6b0900",
+        "opaque.csv": "819e78249e759f7d752112f4a3f91e7bfaeab5cbdd6e387de4719c38055c629a"
+      },
+      "node_count": 76,
+      "reported_verified_pairs": 616,
+      "topology_import": {
+        "nodes": 76,
+        "edges": 616,
+        "trust": {
+          "source_sha256": "c6035c596a484331ebfaf8d3b6368b4a32acb00b3bebe670a8215c78b6c12549",
+          "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+          "parent_sha256": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93",
+          "membership_sha256": "f67007ae4c4170e15227fb13bee953c1385f514787caba1fced57631b5f09fa9",
+          "payload_sha256": "95602e500bf771a91e249551dd3449ceda9529ab995a4216174fd895605c6f03"
+        }
+      },
+      "fields": {
+        "verified_pairs": "AVAILABLE",
+        "opaque_image_ids": "AVAILABLE",
+        "database_camera_ids": "MISSING",
+        "verified_inlier_counts": "MISSING",
+        "keypoints": "MISSING",
+        "inlier_indices": "MISSING",
+        "calibrated_intrinsics": "MISSING",
+        "calibrated_relative_rotations": "MISSING",
+        "mapper_database": "MISSING",
+        "reconstruction": "PARTIALLY AVAILABLE"
+      }
+    }
+  ],
+  "workspace_geometry_file_candidates": [
+    {
+      "file": ".cache/uv/.tmpBXdW1W/numpy/lib/tests/data/py2-objarr.npz",
+      "members": [
+        "py2-objarr.npz"
+      ],
+      "sha256": "c68d771c14f415b159daabd9cf42d61836f74ae40049269787baca7d57098f1e"
+    },
+    {
+      "file": ".cache/uv/.tmpBXdW1W/numpy/lib/tests/data/py3-objarr.npz",
+      "members": [
+        "py3-objarr.npz"
+      ],
+      "sha256": "a90474812e7b7bdb5ad7a77fbc242369a28cef880f765c023e4a79e4ffaaaddc"
+    },
+    {
+      "file": "imc_ns64_imc2023_theather_imc2024_church_worker_20261111 (1).zip",
+      "members": [
+        "verified_edges.json"
+      ],
+      "sha256": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_01_1794595316027077288_cache.zip",
+      "members": [
+        "datasets/ETs/D/descriptors.h5",
+        "datasets/ETs/D/keypoints.h5",
+        "datasets/ETs/E/matches.h5"
+      ],
+      "sha256": "ded2315f71a93027cc6f60b67e8027b29fa2500f9b6bf0e2be2070b93142e2c1"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_02_1794596847956819119_cache.zip",
+      "members": [
+        "datasets/stairs/D/descriptors.h5",
+        "datasets/stairs/D/keypoints.h5",
+        "datasets/stairs/E/matches.h5"
+      ],
+      "sha256": "d0d96dccbacbf538086811039268979cfb72f67f0c3f9ca5fcf97ab15d22e059"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_03_1794597956425819110_cache.zip",
+      "members": [
+        "datasets/imc2023_haiper/D/descriptors.h5",
+        "datasets/imc2023_haiper/D/keypoints.h5",
+        "datasets/imc2023_haiper/E/matches.h5"
+      ],
+      "sha256": "1fb13a3b896a6f56846e5da2a3a02fc57d043a1c08b9555a32fd9c049ae8a2a2"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_04_1794635453533529748_cache.zip",
+      "members": [
+        "datasets/imc2023_theather_imc2024_church/D/descriptors.h5",
+        "datasets/imc2023_theather_imc2024_church/D/keypoints.h5",
+        "datasets/imc2023_theather_imc2024_church/E/matches.h5"
+      ],
+      "sha256": "3cbdb825647e028d9a868a6f2eed5e0ed91a0093ce7f4b3db0d7664b289c0832"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_05_1794637748580618562_cache.zip",
+      "members": [
+        "datasets/imc2024_dioscuri_baalshamin/D/descriptors.h5",
+        "datasets/imc2024_dioscuri_baalshamin/D/keypoints.h5",
+        "datasets/imc2024_dioscuri_baalshamin/E/matches.h5"
+      ],
+      "sha256": "c067dbb72b2575fdfaddfea293d88dfdff230a105246f85dc4bf2b6f2a2f1113"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_06_1794642025679706207_cache.zip",
+      "members": [
+        "datasets/fbk_vineyard/D/descriptors.h5",
+        "datasets/fbk_vineyard/D/keypoints.h5",
+        "datasets/fbk_vineyard/E/matches.h5"
+      ],
+      "sha256": "a41669c60130df017c471990668432c59614e56dfe9fac4df0d30c612d03ef5b"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_07_1794649307356424150_cache.zip",
+      "members": [
+        "datasets/amy_gardens/D/descriptors.h5",
+        "datasets/amy_gardens/D/keypoints.h5",
+        "datasets/amy_gardens/E/matches.h5"
+      ],
+      "sha256": "ee4f26a2c0bb97fd96ba46408e913f92ae81c2ac5609c809889e4e85435f623b"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_08_1794666240377064385_cache.zip",
+      "members": [
+        "datasets/pt_stpeters_stpauls/D/descriptors.h5",
+        "datasets/pt_stpeters_stpauls/D/keypoints.h5",
+        "datasets/pt_stpeters_stpauls/E/matches.h5"
+      ],
+      "sha256": "472c8a38bc9f5114803ca6e182e4fe0f480dde3728a004f85dd68e013e0a693a"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_09_1794670827728673843_cache.zip",
+      "members": [
+        "datasets/imc2023_heritage/D/descriptors.h5",
+        "datasets/imc2023_heritage/D/keypoints.h5",
+        "datasets/imc2023_heritage/E/matches.h5"
+      ],
+      "sha256": "2c00a67c87e22f1846066c4c683ab9f4c5d50f7bd51cebf6edc32a597bcc329b"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_10_1794693751582017539_cache.zip",
+      "members": [
+        "datasets/pt_brandenburg_british_buckingham/D/descriptors.h5",
+        "datasets/pt_brandenburg_british_buckingham/D/keypoints.h5",
+        "datasets/pt_brandenburg_british_buckingham/E/matches.h5"
+      ],
+      "sha256": "c0e7aa62f7283e471e98d670597e4e4646d371a7f930a6ac6e27da7dedc17b97"
+    },
+    {
+      "file": "reports/phase3b_full/recovery_archives/imc_baseline_dev_batch_11_1794751028945181938_cache.zip",
+      "members": [
+        "datasets/pt_sacrecoeur_trevi_tajmahal/D/descriptors.h5",
+        "datasets/pt_sacrecoeur_trevi_tajmahal/D/keypoints.h5",
+        "datasets/pt_sacrecoeur_trevi_tajmahal/E/matches.h5"
+      ],
+      "sha256": "32e2caa249cac63d63bd41497afccb995d7c0b4ee633593c38b840fca33fa96c"
+    },
+    {
+      "file": "reports/phase3c7/worker.zip",
+      "members": [
+        "verified_edges.json"
+      ],
+      "sha256": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9"
+    },
+    {
+      "file": "tests/tmphk67ns72/out/tmpileoibze/ids.sqlite",
+      "members": [
+        "ids.sqlite"
+      ],
+      "sha256": "ac4c3ae553a36c536e6ed004d7c0fe93b56ff8a29d0e8ef936ac11649fbe4070"
+    }
+  ],
+  "scan_scope": "Loose geometry files and immediate ZIP members; nested handoff ZIPs are not trusted stage parents."
+}

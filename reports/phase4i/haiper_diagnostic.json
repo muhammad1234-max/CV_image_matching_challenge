@@ -1,0 +1,16 @@
+{
+  "forbidden_ids": 240,
+  "indexed_original": false,
+  "indexed_trial": false,
+  "pairs": 454,
+  "parent": "9d088fd433baee7e4101ab25a8b7f5fedf405c8342c1bc779f88ef911c32051a",
+  "real_final_candidate_score": null,
+  "removed_verified": 68,
+  "seconds": 0.128487000009045,
+  "side_sizes": [
+    16,
+    15
+  ],
+  "status": "PASS",
+  "task": "proposal compatibility"
+}

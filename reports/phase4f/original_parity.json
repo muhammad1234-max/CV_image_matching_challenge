@@ -1,0 +1,26 @@
+{
+  "original_clusters": 2,
+  "original_registered": 54,
+  "pass_through_clusters": 2,
+  "pass_through_registered": 54,
+  "per_model": [
+    {
+      "cameras": 23,
+      "max_aligned_center_fraction": 5.407914050203691e-16,
+      "max_aligned_rotation_deg": 1.2556845919800116e-14,
+      "max_raw_center_delta": 0.0,
+      "max_raw_rotation_deg": 0.0,
+      "scale": 1.0
+    },
+    {
+      "cameras": 31,
+      "max_aligned_center_fraction": 2.815239241005684e-16,
+      "max_aligned_rotation_deg": 1.4264682897952663e-14,
+      "max_raw_center_delta": 0.0,
+      "max_raw_rotation_deg": 0.0,
+      "scale": 1.0
+    }
+  ],
+  "pose_equivalent": true,
+  "same_assignments_and_outliers": true
+}

@@ -1,0 +1,3 @@
+# Phase 4G.1 final supervisor handoff
+
+BLOCKED — RESOURCE OR EXECUTION. Both authorized recovery attempts have returned. Stairs passed preflight but crossed the cgroup headroom margin 22.58 seconds into capture. Theater/Church passed memory preflight and stopped before capture with 2,405 of the required 3,000 seconds remaining. Neither produced a database or reconstruction. No automatic decision, paired score, or score delta exists. The 11 targeted and 298 full-suite tests passed locally. The resource receipts establish engineering outcomes only. Any additional attempt requires a new supervisor decision concerning runtime capacity and the setup-inclusive budget.

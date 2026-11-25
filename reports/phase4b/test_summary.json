@@ -1,0 +1,8 @@
+{
+  "new": 70,
+  "existing": 163,
+  "total": 233,
+  "passed": 233,
+  "suite": "python -m pytest -q tests",
+  "scope": "CPU synthetic and existing lightweight regressions"
+}

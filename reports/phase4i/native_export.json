@@ -1,0 +1,15 @@
+{
+  "common": 2,
+  "device": "Windows CPU",
+  "different_point_ids": [
+    7,
+    900
+  ],
+  "fixture": "two native sparse text models",
+  "permuted_database_rows": "rejected",
+  "pycolmap": "3.11.1",
+  "residual_px": 0,
+  "scale_ratio": 2,
+  "status": "PASS",
+  "untriangulated": 2
+}

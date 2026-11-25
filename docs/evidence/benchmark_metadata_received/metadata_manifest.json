@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "file": "train_labels.csv",
+      "sha256": "f65b20be20cb2cbfd288871c20f9863fd6f052f484a97b236090989af945ea0c",
+      "bytes": 430314,
+      "source_path": "/kaggle/input/competitions/image-matching-challenge-2025-ongoing/train_labels.csv"
+    },
+    {
+      "file": "sample_submission.csv",
+      "sha256": "cce6dddfdf979f0b33e821587d98d6ed0fa97042a0cc0ae4cca1a77a3cf65aab",
+      "bytes": 515334,
+      "source_path": "/kaggle/input/competitions/image-matching-challenge-2025-ongoing/sample_submission.csv"
+    },
+    {
+      "file": "train_thresholds.csv",
+      "sha256": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2",
+      "bytes": 1806,
+      "source_path": "/kaggle/input/competitions/image-matching-challenge-2025-ongoing/train_thresholds.csv"
+    }
+  ],
+  "images_read": 0
+}

@@ -1,0 +1,7 @@
+# Phase 5A.3 receipt production contract
+
+The versioned branch receipt is identity.json, schema phase5a3.branch.1. The child creates it in its own work directory after validating the worker/protocol, candidate configuration, live published configuration and numerical-parent digest. It binds the stage, dataset, experiment, seed, model configuration, source revision, neutral permutation, runner revision, predecessor seals and proposed mask. The existing scientific provenance validator checks the input archive, environment inventory, weight inventory and isolation receipts.
+
+The initial status is STARTED. The child calls the original mapper workflow, then validates branch outputs in a temporary directory containing hard links to the actual files. It atomically replaces the start receipt only after validation. The terminal receipt includes the logical hash of the mapper database after applying its mask, the terminal outcome and the hashes of branch metadata, audit, predictions, observations and typed failure evidence when present. An unavailable branch that never built a mapper database reports a null logical digest.
+
+An externally interrupted trial can use STARTED only with the frozen, eligible, audited trial-timeout fallback. Phase 5A.1 validation still replays its mask and requires intact original predictions. Unknown child failures stop. Capture and decision retain their respective frozen provenance mechanisms. All stages use checkpoint header phase5a3.checkpoint.1.

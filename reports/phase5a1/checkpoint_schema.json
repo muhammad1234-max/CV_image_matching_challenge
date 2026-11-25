@@ -1,0 +1,59 @@
+{
+  "authority": "src/runner_5a1/contract.py",
+  "branch_provenance": [
+    "identity.json",
+    "environment.json",
+    "boundary.json",
+    "input_receipt.json"
+  ],
+  "capture": [
+    "parent.db",
+    "job.json",
+    "identity.json",
+    "environment.json",
+    "boundary.json",
+    "input_receipt.json",
+    "checkpoint_verify_matches.json"
+  ],
+  "common": [
+    "time.json",
+    "contract.json",
+    "usage.json",
+    "heartbeat.jsonl",
+    "seal.json"
+  ],
+  "decision": [
+    "final.csv",
+    "selection.json"
+  ],
+  "observation_failure": [
+    "branch.json",
+    "prediction.csv",
+    "input.json",
+    "failure.json"
+  ],
+  "original_complete": [
+    "prediction.csv",
+    "input.json",
+    "branch.json",
+    "errors.npz"
+  ],
+  "trial_complete": [
+    "prediction.csv",
+    "input.json",
+    "branch.json",
+    "errors.npz"
+  ],
+  "unavailable": {
+    "NO_ELIGIBLE_GEOMETRY": [
+      "branch.json",
+      "failure.json"
+    ],
+    "TRIAL_TIMEOUT": [
+      "branch.json",
+      "failure.json",
+      "input.json"
+    ]
+  },
+  "version": "phase5a1.checkpoint.1"
+}

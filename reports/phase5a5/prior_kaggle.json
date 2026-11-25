@@ -1,0 +1,145 @@
+{
+  "checks": {
+    "asmk.asmk_method": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 557379584, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.2861038319997533,
+      "status": "PASS"
+    },
+    "asmk.hamming": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 557240320, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.2497893219997422,
+      "status": "PASS"
+    },
+    "bundled_wheel_install": {
+      "details": "",
+      "status": "PASS"
+    },
+    "curope": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 543559680, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.1772978859999057,
+      "status": "PASS"
+    },
+    "distributed": {
+      "details": "gpu=0 rank=0 world_size=1\nRESOURCE {\"cpu_peak_rss_bytes\": 607629312, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.5609814769995864,
+      "status": "PASS"
+    },
+    "driver_toolkit": {
+      "details": "12.1\n580.178.04\n580.178.04\n\n/usr/local/cuda/bin/nvcc\nRESOURCE {\"cpu_peak_rss_bytes\": 543502336, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.2326598879999437,
+      "status": "PASS"
+    },
+    "dust3r.inference": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 570765312, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.328523746999963,
+      "status": "PASS"
+    },
+    "faiss": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 555749376, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.217436859999907,
+      "status": "PASS"
+    },
+    "gpu": {
+      "details": "name, driver_version, memory.total [MiB]\nTesla T4, 580.178.04, 15360 MiB\nTesla T4, 580.178.04, 15360 MiB\nRESOURCE {\"cpu_peak_rss_bytes\": 39051264, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 0.07169760899978428,
+      "status": "PASS"
+    },
+    "kornia": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 632180736, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.7836873910000577,
+      "status": "PASS"
+    },
+    "lightglue": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 841912320, \"gpu_peak_allocated_bytes\": 0}\n/tmp/tmpd2kjrdua/offline_site/lightglue/lightglue.py:24: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.\n  @torch.cuda.amp.custom_fwd(cast_inputs=torch.float32)\n",
+      "seconds": 3.7489427339996837,
+      "status": "PASS"
+    },
+    "load_aliked": {
+      "details": "[ALIKEDLightGlue] weight=/kaggle/input/models/oldufo/aliked/pytorch/aliked-n16/1/aliked-n16.pth\nRESOURCE {\"cpu_peak_rss_bytes\": 1146626048, \"gpu_peak_allocated_bytes\": 2731008}\n/tmp/tmpd2kjrdua/offline_site/lightglue/lightglue.py:24: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.\n  @torch.cuda.amp.custom_fwd(cast_inputs=torch.float32)\n/tmp/tmpd2kjrdua/features/lightglue/aliked.py:85: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  state_dict = torch.load(weight_path, map_location=\"cpu\")\n",
+      "seconds": 6.225132531999407,
+      "status": "PASS"
+    },
+    "load_codebook": {
+      "details": "... loading model from /kaggle/working/ns64_weights/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric.pth\ninstantiating : AsymmetricMASt3R(enc_depth=24, dec_depth=12, enc_embed_dim=1024, dec_embed_dim=768, enc_num_heads=16, dec_num_heads=12, pos_embed='RoPE100',img_size=(512, 512), head_type='catmlp+dpt', output_mode='pts3d+desc24', depth_mode=('exp', -inf, inf), conf_mode=('exp', 1, inf), patch_embed_cls='PatchEmbedDust3R', two_confs=True, desc_conf_mode=('exp', 0, inf), landscape_only=False)\n<All keys matched successfully>\nLoading retrieval model from /kaggle/working/ns64_weights/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric_retrieval_trainingfree.pth\nRESOURCE {\"cpu_peak_rss_bytes\": 6324903936, \"gpu_peak_allocated_bytes\": 2773309440}\n/tmp/tmpd2kjrdua/offline_site/mast3r/model.py:24: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  ckpt = torch.load(model_path, map_location='cpu')\n/tmp/tmpd2kjrdua/offline_site/mast3r/retrieval/processor.py:70: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  ckpt = torch.load(modelname, 'cpu')  # TODO from pretrained to download it automatically\n",
+      "seconds": 15.378548714999852,
+      "status": "PASS"
+    },
+    "load_dinov2": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 1333223424, \"gpu_peak_allocated_bytes\": 347122688}\n",
+      "seconds": 5.698226704999797,
+      "status": "PASS"
+    },
+    "load_isc": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 1503768576, \"gpu_peak_allocated_bytes\": 214711296}\n",
+      "seconds": 5.836500977000469,
+      "status": "PASS"
+    },
+    "load_mast3r": {
+      "details": "... loading model from /kaggle/working/ns64_weights/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric.pth\ninstantiating : AsymmetricMASt3R(enc_depth=24, dec_depth=12, enc_embed_dim=1024, dec_embed_dim=768, enc_num_heads=16, dec_num_heads=12, pos_embed='RoPE100',img_size=(512, 512), head_type='catmlp+dpt', output_mode='pts3d+desc24', depth_mode=('exp', -inf, inf), conf_mode=('exp', 1, inf), patch_embed_cls='PatchEmbedDust3R', two_confs=True, desc_conf_mode=('exp', 0, inf), landscape_only=False)\n<All keys matched successfully>\nRESOURCE {\"cpu_peak_rss_bytes\": 6081572864, \"gpu_peak_allocated_bytes\": 2924790784}\n/tmp/tmpd2kjrdua/offline_site/mast3r/model.py:24: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  ckpt = torch.load(model_path, map_location='cpu')\n/tmp/tmpd2kjrdua/offline_site/dust3r/model.py:260: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n  with torch.cuda.amp.autocast(enabled=False):\n",
+      "seconds": 15.414520862000245,
+      "status": "PASS"
+    },
+    "load_retrieval": {
+      "details": "... loading model from /kaggle/working/ns64_weights/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric.pth\ninstantiating : AsymmetricMASt3R(enc_depth=24, dec_depth=12, enc_embed_dim=1024, dec_embed_dim=768, enc_num_heads=16, dec_num_heads=12, pos_embed='RoPE100',img_size=(512, 512), head_type='catmlp+dpt', output_mode='pts3d+desc24', depth_mode=('exp', -inf, inf), conf_mode=('exp', 1, inf), patch_embed_cls='PatchEmbedDust3R', two_confs=True, desc_conf_mode=('exp', 0, inf), landscape_only=False)\n<All keys matched successfully>\nLoading retrieval model from /kaggle/working/ns64_weights/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric_retrieval_trainingfree.pth\nRESOURCE {\"cpu_peak_rss_bytes\": 6324903936, \"gpu_peak_allocated_bytes\": 2773309440}\n/tmp/tmpd2kjrdua/offline_site/mast3r/model.py:24: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  ckpt = torch.load(model_path, map_location='cpu')\n/tmp/tmpd2kjrdua/offline_site/mast3r/retrieval/processor.py:70: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  ckpt = torch.load(modelname, 'cpu')  # TODO from pretrained to download it automatically\n",
+      "seconds": 15.378548714999852,
+      "status": "PASS"
+    },
+    "load_superpoint": {
+      "details": "MagicLeap SuperPoint use sample_descriptors_fix_sampling()\nLoaded SuperPoint model\nRESOURCE {\"cpu_peak_rss_bytes\": 683945984, \"gpu_peak_allocated_bytes\": 5204992}\n/tmp/tmpd2kjrdua/models/_research_only/magicleap/superpoint.py:169: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.\n  self.load_state_dict(torch.load(str(path), map_location=\"cpu\"))\n",
+      "seconds": 2.541450806999819,
+      "status": "PASS"
+    },
+    "mast3r.model": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 554356736, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.3420468899994376,
+      "status": "PASS"
+    },
+    "models._research_only.magicleap.superpoint": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 543539200, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.2190649610001856,
+      "status": "PASS"
+    },
+    "models.isc.model": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 734334976, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 4.067829493999852,
+      "status": "PASS"
+    },
+    "numpy": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 51437568, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 0.20207984500029852,
+      "status": "PASS"
+    },
+    "pipeline": {
+      "details": "Notfound: onnxruntime\nimc2025\nRESOURCE {\"cpu_peak_rss_bytes\": 1278754816, \"gpu_peak_allocated_bytes\": 2048}\n/tmp/tmpd2kjrdua/models/pixloc/pixlib/geometry/optimization.py:21: SyntaxWarning: \"is\" with a literal. Did you mean \"==\"?\n  if lambda_ is 0:  # noqa\n/tmp/tmpd2kjrdua/offline_site/lightglue/lightglue.py:24: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.\n  @torch.cuda.amp.custom_fwd(cast_inputs=torch.float32)\n/tmp/tmpd2kjrdua/models/gim/gluefactory/models/matchers/lightglue.py:21: FutureWarning: `torch.cuda.amp.custom_fwd(args...)` is deprecated. Please use `torch.amp.custom_fwd(args..., device_type='cuda')` instead.\n  @torch.cuda.amp.custom_fwd(cast_inputs=torch.float32)\n/kaggle/working/ns64_env/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers\n  warnings.warn(f\"Importing from {__name__} is deprecated, please import via timm.layers\", FutureWarning)\nWARNING:dinov2:xFormers not available\nWARNING:dinov2:xFormers not available\nINFO:faiss.loader:Loading faiss with AVX512 support.\nINFO:faiss.loader:Successfully loaded faiss with AVX512 support.\nINFO:faiss:Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.\n",
+      "seconds": 8.811194066999633,
+      "status": "PASS"
+    },
+    "pycolmap": {
+      "details": "3.11.1\nRESOURCE {\"cpu_peak_rss_bytes\": 85061632, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 0.23526970100010658,
+      "status": "PASS"
+    },
+    "python": {
+      "details": "3.11.11 (main, Mar 17 2025, 21:02:09) [Clang 20.1.0 ]\nRESOURCE {\"cpu_peak_rss_bytes\": 39051264, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 0.0284843550007281,
+      "status": "PASS"
+    },
+    "torch": {
+      "details": "2.5.1+cu121 12.1 (7, 5)\n1.0\nRESOURCE {\"cpu_peak_rss_bytes\": 686383104, \"gpu_peak_allocated_bytes\": 512}\n",
+      "seconds": 2.608761933999631,
+      "status": "PASS"
+    },
+    "torchvision": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 704036864, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 3.3726869370002532,
+      "status": "PASS"
+    },
+    "transformers": {
+      "details": "RESOURCE {\"cpu_peak_rss_bytes\": 560934912, \"gpu_peak_allocated_bytes\": 0}\n",
+      "seconds": 2.5188059129995963,
+      "status": "PASS"
+    }
+  },
+  "scope": "Historical Phase 3C.1 Kaggle execution",
+  "status": "PASS"
+}

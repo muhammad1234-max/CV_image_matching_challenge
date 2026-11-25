@@ -1,0 +1,96 @@
+{
+  "mapping": [
+    {
+      "dataset": "ETs",
+      "source_group": "ETs",
+      "partition": "dev_b",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "amy_gardens",
+      "source_group": "amy_gardens",
+      "partition": "dev_a",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "fbk_vineyard",
+      "source_group": "fbk_vineyard",
+      "partition": "dev_b",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "imc2023_haiper",
+      "source_group": "imc2023_haiper",
+      "partition": "dev_a",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "imc2023_heritage",
+      "source_group": "heritage_dioscuri",
+      "partition": "dev_a",
+      "reason": "Eight reported byte-identical cross-dataset pairs",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "imc2023_theather_imc2024_church",
+      "source_group": "imc2023_theather_imc2024_church",
+      "partition": "dev_a",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "imc2024_dioscuri_baalshamin",
+      "source_group": "heritage_dioscuri",
+      "partition": "dev_a",
+      "reason": "Eight reported byte-identical cross-dataset pairs",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "imc2024_lizard_pond",
+      "source_group": "imc2024_lizard_pond",
+      "partition": "confirmation",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "pt_brandenburg_british_buckingham",
+      "source_group": "pt_brandenburg_british_buckingham",
+      "partition": "dev_b",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "pt_piazzasanmarco_grandplace",
+      "source_group": "pt_piazzasanmarco_grandplace",
+      "partition": "confirmation",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "pt_sacrecoeur_trevi_tajmahal",
+      "source_group": "pt_sacrecoeur_trevi_tajmahal",
+      "partition": "dev_b",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "pt_stpeters_stpauls",
+      "source_group": "pt_stpeters_stpauls",
+      "partition": "dev_b",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    },
+    {
+      "dataset": "stairs",
+      "source_group": "stairs",
+      "partition": "dev_a",
+      "reason": "No further relationship established; candidate independence only",
+      "evidence": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md"
+    }
+  ],
+  "candidate_independence_only": true
+}

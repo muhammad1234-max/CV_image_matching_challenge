@@ -1,0 +1,27 @@
+{
+  "notebook_sha256": "d5c6e7b48872e6b7a836cb1c21e46b720f948c5ba891b5ecd8dae1abf4049894",
+  "historical_worker_sha256": "e3487c87a4dc9649736156632cb6ad440169e3b242b0ffe42e019de2ba940113",
+  "capture_worker_sha256": "cdc3dcb260da7522cbe16cfff661ecb3af49f9232d7ebffb8b43af8f45bfbba8",
+  "adapter_bundle_sha256": "2816e570ff6e7e24a95ddd5ae1211582829b28735d78fe9f305673a62a490a16",
+  "adapter_files": {
+    "src/novel_model/geometry_capture_v1/__init__.py": "0146e8401ec6437619a1ee367f17ff1ed13780d23799380326b73cfb8a24fd12",
+    "src/novel_model/geometry_capture_v1/analysis.py": "f3a68de6a77f413a897d61e16588c65972e4af2d1f47f1f77386bc34e7bff488",
+    "src/novel_model/geometry_capture_v1/database.py": "24bc7ef8dac7c1f9540218ccb1cc5b8d7ef9bbfb182ff8b1c9a4f47009a1a08a",
+    "src/novel_model/geometry_capture_v1/hook.py": "4d5dcd79b438cd757018532e385b2ea103892c48e7832f29ad04176ce760245b",
+    "src/novel_model/geometry_capture_v1/parity.py": "6e667a38100034f00bd45b41a3394649647e19413ed292af2c8f265433d28dd6",
+    "src/novel_model/geometry_capture_v1/rotations.py": "ac384e69449f44cf0d47dc72d99d6fdbc882757ffc442fcfb55aa8c20ff56427",
+    "src/novel_model/geometry_graph_v1/__init__.py": "3478acaaf87f3beda0b129768143dff95a06e0ba0ae097183ace5cfcb4e064ad",
+    "src/novel_model/geometry_graph_v1/__main__.py": "b923053d18d7178e3812204c6f92c7d59c4aa3d6c9a8e587f86411542861abdf",
+    "src/novel_model/geometry_graph_v1/boundary_consensus.py": "95ea546d5502c248c97f92b530fee775e8990a267b72c2dc06bbecb2f9318651",
+    "src/novel_model/geometry_graph_v1/decision_engine.py": "aaaf4ebe7ac3b34bbcf2fafc677e99c948e94e4bcbc092ae8eae0de099a0659e",
+    "src/novel_model/geometry_graph_v1/diagnostics.py": "0b6a16c26e6293afbd63a3f911a6fc445a09ad4c29eb9f2e084d0cf111b85824",
+    "src/novel_model/geometry_graph_v1/fixtures.py": "1a429a0469069a7bac50792c8ad37906f9e184a5920950aa5ddc0e1d6fb36ac9",
+    "src/novel_model/geometry_graph_v1/graph_import.py": "f37a09df40ca940104071fc42d443de3ebceb7961da5d517458e8ab23115c853",
+    "src/novel_model/geometry_graph_v1/internal_consistency.py": "1c9c15f19720995033a89f3e5d30668093447e647543b02338eef652dacd43f1",
+    "src/novel_model/geometry_graph_v1/rotation_geometry.py": "dd46598dfbe314c7eb50febc406e05a3616e9289ff95449b88b9decdaf013fe5",
+    "src/novel_model/geometry_graph_v1/schemas.py": "7a1cedcc2f9cc8ca7e0fe6b49778354f08de1c33e7c584285ec6b53038f6b15a",
+    "src/novel_model/geometry_graph_v1/spectral_proposal.py": "f9e890563dfc057a36a0d3b28117f3abc6b583a6f9ce94202059166975d4e52c",
+    "configs/novel_model/architecture_proposal_v1.yaml": "b0fb39e016e84428daada0b48bad89ca99153c05bfcc61f40d91ed9300a842b9",
+    "configs/novel_model/geometry_graph_v1.yaml": "02ca4118cbd24d4563b7c7247a4874742af1cdc6240e8aa655c16e8b31f20025"
+  }
+}

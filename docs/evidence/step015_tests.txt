@@ -1,0 +1,17 @@
+test_clusterness_and_harmonic (test_evaluation_contract.ContractTests.test_clusterness_and_harmonic) ... ok
+test_correct_poses (test_evaluation_contract.ContractTests.test_correct_poses) ... ok
+test_csv_roundtrip (test_evaluation_contract.ContractTests.test_csv_roundtrip) ... ok
+test_discrepancy (test_evaluation_contract.ContractTests.test_discrepancy) ... ok
+test_ground_truth_outlier_excluded (test_evaluation_contract.ContractTests.test_ground_truth_outlier_excluded) ... ok
+test_label_permutation (test_evaluation_contract.ContractTests.test_label_permutation) ... ok
+test_malformed_rotation_rejected (test_evaluation_contract.ContractTests.test_malformed_rotation_rejected) ... ok
+test_nan_unregistered_pose (test_evaluation_contract.ContractTests.test_nan_unregistered_pose) ... ok
+test_predicted_outliers_lose_pose_credit (test_evaluation_contract.ContractTests.test_predicted_outliers_lose_pose_credit) ... ok
+test_similarity_alignment (test_evaluation_contract.ContractTests.test_similarity_alignment) ... ok
+test_strict_threshold_and_skip (test_evaluation_contract.ContractTests.test_strict_threshold_and_skip) ... ok
+test_wrong_pose (test_evaluation_contract.ContractTests.test_wrong_pose) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.346s
+
+OK

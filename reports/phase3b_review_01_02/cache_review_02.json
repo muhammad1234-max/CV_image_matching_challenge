@@ -1,0 +1,7 @@
+{
+  "archive_integrity": "PASS",
+  "archive_sha256": "d0d96dccbacbf538086811039268979cfb72f67f0c3f9ca5fcf97ab15d22e059",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/stairs/F/colmap.db"
+  ]
+}

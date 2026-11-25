@@ -1,0 +1,5 @@
+# Frozen identities
+
+The local build compared candidate, comparator, benchmark, evaluation and worker pins to the existing Phase 4I and 5A receipts. reports/phase5a1/scientific_comparison.json lists each path with its expected and observed SHA256. Historical notebook-only worker resources are read from its pinned embedded ZIP. reports/phase5a1/revision.json identifies the new operational bundle separately.
+
+Candidate configuration SHA256 is 8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26. Inference protocol SHA256 is ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690. Candidate v1, the evaluator, thresholds, proposal and selector remain the frozen implementations. Model checkpoint entries are expected identities. Actual mounted weights must be hashed by the worker in the future clean VM.

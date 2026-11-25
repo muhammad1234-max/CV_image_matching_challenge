@@ -1,0 +1,42 @@
+{
+  "method_id": "ns64_mast3rhybrid_022c",
+  "comparison_baseline_id": "organizer_baseline_v1_dev_full",
+  "historical_archive_hash": "1f71773dabbcf2f39567cb55b31177e9df9d760e8f912ad8627a7c9dfb842e97",
+  "benchmark": {
+    "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+    "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+    "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+    "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+  },
+  "configuration_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+  "source_sha256": "c6035c596a484331ebfaf8d3b6368b4a32acb00b3bebe670a8215c78b6c12549",
+  "budget_seconds_per_condition": 1800,
+  "assets": {
+    "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e",
+    "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+    "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+    "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+    "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+    "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+    "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d"
+  },
+  "source_files": {
+    "src/baselines/top10_reproduction/isolated_worker.py": "a65fb96ee36b09d55040151284cc591772aa2c809a4e40ac9f12ae96b279ae5a",
+    "src/baselines/top10_reproduction/isolated_staging.py": "f3cb76cc6cf11023693c2e65b7a2febdb40c5481425653c16eca78da5f1a44e2",
+    "src/baselines/top10_reproduction/restore_and_score.py": "b276325e81a7d0b21ce86d10194d1e776fa97f7ab50a88265d7f94a7bd40c8f0",
+    "src/baselines/top10_reproduction/ns64_adapter.py": "698b697dd5e38a7c48b2cf13593040338c274126e0455c1cbdfb77d789cfb5f3",
+    "src/baselines/top10_reproduction/ets_worker.py": "58a6f6d59a277fafb9427725552419927ed7dd5b37154354d98d11c6b397da4d",
+    "scripts/verify_ns64_isolation.py": "b31229246019629a7d64c6cbadb4fb523d3cfdefd0220be45b29f8a84da614f9",
+    "tests/test_ns64_isolation.py": "832bd8f9fe977c3e06e8db8bdc8be0f84576533d92c3e972efcd30c1fe5ea073"
+  },
+  "conditions": {
+    "ns64_isolated_v1_ETs_20261111": {
+      "seed": 20261111,
+      "permutation_sha256": "88b39706d192180b8ff291a8d4ac04e7e6ef09644560ec0064cc6b637e1651cf"
+    },
+    "ns64_isolated_v1_ETs_20261112": {
+      "seed": 20261112,
+      "permutation_sha256": "7f72c8de926c590209b5dcb419e7ce020745c549d67e7ab79ddb639010304847"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+Audit date: 2026-11-10 Asia/Karachi
+
+Command: Get-ItemProperty -LiteralPath 'HKLM:\HARDWARE\DESCRIPTION\System\BIOS' | Select-Object SystemManufacturer,SystemProductName
+SystemManufacturer: Hewlett-Packard
+SystemProductName: HP ZBook 15 G2
+
+Read-only CIM checks outside sandbox:
+Get-CimInstance Win32_Processor | Select-Object Name,NumberOfCores,NumberOfLogicalProcessors | ConvertTo-Json
+Name: Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz
+NumberOfCores: 4
+NumberOfLogicalProcessors: 8
+
+Get-CimInstance Win32_VideoController | Select-Object Name,DriverVersion,AdapterRAM | ConvertTo-Json
+NVIDIA Quadro K1100M; DriverVersion 22.21.13.8573; AdapterRAM 2147483648
+Intel(R) HD Graphics 4600; DriverVersion 20.19.15.5126; AdapterRAM 1073741824
+Intel AdapterRAM is an OS-reported field, not verified dedicated VRAM.
+
+Get-CimInstance Win32_ComputerSystem | Select-Object Manufacturer,Model,HypervisorPresent | ConvertTo-Json
+Manufacturer: Hewlett-Packard
+Model: HP ZBook 15 G2
+HypervisorPresent: true
+
+Command: python -c "import torch, torchvision, cv2, transformers; print('torch',torch.__version__,'torchvision',torchvision.__version__,'transformers',transformers.__version__); print('cuda build',torch.version.cuda,'available',torch.cuda.is_available()); print('cv2',cv2.__version__,cv2.__file__)"
+torch 2.10.0+cpu torchvision 0.25.0+cpu transformers 5.17.0
+cuda build None available False
+cv2 4.13.0 C:\Users\hp z book\AppData\Roaming\Python\Python313\site-packages\cv2\__init__.py
+
+Command: python -c "import importlib.metadata as m; print([(d.metadata['Name'], d.version) for d in m.distributions() if 'opencv' in d.metadata.get('Name','').lower()])"
+[('opencv-contrib-python', '4.13.0.92'), ('opencv-python', '4.10.0.84')]
+
+Initial audit script failed to serialize a registry binary value: TypeError: Object of type bytes is not JSON serializable.
+Fixed by encoding binary registry values as hex; successful rerun saved in environment.json.
+Bounded import attempts in the sandbox timed out for torch, torchvision and transformers. Subsequent imports outside sandbox succeeded; initial timeouts are not missing-package evidence.
+
+Public source fetching initially failed with WinError 10013 (sandbox network restriction).
+Authorized read-only fetch outside sandbox succeeded for five small text files.
+seventh_requirements.txt: HTTP 404 Not Found.
+first_tree.json: HTTP 403 rate limit exceeded. No retry.
+First-place metric fetched separately: 35449 bytes; SHA256 c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261.
+URL: https://raw.githubusercontent.com/ns-rokuyon/kaggle-image-matching-challenge-2025/main/utils/imc25/metric.py

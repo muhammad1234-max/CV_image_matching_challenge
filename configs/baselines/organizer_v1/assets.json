@@ -1,0 +1,37 @@
+{
+  "wheels": {
+    "kornia-0.7.2-py2.py3-none-any.whl": "411e09ccdc4efde351f90a81f35a6eb9fad3bcf58ac037cbec4d41a8364dd039",
+    "kornia_rs-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": "eb627590ccfabcfb0fdc39cf186d4abf5eee017c74a9bdf1903ca0bc6b4192f0",
+    "lightglue-0.0-py3-none-any.whl": "5458397cf646ba5840700f56683bd4108ce6a5d51208a02f2d9d2b06a89d1a90",
+    "pycolmap-0.6.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": "3bce081ff00d0b51c031f43568211ea216c74e6c69d5906aa5a196f58f0f7b8e"
+  },
+  "package_versions": {
+    "kornia": "0.7.2",
+    "kornia-rs": "0.1.2",
+    "lightglue": "0.0",
+    "pycolmap": "0.6.1"
+  },
+  "python_requirement": "CPython 3.10 Linux x86_64",
+  "torch_requirement": "CUDA-enabled; exact version not specified by source, captured at preflight; unverified until real run",
+  "other_runtime_dependencies": [
+    "numpy<2 for historical compiled stack",
+    "transformers with DINOv2 AutoModel support",
+    "h5py",
+    "Pillow",
+    "tqdm",
+    "opencv-python",
+    "packaging"
+  ],
+  "checkpoints": {
+    "dinov2": "metaresearch/dinov2/PyTorch/base/1",
+    "aliked": "oldufo/aliked/PyTorch/aliked-n16/1",
+    "lightglue": "oldufo/lightglue/PyTorch/aliked/1"
+  },
+  "checkpoint_hash_status": "not locally acquired; first mounted preflight locks observed SHA256 before inference, not independently authenticated publisher hashes",
+  "scoring_hashes": {
+    "ETs.csv": "6df2993272463ab06d63321489cbaf61f8419d21eb9d51ae31da44e525cf92b9",
+    "thresholds.csv": "9f47fbc76d1d93d898081c5706275cfd70d0bcc9592e7cdd5b4217403084f4e4"
+  },
+  "package_dataset_version_id": 7884485,
+  "utils_dataset_version_id": 11217117
+}

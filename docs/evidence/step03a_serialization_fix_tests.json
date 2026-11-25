@@ -1,0 +1,11 @@
+{
+  "tests": 79,
+  "failures": 0,
+  "errors": 0,
+  "duration_seconds": 1.89,
+  "command": "python -m unittest discover -s tests",
+  "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+  "notebook_sha256": "bea8d9ca1b633ad05019d7556a3fbac61b6306ae17eaf5f70102a2e9154a76c2",
+  "source_snapshot_hash": "401bc4be21414f72fcc2f00b30efa1bbcefa25cf34b5dcc74a003560e2542284",
+  "gpu_inference_executed_locally": false
+}

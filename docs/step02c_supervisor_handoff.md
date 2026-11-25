@@ -1,0 +1,6 @@
+# Phase 2C implementation handoff
+Implementation prepared and locally tested; no new Kaggle execution occurred. Actual source metadata and image pixels remain remote. New standalone audit source and self-contained notebook support six-column submission identity, lossless thresholds, NaN/outlier cross-tabs, license/source evidence and staged CPU duplicate screening. Existing inspect_dataset.py now routes six-column inputs explicitly; five-column training behavior remains. Prior notebooks, reports and evidence are retained unchanged.
+
+Local facts remain those in the returned Phase 2B ZIP: six-column sample header, 30 threshold rows with three unknown raw rejected values, and aggregate NaN/outlier counts. Their row-level equivalence and actual overlap findings are NOT asserted. No threshold config, predictions, split, baseline run or training was created.
+
+Tests and final counts: evidence/step02c_tests.txt. Notebook schema/code validation: evidence/step02c_notebook_validation.json. Run manually on Kaggle and return imc_contract_audit.zip. Then review raw Haiper values, sample identifiers/coverage, NaN contingency and exact/near/source candidates. Only after that can the supervisor approve independence grouping and a fixed benchmark. Baseline and split freezing remain BLOCKED.

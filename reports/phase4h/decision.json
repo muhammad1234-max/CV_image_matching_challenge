@@ -1,0 +1,12 @@
+{
+  "decision": {
+    "observations": {},
+    "reason": "affected point loss",
+    "selected": "pass_through"
+  },
+  "model": "af0eaa71875e61f265284e45fb13b2770b1bd711e4ec7941873c53832be02c01",
+  "package": "e9fde9686c7890b3c23b1569b26c53bce8a042c831285c2ffc79c782b56d1511",
+  "parent": "9d088fd433baee7e4101ab25a8b7f5fedf405c8342c1bc779f88ef911c32051a",
+  "plan": "5dba7362ecf4f5052e22a5bdf61a3ac1e4807cef2f7b55ed3ea8e843ca0a6504",
+  "selected_sha256": "44e7f97c6e04a180d8e0cafba12ee325acc199250866e416bfe7616c6e9ed769"
+}

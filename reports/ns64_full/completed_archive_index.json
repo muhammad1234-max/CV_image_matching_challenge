@@ -1,0 +1,26 @@
+[
+  {
+    "dataset": "ETs",
+    "archive": "imc_ns64_order_seed_20261111.zip",
+    "sha256": "c209c3e8c3551dfe28ac042fe58bf773b7eeada35718fee2a87de727080a3309",
+    "worker_sha256": "e7b9ba71cdd42e06a58d3331ce03ba54f3777a4ea351271c3223536d129e1b80"
+  },
+  {
+    "dataset": "stairs",
+    "archive": "imc_ns64_stairs_worker_20261111.zip",
+    "sha256": "c4f74f7900f34d684f9fea12651dd9ab75f3ae3ce24194e36ab692bfed474c14",
+    "worker_sha256": "54fb4002762e6395ae7a45191370334349f252ad1db7dd638d0f87a65651f812"
+  },
+  {
+    "dataset": "imc2023_haiper",
+    "archive": "reports/phase3c7/worker.zip",
+    "sha256": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9",
+    "worker_sha256": "e3487c87a4dc9649736156632cb6ad440169e3b242b0ffe42e019de2ba940113"
+  },
+  {
+    "dataset": "imc2023_theather_imc2024_church",
+    "archive": "imc_ns64_imc2023_theather_imc2024_church_worker_20261111 (1).zip",
+    "sha256": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93",
+    "worker_sha256": "782f46de6e4b2340fe2b05cbd01ae4c9124f286cb21b07fefe3e80d75847d9d0"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "adapter": "e14229b7498c1ded9e36d5366d431486474d393e69f688907888dc59593e9163",
+  "checks": {
+    "approved_mounts": {
+      "datasets/dataanalyst6969/phase5a5-synthetic-checkpoint-bin/phase5a5_synthetic_checkpoint.bin": "72efbc9ee40d2045a5705b73be42978b9af08b340f4a4651b462fcf097bbfdcc"
+    },
+    "fresh_session_restore": {
+      "capture_seal": "550cb3b66fb8b32c3fca29ffdc2a8509d3ff9f13311e177aa1065ac0829ed5d7",
+      "next_stage": "original",
+      "repeated_capture": false,
+      "restored_journal": "bd591e13fa44b68b48ce3d5b57160f369ebce8b436dfbbafe3c18088a22c4f18"
+    },
+    "mounts": {
+      "input_exists": true,
+      "input_is_dir": true,
+      "kaggle_mounts": [
+        "/kaggle/lib",
+        "/kaggle/input",
+        "/kaggle/input/datasets/dataanalyst6969/phase5a5-synthetic-checkpoint-bin",
+        "/kaggle/working"
+      ],
+      "working_entries": 0
+    }
+  },
+  "full_experiment_started": false,
+  "mode": "restore",
+  "status": "SYNTHETIC_CUSTODY_RESTORED"
+}

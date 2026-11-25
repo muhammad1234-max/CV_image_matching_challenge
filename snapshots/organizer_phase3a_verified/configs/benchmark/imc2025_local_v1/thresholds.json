@@ -1,0 +1,397 @@
+{
+  "source_csv_sha256": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2",
+  "raw_source_locally_available": false,
+  "skip_top_thresholds": 2,
+  "scenes": [
+    {
+      "dataset": "amy_gardens",
+      "scene": "peach",
+      "raw": "0.01;0.02;0.05;0.1;0.25;0.5",
+      "values": [
+        0.01,
+        0.02,
+        0.05,
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "dataset": "ETs",
+      "scene": "ET",
+      "raw": "0.002;0.005;0.008;0.01;0.02;0.04",
+      "values": [
+        0.002,
+        0.005,
+        0.008,
+        0.01,
+        0.02,
+        0.04
+      ]
+    },
+    {
+      "dataset": "ETs",
+      "scene": "another_ET",
+      "raw": "0.002;0.005;0.008;0.01;0.02;0.04",
+      "values": [
+        0.002,
+        0.005,
+        0.008,
+        0.01,
+        0.02,
+        0.04
+      ]
+    },
+    {
+      "dataset": "fbk_vineyard",
+      "scene": "vineyard_split_1",
+      "raw": "0.01;0.02;0.05;0.1;0.25;0.5",
+      "values": [
+        0.01,
+        0.02,
+        0.05,
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "dataset": "fbk_vineyard",
+      "scene": "vineyard_split_2",
+      "raw": "0.01;0.02;0.05;0.1;0.25;0.5",
+      "values": [
+        0.01,
+        0.02,
+        0.05,
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "dataset": "fbk_vineyard",
+      "scene": "vineyard_split_3",
+      "raw": "0.01;0.02;0.05;0.1;0.25;0.5",
+      "values": [
+        0.01,
+        0.02,
+        0.05,
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "dataset": "stairs",
+      "scene": "stairs_split_1",
+      "raw": "0.01;0.02;0.05;0.1;0.25;0.5",
+      "values": [
+        0.01,
+        0.02,
+        0.05,
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "dataset": "stairs",
+      "scene": "stairs_split_2",
+      "raw": "0.01;0.02;0.05;0.1;0.25;0.5",
+      "values": [
+        0.01,
+        0.02,
+        0.05,
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "dataset": "imc2023_haiper",
+      "scene": "bike",
+      "raw": "0;0;0.001;0.025;0.05;0.1",
+      "values": [
+        0.0,
+        0.0,
+        0.001,
+        0.025,
+        0.05,
+        0.1
+      ]
+    },
+    {
+      "dataset": "imc2023_haiper",
+      "scene": "chairs",
+      "raw": "0;0;0.001;0.025;0.05;0.1",
+      "values": [
+        0.0,
+        0.0,
+        0.001,
+        0.025,
+        0.05,
+        0.1
+      ]
+    },
+    {
+      "dataset": "imc2023_haiper",
+      "scene": "fountain",
+      "raw": "0;0;0.001;0.025;0.05;0.1",
+      "values": [
+        0.0,
+        0.0,
+        0.001,
+        0.025,
+        0.05,
+        0.1
+      ]
+    },
+    {
+      "dataset": "imc2023_heritage",
+      "scene": "cyprus",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2023_heritage",
+      "scene": "dioscuri",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2023_heritage",
+      "scene": "wall",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2023_theather_imc2024_church",
+      "scene": "kyiv-puppet-theater",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2023_theather_imc2024_church",
+      "scene": "church",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2024_dioscuri_baalshamin",
+      "scene": "dioscuri",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2024_dioscuri_baalshamin",
+      "scene": "baalshamin",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2024_lizard_pond",
+      "scene": "lizard",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "imc2024_lizard_pond",
+      "scene": "pond",
+      "raw": "0.025;0.05;0.1;0.2;0.5;1.0",
+      "values": [
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "dataset": "pt_brandenburg_british_buckingham",
+      "scene": "brandenburg_gate",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_brandenburg_british_buckingham",
+      "scene": "british_museum",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_brandenburg_british_buckingham",
+      "scene": "buckingham_palace",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_piazzasanmarco_grandplace",
+      "scene": "piazza_san_marco",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_piazzasanmarco_grandplace",
+      "scene": "grand_place_brussels",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_sacrecoeur_trevi_tajmahal",
+      "scene": "sacre_coeur",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_sacrecoeur_trevi_tajmahal",
+      "scene": "trevi_fountain",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_sacrecoeur_trevi_tajmahal",
+      "scene": "taj_mahal",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_stpeters_stpauls",
+      "scene": "st_peters_square",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    {
+      "dataset": "pt_stpeters_stpauls",
+      "scene": "st_pauls_cathedral",
+      "raw": "0.05;0.1;0.2;0.5;1.0;2.0",
+      "values": [
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0,
+        2.0
+      ]
+    }
+  ]
+}

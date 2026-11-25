@@ -1,0 +1,11 @@
+{
+  "api_attempt": "Authentication required",
+  "capture_started": false,
+  "classification": "BLOCKED \u2014 DEPENDENCY COMPATIBILITY",
+  "latest_live_kaggle": "phase5a4_kaggle_preflight.json",
+  "live_phase5a5_receipts_received": false,
+  "windows_tests": {
+    "full": 406,
+    "targeted": 12
+  }
+}

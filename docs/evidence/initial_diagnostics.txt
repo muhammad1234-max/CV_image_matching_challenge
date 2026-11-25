@@ -1,0 +1,52 @@
+Initial command: Get-CimInstance Win32_OperatingSystem / Win32_ComputerSystem / Win32_Processor / Win32_VideoController; Get-Volume; git status --short --branch; python --version; py -0p; pip --version; uv --version; git --version; nvidia-smi; nvcc --version
+Exit code: 1
+Get-CimInstance: 
+Line |
+   2 |  $os = Get-CimInstance Win32_OperatingSystem; $os | Select-Object Capt …
+     |        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Access denied 
+Get-CimInstance: 
+Line |
+   2 |  … Size,FreePhysicalMemory; Get-CimInstance Win32_ComputerSystem | Selec …
+     |                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Access denied 
+Get-CimInstance: 
+Line |
+   2 |  … ry,NumberOfLogicalProcessors; Get-CimInstance Win32_Processor | Selec …
+     |                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Access denied 
+Get-CimInstance: 
+Line |
+   2 |  … berOfLogicalProcessors; Get-CimInstance Win32_VideoController | Selec …
+     |                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Access denied 
+Get-Volume: 
+Line |
+   2 |  … ler | Select-Object Name,AdapterRAM,DriverVersion; Get-Volume | Selec …
+     |                                                       ~~~~~~~~~~
+     | Access denied 
+fatal: not a git repository (or any of the parent directories): .git
+Python 3.13.7
+ -V:3.13 *        C:\Python313\python.exe
+pip 26.1.2 from C:\Users\hp z book\AppData\Roaming\Python\Python313\site-packages\pip (python 3.13)
+ResourceUnavailable: 
+Line |
+   2 |  … branch; python --version; py -0p; pip --version; uv --version; git -- …
+     |                                                     ~~~~~~~~~~~~
+     | Program 'uv.exe' failed to run: An error occurred trying to start process 'C:\Users\hp z book\AppData\Local\Microsoft\WinGet\Links\uv.exe' with working directory 'D:\CV_Project'. No application is associated with the specified file for this operation.At line:2 char:578
++ … branch; python --version; py -0p; pip --version; uv --version; git -- …
++                                                    ~~~~~~~~~~~~.
+git version 2.47.1.windows.1
+nvidia-smi: 
+Line |
+   2 |  … y -0p; pip --version; uv --version; git --version; nvidia-smi; nvcc - …
+     |                                                       ~~~~~~~~~~
+     | The term 'nvidia-smi' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+nvcc: 
+Line |
+   2 |  …  pip --version; uv --version; git --version; nvidia-smi; nvcc --versi …
+     |                                                             ~~~~
+     | The term 'nvcc' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+

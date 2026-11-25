@@ -1,0 +1,52 @@
+{
+  "benchmark_version": "imc2025_local_v1",
+  "status": "DRAFT",
+  "seed": 20261111,
+  "blockers": [
+    "Original train_labels.csv unavailable locally",
+    "Original sample_submission.csv and row identity mapping unavailable locally",
+    "Original train_thresholds.csv bytes unavailable locally",
+    "Full image membership, image-level checks and freeze review pending"
+  ],
+  "dataset_inventory_hash": "ad6c64f09b9590cd2ab1c67a7c472ce52aa761ab5c5297f30884faa9ad85ad37",
+  "split_hash": null,
+  "proposal_hash": "612595ad47ebb354acb37d277adfb228d10ee0c500ad53c28b5447bb53653064",
+  "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+  "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645",
+  "evaluation_datasets": {
+    "dev_a": [
+      "amy_gardens",
+      "imc2023_haiper",
+      "imc2023_heritage",
+      "imc2023_theather_imc2024_church",
+      "imc2024_dioscuri_baalshamin",
+      "stairs"
+    ],
+    "dev_b": [
+      "ETs",
+      "fbk_vineyard",
+      "pt_brandenburg_british_buckingham",
+      "pt_sacrecoeur_trevi_tajmahal",
+      "pt_stpeters_stpauls"
+    ],
+    "confirmation": [
+      "imc2024_lizard_pond",
+      "pt_piazzasanmarco_grandplace"
+    ]
+  },
+  "file_hashes": {
+    "source_groups.json": "b702275a27ab7e0d630cba06be9ac984b699178c86fa402c9f2a5a914987b9e6",
+    "split_proposal.json": "6aaec09faad762f64e96cb3b79f5046634fc8184e4990b55cb3b4688086b13fa",
+    "thresholds.json": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645",
+    "provenance.json": "8f28efeef2f9c49293ed68c5294832e11c31b64df9be8938f600bad760155cd9",
+    "evaluator.json": "76de800b377ca8d228ee5e4ac30bf2b1bdf36c2a78d802a1edbe8ca9787b22aa",
+    "experiment_template.json": "69875c98884417855d296cde374dccd77ae56edfe029b6d87041d4dad5560d10"
+  },
+  "code_hashes": {
+    "scripts/benchmark_contract.py": "25e1e00a80fa5623ba9041889f8b9582c23b5144a946ce902e0b3651fd5ee047",
+    "scripts/evaluate_local_reference.py": "ade8662f9b8f22b3c7b7c946a648a37c7aca0bce7820d9d6d254984590f4f3ba",
+    "scripts/validate_benchmark.py": "88ca9f0e3220617d5f17ffb60880aa1aa254d0c6ce78319a5f66c9f08f99923f",
+    "scripts/register_experiment.py": "39b0924408529ec64ea70e0ebec1074f557919d741bc9b7bb8cb5e718fe167e9"
+  },
+  "benchmark_hash": "26e8ea072099eaddf14698db579d8a41d5654e42e91bc1e6f00b59a0457f9b5d"
+}

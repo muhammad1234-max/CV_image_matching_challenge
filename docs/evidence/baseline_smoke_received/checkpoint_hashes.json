@@ -1,0 +1,9 @@
+{
+  "/kaggle/input/dinov2/pytorch/base/1/config.json": "f7ff4cfa73d2f70647dbf6950541ad25d73082d54c2e7e9bded160c7656b2a70",
+  "/kaggle/input/dinov2/pytorch/base/1/preprocessor_config.json": "14e780d86fa1861f8751f868d7f45425b5feb55c38ca26f152ca5097ab30f828",
+  "/kaggle/input/dinov2/pytorch/base/1/README.md": "3d5a6141bfada07c8fbe3656201ea42920bb714d0650d7a86b64b78da5ef40d0",
+  "/kaggle/input/dinov2/pytorch/base/1/pytorch_model.bin": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d",
+  "/kaggle/input/dinov2/pytorch/base/1/.gitattributes": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361",
+  "/kaggle/input/aliked/pytorch/aliked-n16/1/aliked-n16.pth": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+  "/kaggle/input/lightglue/pytorch/aliked/1/aliked_lightglue.pth": "d975e965b105311a6143194852297dff4f02aea5cc2e10cecfed966ca0e22503"
+}

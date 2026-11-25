@@ -1,0 +1,3 @@
+# Journal custody
+
+Local reconciliation found the externally retained created-only journal c55696d7f66f5555474fffc693566b91973b5e172f33e2a7e7e20f8a6e9a8dc4. The committed migration journal is 35ea6c250304d1fa81e490ea82219dfb62737e4076b5fb437658485326e99a4a, under kaggle_upload/phase5a6_initial_custody. Its first event binds release fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac. Its second preserves the original event, runner, hash, empty checkpoint inventory and zero seconds consumed. Both files are included for audit. Confirm that no newer journal is held elsewhere before using the initial migration. After starting a stage, use only the latest retained journal. An unresolved start or failure requires review.

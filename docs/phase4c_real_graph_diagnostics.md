@@ -1,0 +1,3 @@
+# Phase 4C real graph diagnostics
+
+Status: NOT_RUN. Historical Haiper contains 454 verified endpoint pairs. Real per-pair support, valid rotations, closure residuals, disjoint witnesses, consensus radius and decision await the new numerical parent. The worker exports graph.json, graph_trust.json, rotations.json, coverage.json and five complete method receipts. A null witness count indicates the crossing test was not reached. Every active method is diagnostic only. No real SPLIT, RETAIN or ABSTAIN has been observed.

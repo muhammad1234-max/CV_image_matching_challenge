@@ -1,0 +1,5 @@
+# Phase 5A.5 smoke tests
+
+The Windows suite exercises nine Kaggle platform and journal cases, three adapted generated-child chains, the 24 existing generated-child cases and the earlier runner/selector coverage. The adapted child cases cover a complete chain, timeout fallback and a digest failure using synthetic external dependencies. The package rehearsal restores a verified synthetic checkpoint and checks the journal transition. Full and targeted JUnit reports are included. These are CPU results.
+
+The Kaggle notebook also runs the generated-child suite on Linux with the CPU fixture. Separately, it runs actual native module imports, a CUDA calculation, and individual checkpoint loaders on the selected T4. The MASt3R loader uses tiny synthetic tensors. No competition image enters matching or mapping. Fresh Phase 5A.5 live results and external restore evidence are pending. The Phase 3C.1 model-load receipt and Phase 5A.4 platform report retain their historical labels.

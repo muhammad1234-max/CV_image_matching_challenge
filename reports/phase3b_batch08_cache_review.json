@@ -1,0 +1,7 @@
+{
+  "archive_integrity": "PASS",
+  "sha256": "472c8a38bc9f5114803ca6e182e4fe0f480dde3728a004f85dd68e013e0a693a",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/pt_stpeters_stpauls/F/colmap.db"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "rows": 1945,
+  "source_sha256": "f65b20be20cb2cbfd288871c20f9863fd6f052f484a97b236090989af945ea0c",
+  "rotation_atol": 0.001,
+  "rotation_rtol": 0,
+  "determinant_abs_tolerance": 0.001,
+  "finite_invalid_rotations_by_dataset": {},
+  "nonoutlier_all_nan": 0,
+  "outlier_not_all_nan": 0,
+  "complete": true
+}

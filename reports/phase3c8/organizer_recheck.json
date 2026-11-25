@@ -1,0 +1,46 @@
+{
+  "scores": {
+    "participant": {
+      "combined_score": 0.3832599118942731,
+      "maa": 0.3107142857142857,
+      "clusterness": 0.5
+    },
+    "prose_sensitivity": {
+      "combined_score": 0.3832599118942731,
+      "maa": 0.3107142857142857,
+      "clusterness": 0.5
+    }
+  },
+  "true_scene_count": 2,
+  "true_outliers": 0,
+  "predicted_outliers": 2,
+  "predicted_clusters": 1,
+  "diagnostics": {
+    "false_outliers": 2,
+    "missed_outliers": 0,
+    "merged_clusters": {
+      "cluster0": [
+        "church",
+        "kyiv-puppet-theater"
+      ]
+    },
+    "split_scenes": {},
+    "contingency": [
+      {
+        "true_scene": "church",
+        "predicted_scene": "cluster0",
+        "images": 50
+      },
+      {
+        "true_scene": "kyiv-puppet-theater",
+        "predicted_scene": "cluster0",
+        "images": 24
+      },
+      {
+        "true_scene": "kyiv-puppet-theater",
+        "predicted_scene": "outliers",
+        "images": 2
+      }
+    ]
+  }
+}

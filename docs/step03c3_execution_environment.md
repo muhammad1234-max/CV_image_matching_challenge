@@ -1,0 +1,9 @@
+Use a dedicated clean Linux NVIDIA host with an existing Docker daemon and NVIDIA Container Toolkit. The clean runtime image must contain the verified Python 3.11, torch 2.5.1+cu121, native extensions and runtime packages; inspect its layers for project data, credentials and prior outputs before selecting its immutable image ID. Provide python on PATH. Do not use a snapshot of an administrative notebook as the image. Run only the probe in this phase. The supplied launcher requests GPU device visibility to measure the intended namespace; it performs no model inference. Colab/Kaggle namespace support remains unverified.
+
+On the trusted administrative host with the original receipt paths available, from project root run:
+python src/baselines/top10_reproduction/isolated_staging.py /path/to/train/ETs /path/to/imc_ns64_dependency_receipt.zip /scratch/order11 20261111
+Repeat with /scratch/order12 and 20261112. Use fresh destinations. Stage on the original administrative environment if that is where receipt paths resolve. Preserve private.json privately. On the trusted Docker host run:
+python scripts/verify_ns64_isolation.py /scratch/order11 sha256:IMAGE_ID /scratch/probe11
+Replace the image ID with the inspected 64-hex local value. Repeat for order12 with a fresh output. The Docker host needs the verified package and its admin manifest to launch the probe; the container receives only the package and empty output. The project, original ZIP, Drive, historical results and private record must never be mounted into the container. Return the two boundary.json receipts plus image ID and the package inventory digests for supervisor review. Keep mappings private.
+
+For planning, two runs at the historical wall time consume about 14.5 minutes. The two execution caps together allow 60 minutes plus separately measured setup/probe time. Device availability, clean-image construction and target OS verification remain outstanding.

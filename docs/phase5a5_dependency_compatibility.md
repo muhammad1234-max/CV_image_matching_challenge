@@ -1,0 +1,5 @@
+# Phase 5A.5 dependency compatibility
+
+A previous Phase 3C.1 Kaggle receipt records Python 3.11.11, PyTorch 2.5.1+cu121, CUDA compute capability 7.5, native imports and successful loading of the seven asset groups on driver 580.178.04. The later platform-only probe measured base Python 3.13.16 and PyTorch 2.11.0+cu130. Neither receipt establishes the state of a newly provisioned venv.
+
+The smoke notebook installs uv 0.13.8, the exact managed interpreter, pinned setuptools/wheel and the approved requirements with pip --no-deps. Local native and research wheels come from the digest-pinned runtime ZIP. Network access during setup supplies pinned package versions and model files verified by SHA256. The normalized freeze comparison preserves package versions, local wheel filenames and hashes while allowing the deployment path to change. This is a network-assisted installation, with separate native imports and actual model loading after installation. Scratch footprint and availability of all historical package versions remain live gates.

@@ -1,0 +1,43 @@
+{
+  "adapter": "e14229b7498c1ded9e36d5366d431486474d393e69f688907888dc59593e9163",
+  "approved_images": 138,
+  "candidate_score": null,
+  "capture": "NOT_STARTED",
+  "classification": "BLOCKED \u2014 RESOURCES OR EXECUTION",
+  "committed_journal": "35ea6c250304d1fa81e490ea82219dfb62737e4076b5fb437658485326e99a4a",
+  "decision": null,
+  "original": "NOT_STARTED",
+  "paired_difference": null,
+  "partition": "dev_a",
+  "preflight": "AWAIT_LIVE_KAGGLE",
+  "prior_journal": "c55696d7f66f5555474fffc693566b91973b5e172f33e2a7e7e20f8a6e9a8dc4",
+  "prior_review_manifest_matches": {
+    "inner": 32,
+    "outer": 4
+  },
+  "real_checkpoints": [],
+  "registered_organizer": {
+    "participant": {
+      "clusterness": 0.898876404494382,
+      "combined_score": 0.5628763937749686,
+      "maa": 0.4097222222222222
+    },
+    "prose_sensitivity": {
+      "clusterness": 0.898876404494382,
+      "combined_score": 0.5628763937749686,
+      "maa": 0.4097222222222222
+    }
+  },
+  "release": "fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac",
+  "scientific_files": 45,
+  "stage_seconds_consumed": 0,
+  "stage_seconds_remaining": 14400,
+  "tests": {
+    "final_packaged_dispatch": 3,
+    "local_full": 409,
+    "packaged_regressions": 30,
+    "previous_reference": 406
+  },
+  "trial": "NOT_STARTED",
+  "trial_allowance_remaining": 1
+}

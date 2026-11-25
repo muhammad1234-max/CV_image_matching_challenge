@@ -1,0 +1,8 @@
+# Phase 2C DRAFT validation grouping
+No split is frozen. Local measured evidence supports 13 named datasets, 30 scenes and only four outlier-bearing datasets. Outlier-heavy sources include heritage (61), lizard/pond (34), dioscuri/baalshamin (24) and ETs (3). Source: docs/evidence/kaggle_audit_received/dataset_groups.csv.
+
+Conservative draft: keep imc2023_heritage and imc2024_dioscuri_baalshamin together pending source review because both contain dioscuri. This is a precautionary proposed constraint, not a confirmed exact-duplicate result. All other named datasets are provisional individual groups with independence UNKNOWN; historical IMC and PhotoTourism families require further license/source review. Any exact cross-dataset duplicate components discovered on Kaggle must stay together. Near-match candidates require review before additional grouping.
+
+After source components are resolved, choose grouped development folds representing scene sizes/domains and outlier regimes without looking at model scores. Consider leave-one-independent-group-out if measured runtime permits; a later pilot is needed to estimate cost. Protect a representative confirmation group/set and never tune on it. Scene-disjoint folds may complement within-domain analysis but cannot replace independent-source generalization. No arbitrary percentages or selected final holdout names are approved here.
+
+Per AGENTS.md, all improvements use the same frozen baseline, data, evaluator, thresholds and conditions. Corrections require a new benchmark version and rerunning comparisons. Resolve six-column sample contract and raw thresholds before baseline readiness. Official prose mAA-first and participant overlap-first variants stay separately labeled.

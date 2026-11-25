@@ -1,0 +1,66 @@
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+.kaggle/
+**/kaggle.json
+**/access_token
+**/*credentials*
+*.pem
+*.key
+.aws/
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+cache/
+tmp/
+.ipynb_checkpoints/
+# Data, weights, archives and generated reconstruction artifacts
+data/**
+!data/README.md
+weights/
+models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.zip
+*.tar
+*.gz
+*.7z
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.db
+*.sqlite*
+*.ply
+*.bin
+outputs/
+reconstructions/
+experiments/**
+!experiments/README.md
+# Report build products
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Local research custody
+**/private*.json
+**/*identity_mapping*
+**/train_labels*
+**/development_scoring/
+**/scoring/
+kaggle_upload/

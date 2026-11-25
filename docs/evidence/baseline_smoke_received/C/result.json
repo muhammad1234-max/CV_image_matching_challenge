@@ -1,0 +1,12 @@
+{
+  "stage": "C",
+  "status": "PASS",
+  "metrics": {
+    "possible_pairs": 231,
+    "selected_pairs": 226
+  },
+  "runtime_seconds": 7.1508814850000135,
+  "gpu_peak_allocated_bytes": 0,
+  "gpu_peak_reserved_bytes": 0,
+  "cpu_peak_rss_bytes": 1205796864
+}

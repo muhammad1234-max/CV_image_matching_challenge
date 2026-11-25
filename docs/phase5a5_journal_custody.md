@@ -1,0 +1,3 @@
+# Phase 5A.5 journal custody
+
+The externally retained journal c55696d7f66f5555474fffc693566b91973b5e172f33e2a7e7e20f8a6e9a8dc4 contains only the Phase 5A.3 created event. The migration verifies exact bytes, full experiment identity and prior runner. It creates a separate transition preview, preserving the original event, digest, prior runner, zero consumed seconds and empty checkpoint inventory. The approved base Runner accepts the derived identity in a disposable resume test. Any altered prior journal, attempted stage or conflicting target stops migration. Preview generation has no effect on actual custody. Keep the original journal externally. Reconcile any newer journal before prospective execution.

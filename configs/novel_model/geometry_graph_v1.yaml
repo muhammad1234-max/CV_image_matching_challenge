@@ -1,0 +1,13 @@
+schema: geometry_graph_v1
+proposal: architecture_proposal_v1.yaml
+proposal_sha256: b0fb39e016e84428daada0b48bad89ca99153c05bfcc61f40d91ed9300a842b9
+default_method: pass_through_v1
+methods:
+  - pass_through_v1
+  - candidate_a_v1
+  - normalized_cut_v1
+  - triangle_v1
+  - per_edge_consensus_v1
+triangle_min_checks: 4
+triangle_median_limit_deg: 15
+rotation_matrix_atol: 1.0e-6

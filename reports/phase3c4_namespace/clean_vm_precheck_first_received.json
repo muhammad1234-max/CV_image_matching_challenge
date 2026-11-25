@@ -1,0 +1,52 @@
+{
+  "status": "BLOCKED",
+  "mechanism": "separate clean VM; no process sandbox",
+  "scope": "pre-staging dependency and absence checks",
+  "python": "3.11.11 (main, Mar 17 2025, 21:02:09) [Clang 20.1.0 ]",
+  "uid": 0,
+  "limitations": [
+    "Physical VM deletion is operator-attested.",
+    "Absence checks do not prove read denial within this VM.",
+    "No opaque image package has been staged or verified yet."
+  ],
+  "administrative_paths": {
+    "/content/drive": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/ns64": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/kaggle/input": {
+      "accessible": true
+    },
+    "/private.json": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/private.json": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/imc_ets_images.zip": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/imc_ns64_colab_migration.zip": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/ns64/project/configs/baselines/organizer_v1/development_scoring/ETs/train_labels.csv": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/ns64/ets_attempt/inference/predictions.csv": {
+      "accessible": false,
+      "errno": 2
+    }
+  },
+  "error_type": "ValueError",
+  "error": "Administrative path accessible",
+  "probe_sha256": "11bd2a346611d0bf5e522232fe0476a44ed89e0a0d64f26e0071eb7a3f88135b"
+}

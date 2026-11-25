@@ -1,0 +1,44 @@
+{
+  "audited_at_utc": "2026-11-22T22:20:52.969530+00:00",
+  "classification": "BLOCKED \u2014 INTEGRITY OR EXECUTION",
+  "config_sha256": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+  "dataset": "imc2024_dioscuri_baalshamin",
+  "delta_vs_ns64": null,
+  "delta_vs_organizer": null,
+  "model": "final_candidate_v1",
+  "proceed_to_second_group": false,
+  "prospective_scores": null,
+  "protocol_sha256": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+  "real_trial_attempts": 0,
+  "seed": 20261111,
+  "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+  "stages": {
+    "capture": {
+      "checkpoint_sha256": null,
+      "status": "NOT_RUN"
+    },
+    "decision": {
+      "checkpoint_sha256": null,
+      "status": "NOT_RUN"
+    },
+    "original": {
+      "checkpoint_sha256": null,
+      "status": "NOT_RUN"
+    },
+    "trial": {
+      "checkpoint_sha256": null,
+      "status": "NOT_RUN"
+    }
+  },
+  "synthetic_probe": "reports/phase5a/runner_probe.json",
+  "tests": {
+    "suite": {
+      "elapsed_seconds": 19.203,
+      "passed": 322
+    },
+    "targeted": {
+      "elapsed_seconds": 2.808,
+      "passed": 20
+    }
+  }
+}

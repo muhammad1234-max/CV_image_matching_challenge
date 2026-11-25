@@ -1,0 +1,51 @@
+{
+  "training_datasets": 13,
+  "training_scenes": 30,
+  "unique_training_images": 1945,
+  "training_outliers": 122,
+  "scene_size_distribution": {
+    "23": 2,
+    "15": 1,
+    "16": 1,
+    "75": 7,
+    "30": 1,
+    "43": 2,
+    "50": 1,
+    "26": 1,
+    "49": 1,
+    "65": 1,
+    "90": 2,
+    "68": 1,
+    "100": 3,
+    "200": 1,
+    "35": 1,
+    "85": 1,
+    "9": 1,
+    "10": 1,
+    "28": 1
+  },
+  "visible_image_files_by_dataset": {
+    "train": {
+      "ETs": 22,
+      "amy_gardens": 200,
+      "fbk_vineyard": 163,
+      "imc2023_haiper": 54,
+      "imc2023_heritage": 209,
+      "imc2023_theather_imc2024_church": 76,
+      "imc2024_dioscuri_baalshamin": 138,
+      "imc2024_lizard_pond": 214,
+      "pt_brandenburg_british_buckingham": 225,
+      "pt_piazzasanmarco_grandplace": 168,
+      "pt_sacrecoeur_trevi_tajmahal": 225,
+      "pt_stpeters_stpauls": 200,
+      "stairs": 51
+    },
+    "test": {
+      "ETs": 22,
+      "stairs": 51
+    }
+  },
+  "independent_groups": "UNKNOWN: dataset names are not proof of independence",
+  "metadata_statistics_complete": true,
+  "file_scan_complete": true
+}

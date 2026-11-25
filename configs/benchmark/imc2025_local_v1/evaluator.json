@@ -1,0 +1,17 @@
+{
+  "source_url": "https://raw.githubusercontent.com/ns-rokuyon/kaggle-image-matching-challenge-2025/main/utils/imc25/metric.py",
+  "source_revision": null,
+  "sha256": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+  "primary": "participant overlap-first",
+  "sensitivity": "mAA-first, purity tie-break, stable index final tie",
+  "adapter": "scripts/evaluate_local_reference.py",
+  "dependencies": [
+    "Python",
+    "NumPy"
+  ],
+  "inl_cf": 0,
+  "strict_cf": -1,
+  "skip_top_thresholds": 2,
+  "to_dec": 3,
+  "exact_kaggle_parity": false
+}

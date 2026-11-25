@@ -1,0 +1,65 @@
+{
+  "coverage": {
+    "components": 2,
+    "crossing_witnesses_by_component": [
+      null,
+      null
+    ],
+    "images": 54,
+    "methods": {
+      "candidate_a_v1": {
+        "decisions": [
+          "ABSTAIN",
+          "ABSTAIN"
+        ],
+        "mask_sha256": "98132005a9cea3514bd33f03cb0984f34194d02e91180fbb2b19531f43a04c6e",
+        "removed": 0
+      },
+      "normalized_cut_v1": {
+        "decisions": [
+          "SPLIT",
+          "SPLIT"
+        ],
+        "mask_sha256": "7dfa2906f64a7b7934b5fe705f2d5e5528c5d783a2968fd166662e7ae1115d06",
+        "removed": 160
+      },
+      "pass_through_v1": {
+        "decisions": [
+          "RETAIN",
+          "RETAIN"
+        ],
+        "mask_sha256": "98132005a9cea3514bd33f03cb0984f34194d02e91180fbb2b19531f43a04c6e",
+        "removed": 0
+      },
+      "per_edge_consensus_v1": {
+        "decisions": [
+          "ABSTAIN",
+          "ABSTAIN"
+        ],
+        "mask_sha256": "98132005a9cea3514bd33f03cb0984f34194d02e91180fbb2b19531f43a04c6e",
+        "removed": 0
+      },
+      "triangle_v1": {
+        "decisions": [
+          "RETAIN",
+          "RETAIN"
+        ],
+        "mask_sha256": "98132005a9cea3514bd33f03cb0984f34194d02e91180fbb2b19531f43a04c6e",
+        "removed": 0
+      }
+    },
+    "observed_non_tree_checks": 0,
+    "pairs_with_support": 454,
+    "reasons": {
+      "uncorroborated_focal_prior": 454
+    },
+    "reliable_sides": 0,
+    "usable_rotations": 0,
+    "verified_pairs": 454
+  },
+  "graph_decisions_reproduced": true,
+  "parent_sha256": "9d088fd433baee7e4101ab25a8b7f5fedf405c8342c1bc779f88ef911c32051a",
+  "parent_verified": true,
+  "receipt_sha256": "3e3906bcee4fff89f697a1c0d5738fcf9890bcdf22b0ab0d1d9468c9bd9c5d45",
+  "remote_run_status": "TIMEOUT"
+}

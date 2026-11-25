@@ -1,0 +1,55 @@
+{
+  "source_sha256": "cce6dddfdf979f0b33e821587d98d6ed0fa97042a0cc0ae4cca1a77a3cf65aab",
+  "columns": [
+    "image_id",
+    "dataset",
+    "scene",
+    "image",
+    "rotation_matrix",
+    "translation_vector"
+  ],
+  "rows": 1945,
+  "unique_image_id": 1945,
+  "unique_dataset_image": 1945,
+  "unique_image_strings": 1937,
+  "issues": {},
+  "per_dataset": {
+    "ETs": 22,
+    "amy_gardens": 200,
+    "fbk_vineyard": 163,
+    "imc2023_haiper": 54,
+    "imc2023_heritage": 209,
+    "imc2023_theather_imc2024_church": 76,
+    "imc2024_dioscuri_baalshamin": 138,
+    "imc2024_lizard_pond": 214,
+    "pt_brandenburg_british_buckingham": 225,
+    "pt_piazzasanmarco_grandplace": 168,
+    "pt_sacrecoeur_trevi_tajmahal": 225,
+    "pt_stpeters_stpauls": 200,
+    "stairs": 51
+  },
+  "column_types": "CSV strings preserved without coercion",
+  "observed_lexical_types": {
+    "image_id:string": 1945,
+    "dataset:string": 1945,
+    "scene:string": 1945,
+    "image:string": 1945,
+    "rotation_matrix:string": 1945,
+    "translation_vector:string": 1945
+  },
+  "scene_value_counts": {
+    "cluster0": 1945
+  },
+  "pose_encoding_counts": {
+    "numeric_vectors": 1945
+  },
+  "physical_pose_validation_applied": false,
+  "placeholder_semantics": "Patterns reported only; numeric values or scene strings do not establish prediction meaning",
+  "repeated_basenames_across_datasets": 8,
+  "sample_rows_without_visible_image": 1872,
+  "visible_test_keys_absent_from_sample": 0,
+  "visible_coverage_note": "Unmatched rows are not proof of invalid submission or hidden-test size. Visible inputs only.",
+  "row_identity_mapping": "sample_row_identity.csv (internal; excluded from portable ZIP)",
+  "complete": true,
+  "scorer_acceptance": "UNVERIFIED"
+}

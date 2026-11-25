@@ -1,0 +1,59 @@
+{
+  "config": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+  "datasets": {
+    "fbk_vineyard": {
+      "group": "fbk_vineyard",
+      "images": 163,
+      "organizer_prediction": "reports/phase3b_full/evidence/074ede3e3a9e40f417f8cbe316186a2e60f0dfcd77d31468bfecd795b59a7f4a/datasets/fbk_vineyard/predictions.csv",
+      "organizer_sha256": "4572c21a6ef35a88c6edab361e10e5ac990c2eb8995b70bebcb489cded7ecc35",
+      "partition": "dev_b",
+      "permutation_sha256": "350b9037f847b68a4cb2bbb923887fe3cb2ae5224286837f01d5bfaef612f69c",
+      "worker_sha256": "01a100859e7bb4a25a7db536d42b8d9589b391b129331084cbedb38e71678cdf"
+    },
+    "imc2024_dioscuri_baalshamin": {
+      "group": "heritage_dioscuri",
+      "images": 138,
+      "organizer_prediction": "reports/phase3b_full/evidence/c41d22934dfdbadc25d10fefb8191b7ea45460221f988569da5f8a716ddad0a0/datasets/imc2024_dioscuri_baalshamin/predictions.csv",
+      "organizer_sha256": "293b7cf35de0fd018c115673b631a9568ba2af1855024c44ce0af9d7655f2733",
+      "partition": "dev_a",
+      "permutation_sha256": "1b7bc97f6f54a2f5daa967a06e67211cd565f84d2d9403cd60f1faa50af543b0",
+      "worker_sha256": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+    }
+  },
+  "files": {
+    "configs/baselines/ns64_isolated_v1/experiment.json": "434d7d99e114b4705015bb1de45c4182dacae3c28e6baf8bb8fbda98b542602b",
+    "configs/baselines/organizer_v1/development_inputs.json": "f4c6b8d81b25790336816e9cf5e3a1154f2d6424f08da1408857cfb66cb16211",
+    "configs/baselines/organizer_v1/full_checkpoint_lock.json": "f268fabe715fca9e2d311fb8ad61057180872ce8aabee42e79459c622568a755",
+    "configs/baselines/organizer_v1/full_development.json": "2e4b88c720d7d4b29cdf1e186dec26f8922c8743f6406432c0ffa14157b2a7cc",
+    "configs/baselines/organizer_v1/full_environment_lock.json": "30b2b2bac254640b70459aa77b54ddc8ab7f8b2b1771232f796dc1ac310c95b3",
+    "configs/baselines/organizer_v1/full_implementation.json": "4e81cd91664119e89d0f635bd84148bc478a899c9f21b808acddc7e5db6953ac",
+    "configs/benchmark/imc2025_local_v1/benchmark.json": "6dc2e51948b37bf91b1080d4079903309af6be73e118c04e6d6d176c69fa884f",
+    "configs/benchmark/imc2025_local_v1/evaluator.json": "76de800b377ca8d228ee5e4ac30bf2b1bdf36c2a78d802a1edbe8ca9787b22aa",
+    "configs/benchmark/imc2025_local_v1/evaluator_environment.json": "4c54700c36269cb8bc88581816372219148472b2db7135cca44a4b19bf8d2a28",
+    "configs/benchmark/imc2025_local_v1/experiment_template.json": "69875c98884417855d296cde374dccd77ae56edfe029b6d87041d4dad5560d10",
+    "configs/benchmark/imc2025_local_v1/freeze_decision.json": "da76955bfed2b5dbfc6f453fcf68138fa8737b0378f57ccc2e305fb80e49a4f5",
+    "configs/benchmark/imc2025_local_v1/image_membership.json": "14735532b83d51b918fc2ed79169f97c81cc87b74f699c5e68d4c69a92543f87",
+    "configs/benchmark/imc2025_local_v1/metadata_validation.json": "1f57032cab032ef6b804aff58161e3d9362cc129f26e1d21c9d0eb1378661ac8",
+    "configs/benchmark/imc2025_local_v1/provenance.json": "8f28efeef2f9c49293ed68c5294832e11c31b64df9be8938f600bad760155cd9",
+    "configs/benchmark/imc2025_local_v1/source_groups.json": "b702275a27ab7e0d630cba06be9ac984b699178c86fa402c9f2a5a914987b9e6",
+    "configs/benchmark/imc2025_local_v1/split_proposal.json": "6aaec09faad762f64e96cb3b79f5046634fc8184e4990b55cb3b4688086b13fa",
+    "configs/benchmark/imc2025_local_v1/thresholds.json": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645",
+    "experiments/baseline/organizer_baseline_v1_dev_full.json": "87a9f8bc721c0998179d86a72656318a2a9e9097fbede16dcd125569ed83f83b",
+    "notebooks/step04i_final_candidate_colab.ipynb": "182f0b5cdf201020d54847fb96992578ef8d3c77d9bc7381ea2cc3290c5fa1b9",
+    "reports/ns64_full/worker_pins.json": "b1c965e6e435a333f12f83e0d362a337f1b752c39938c2e9bee9883df28db6b3",
+    "scripts/phase4i_build.py": "0b43c574be7d2078f75a80af86e97e5fa393eef4b41134da202e762e59c91575",
+    "scripts/phase4i_evaluate.py": "f23dfbd48ee442f428241255dd4124e6439f70b2f195294370aa1715a1f97294",
+    "snapshots/organizer_phase3a_verified/scripts/benchmark_contract.py": "2a3afea5a7daa79274b771a205b6fffcd0b534f7ce51c50b958d4ff0a37da3c0",
+    "snapshots/organizer_phase3a_verified/scripts/evaluate_local_reference.py": "ade8662f9b8f22b3c7b7c946a648a37c7aca0bce7820d9d6d254984590f4f3ba",
+    "src/baselines/development/common.py": "ca5fff13dad4e554884500750fadd5fc9b745f664b397d60e9d859c7804d47d2",
+    "src/baselines/development/evaluate.py": "bf33f7b535e696faea99751533b2df6c8859ee449b1a87636a617c9366060a86"
+  },
+  "inference_kit": "4ce3bf6abbe6618112268988dde7109cb7b2cc187e27b4ffb503ed845dc037d9",
+  "order": [
+    "imc2024_dioscuri_baalshamin",
+    "fbk_vineyard"
+  ],
+  "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+  "training": [],
+  "version": "final_candidate_v1"
+}

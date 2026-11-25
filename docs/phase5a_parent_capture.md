@@ -1,0 +1,3 @@
+# Stage A — numerical parent
+
+**Not started.** All 138 input images are ready. The opaque image ZIP contains pixels. It cannot serve as a numerical parent. The execution-integrity stop preceded retrieval, matching, verification and pre-mapper SQLite backup. Parent location, SHA-256, pair counts and capture runtime are unavailable. No Stage A checkpoint was exported. Preserve any subsequently recovered parent only after its source, stage identity, database membership, integrity, logical records, image hashes and archive digest are verified.

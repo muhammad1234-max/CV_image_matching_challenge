@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phase 3A smoke receipt (not full baseline registration)",
+  "type": "object",
+  "required": [
+    "kind",
+    "not_registered_baseline",
+    "status",
+    "benchmark_hash",
+    "split_hash",
+    "dataset",
+    "role",
+    "config",
+    "config_hash",
+    "stages",
+    "runtime_seconds"
+  ],
+  "properties": {
+    "kind": {
+      "const": "smoke_test"
+    },
+    "not_registered_baseline": {
+      "const": true
+    },
+    "status": {
+      "enum": [
+        "RUNNING",
+        "PASS",
+        "BLOCKED",
+        "FAILED"
+      ]
+    },
+    "dataset": {
+      "const": "ETs"
+    },
+    "benchmark_hash": {
+      "const": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4"
+    },
+    "split_hash": {
+      "const": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057"
+    },
+    "runtime_seconds": {
+      "type": "number",
+      "minimum": 0
+    },
+    "config_hash": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "stages": {
+      "type": "object",
+      "required": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ],
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "status"
+        ],
+        "properties": {
+          "status": {
+            "enum": [
+              "NOT_RUN",
+              "PASS",
+              "FAILED"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

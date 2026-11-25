@@ -1,0 +1,9 @@
+{
+  "competition": "image-matching-challenge-2025-ongoing",
+  "files": [],
+  "downloads": [],
+  "authentication_loaded": true,
+  "error_type": "HTTPError",
+  "http_status": 401,
+  "error_note": "Exception body suppressed to prevent credential or signed-URL disclosure."
+}

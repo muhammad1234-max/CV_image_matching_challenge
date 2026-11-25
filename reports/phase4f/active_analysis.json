@@ -1,0 +1,35 @@
+{
+  "delta_from_historical": {
+    "participant": {
+      "clusterness": 0.3647058823529412,
+      "combined_score": 0.16428838443994132,
+      "maa": -0.005555555555555647
+    },
+    "prose_sensitivity": {
+      "clusterness": 0.3647058823529412,
+      "combined_score": 0.16428838443994132,
+      "maa": -0.005555555555555647
+    }
+  },
+  "poses": {
+    "original_clusters": 2,
+    "original_registered": 54,
+    "pass_through_clusters": 3,
+    "pass_through_registered": 54,
+    "per_model": [],
+    "pose_equivalent": false,
+    "same_assignments_and_outliers": false
+  },
+  "scores": {
+    "participant": {
+      "clusterness": 1.0,
+      "combined_score": 0.8498402555910544,
+      "maa": 0.7388888888888888
+    },
+    "prose_sensitivity": {
+      "clusterness": 1.0,
+      "combined_score": 0.8498402555910544,
+      "maa": 0.7388888888888888
+    }
+  }
+}

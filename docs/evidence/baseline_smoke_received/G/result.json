@@ -1,0 +1,16 @@
+{
+  "stage": "G",
+  "status": "PASS",
+  "metrics": {
+    "models": 1,
+    "model_sizes": {
+      "0": 20
+    },
+    "registered_unique": 20,
+    "total": 22
+  },
+  "runtime_seconds": 131.38639227599992,
+  "gpu_peak_allocated_bytes": 0,
+  "gpu_peak_reserved_bytes": 0,
+  "cpu_peak_rss_bytes": 1256583168
+}

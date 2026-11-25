@@ -1,0 +1,35 @@
+{
+  "command": "python -m kaggle competitions files image-matching-challenge-2025-ongoing --page-size 200 --format json",
+  "legacy_username_key_fields_present": true,
+  "token_file_present": false,
+  "credential_env_presence": {
+    "KAGGLE_USERNAME": false,
+    "KAGGLE_KEY": false,
+    "KAGGLE_API_TOKEN": false
+  },
+  "disk_bytes": {
+    "C:\\": {
+      "total": 104248061952,
+      "used": 101646426112,
+      "free": 2601635840
+    },
+    "D:\\": {
+      "total": 151200460800,
+      "used": 9074397184,
+      "free": 142126063616
+    }
+  },
+  "temp_drive": "C:",
+  "cache_env_drive_only": {
+    "PIP_CACHE_DIR": "unset",
+    "HF_HOME": "unset",
+    "TORCH_HOME": "unset",
+    "UV_CACHE_DIR": "unset",
+    "TEMP": "C:",
+    "TMP": "C:"
+  },
+  "exit_code": 1,
+  "http_status": null,
+  "status": "FAILED",
+  "error": "Raw CLI output suppressed; no credential values or sensitive paths retained."
+}

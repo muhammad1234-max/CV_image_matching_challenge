@@ -1,0 +1,7 @@
+{
+  "status": "unavailable_or_ambiguous",
+  "complete": false,
+  "source": null,
+  "pose_representation": "nine row-major rotation values and three translation values, separated by semicolons",
+  "coverage_limit": "Visible test files only; archive-only or unrecognized layouts make unresolved references inconclusive. Sample poses are not ground truth."
+}

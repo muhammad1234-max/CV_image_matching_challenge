@@ -1,0 +1,7 @@
+{
+  "archive_integrity": "PASS",
+  "sha256": "1fb13a3b896a6f56846e5da2a3a02fc57d043a1c08b9555a32fd9c049ae8a2a2",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/imc2023_haiper/F/colmap.db"
+  ]
+}

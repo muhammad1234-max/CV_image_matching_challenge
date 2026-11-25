@@ -1,0 +1,15 @@
+{
+  "archive": "92698edb929e691b7249d00d5b30f542fc22e229ed69afcdb67c756012f6e5e4",
+  "bytes": 1196966521,
+  "incomplete_rejected": true,
+  "journal": "0ef6528316a6f65a6b318244e185e29df1f3e5df600e75d63471e939961bd20d",
+  "location": "separate workstation processes; local storage",
+  "next_stage": "original",
+  "parent": "92161d8fefee0f7ca67517010061221ec13712e3aef1003bca89604e7d9c3659",
+  "producer_sha256": "1b3cd2bc77239b1251bf4d610c73661a7231526ebaa977ba6abe48dab422bae1",
+  "release": "a4139e05464bb7052bac562a311131667d0f92cb275e134ff79447cd12111309",
+  "scope": "disposable synthetic persistence",
+  "seal": "165d11f884cd30c44330d62a0d17eb27e068a95bfeff9195fd88616d67bf5cec",
+  "stale_rejected": true,
+  "status": "FIXTURE_RESTORE_PASS"
+}

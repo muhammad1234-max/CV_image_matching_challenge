@@ -1,0 +1,37 @@
+{
+  "imc2024_dioscuri_baalshamin": {
+    "images": 138,
+    "permutation_sha256": "1b7bc97f6f54a2f5daa967a06e67211cd565f84d2d9403cd60f1faa50af543b0",
+    "worker_sha256": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+  },
+  "fbk_vineyard": {
+    "images": 163,
+    "permutation_sha256": "350b9037f847b68a4cb2bbb923887fe3cb2ae5224286837f01d5bfaef612f69c",
+    "worker_sha256": "01a100859e7bb4a25a7db536d42b8d9589b391b129331084cbedb38e71678cdf"
+  },
+  "amy_gardens": {
+    "images": 200,
+    "permutation_sha256": "518f5486da618b1ba0e17fc4e871d6dd1827b416d4838cbb045800f0d67d79c8",
+    "worker_sha256": "3a537d6e1596ccc482926b382647545efd031af1fe18d2f3ba053f7bb4f9d5f6"
+  },
+  "pt_stpeters_stpauls": {
+    "images": 200,
+    "permutation_sha256": "99f357866a0d1274bd8722dd522cca3223e8a95b7fc68ae3c0bcac4c52c4a3d4",
+    "worker_sha256": "835a833de0c7100cef89a1e63adb09981b8fbbba1729f74b944ea54312debe6e"
+  },
+  "imc2023_heritage": {
+    "images": 209,
+    "permutation_sha256": "5fa290a826af571a49ab4522eb87246415fa658d46720a71333edf897fcee1a5",
+    "worker_sha256": "1ba65ddaeddba839f12ac9613806692fb8223161d59e82c10fe2236418fa5e90"
+  },
+  "pt_brandenburg_british_buckingham": {
+    "images": 225,
+    "permutation_sha256": "48ee74dbb96272e5278dbd9315436a80890b07e6c82e2f8c98bfb3f2b1b017e9",
+    "worker_sha256": "b3bb90195ba484070f8ff438dcba78eab7d835f560917d5f917467d86dcf4bac"
+  },
+  "pt_sacrecoeur_trevi_tajmahal": {
+    "images": 225,
+    "permutation_sha256": "cef38820fbf23c7477773675d3de0d10014750b3bc6257ff04f871837b1475b6",
+    "worker_sha256": "10104b4670cc93d74eb27c10c181c1600d45a6e0d2c8eaa5f5b59dfda6c68d22"
+  }
+}

@@ -1,0 +1,10 @@
+# Phase 2C Kaggle execution guide
+Import notebooks/step02c_metadata_and_overlap_audit.ipynb in Kaggle, attach Image Matching Challenge 2025 Ongoing, select CPU/no accelerator and turn internet off. No local authentication is used. Exact current button labels are not claimed. Competition: https://www.kaggle.com/competitions/image-matching-challenge-2025-ongoing.
+
+Run all cells. INPUT_PATH may be set to the actual mounted root beneath /kaggle/input if discovery is ambiguous. Metadata names are the actual names already confirmed by the returned audit. Default MAX_OVERLAP_SECONDS=120 and MAX_TRAIN_IMAGES=10000. For partial overlap, rerun with more time in the same session; cached image work is reused, pair screening restarts. A fresh session loses the working cache unless you manually preserve it privately; do not upload it publicly as part of this task.
+
+Outputs: /kaggle/working/imc_contract_audit/imc_contract_audit.zip. Download this lightweight report archive and return it. Inspect audit_status.json and overlap_status.json first. The ZIP includes sample_submission_contract.json, sample_dataset_coverage.csv, thresholds_raw_and_parsed.csv, threshold_source.json, threshold_reconciliation.md, pose_outlier_crosstab.csv, pose_integrity.json, dataset_overlap_candidates.csv, overlap_status.json, source_provenance_review.md, validation_grouping_proposal.md, environment.json, audit_status.json and archive_manifest.json where stages completed.
+
+sample_row_identity.csv and overlap_cache.json stay internal in working storage and are excluded from the portable ZIP. Input images, weights, raw sample/test rows and credentials are never packaged. Reports have 10 MiB per-file and 25 MiB total size limits, with omissions listed in the manifest. Threshold strings are exported losslessly for diagnosis; original threshold CSV is not copied. No source inputs are modified.
+
+If BLOCKED, inspect the message and correct data attachment/access or mount selection. No API authentication is necessary. Do not submit predictions, train, reconstruct scenes or freeze splits. Real threshold/overlap conclusions require returned Kaggle reports and supervisor review.

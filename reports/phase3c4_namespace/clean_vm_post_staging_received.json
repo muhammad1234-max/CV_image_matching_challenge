@@ -1,0 +1,26 @@
+{
+  "status": "POST_STAGING_CHECKS_PASS",
+  "scope": "clean VM post-staging checks",
+  "precheck_sha256": "58cea2b3b051132ee65486bc204c60bb86656073c14c2de29042a7a30a2631d4",
+  "path_checks": {
+    "/content/drive": "FileNotFoundError",
+    "/content/imc_ets_images.zip": "FileNotFoundError",
+    "/content/imc_ns64_colab_migration.zip": "FileNotFoundError",
+    "/content/ns64": "FileNotFoundError",
+    "/content/ns64/data/train/ETs": "FileNotFoundError",
+    "/content/ns64/ets_attempt/inference/predictions.csv": "FileNotFoundError",
+    "/content/ns64/project": "FileNotFoundError",
+    "/content/ns64/project/configs/baselines/organizer_v1/development_scoring/ETs/train_labels.csv": "FileNotFoundError",
+    "/content/ns64/project/configs/baselines/top10_reproduction_v1/pilot.json": "FileNotFoundError",
+    "/content/private.json": "FileNotFoundError",
+    "/private.json": "FileNotFoundError",
+    "/proc/1/root/content/drive": "FileNotFoundError",
+    "/var/run/docker.sock": "FileNotFoundError"
+  },
+  "archive_sha256": "0d8e17647d39dfcb731ec4de158b9079506a03f71620ecefb392351f5a9d3831",
+  "order_hashes": {
+    "20261111": "88b39706d192180b8ff291a8d4ac04e7e6ef09644560ec0064cc6b637e1651cf",
+    "20261112": "7f72c8de926c590209b5dcb419e7ce020745c549d67e7ab79ddb639010304847"
+  },
+  "output_writable": true
+}

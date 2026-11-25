@@ -1,0 +1,33 @@
+# Supervisor handoff
+
+**CONTINUE NS64. Dependency validation on a compatible Linux GPU is pending.** The prior 16-second Kaggle result belongs to Phase 3C and contains no model loads. The Phase 3C.1 notebook is an independent dependency verifier. It saves incremental receipts and checks the model files against the manifest before deserializing them.
+
+1. Use a separate CPython 3.11 Linux GPU session. For Kaggle, inspect sys.version and torch.__version__ in a fresh notebook before spending GPU time. If no matching image is available, use the university Linux environment described in the compatibility report.
+2. Attach the existing ns64_pilot_source.zip.bin and the verified Linux pycolmap wheel under kaggle_upload/ns64_linux_cp311. For a university run provide the same files under a dedicated input directory. Attach official model mounts with the exact filenames in assets_phase3c1.json. Keep DINOv2 with its original config and preprocessor files. Keep the retrieval head and its codebook in the same directory. Follow the asset license notices before mounting. Competition images are unnecessary for dependency checking.
+3. Use the original DINOv2/base/1 and ALIKED/aliked-n16/1 Kaggle inputs. For additional weights, inspect the author's imc2025models and imc2023models mount aliases from conf/models.yaml for an accessible authorized version, or use the listed authoritative sources on approved Linux storage. Public availability of the author's Kaggle bundles is unverified. Avoid public re-uploads.
+4. Complete the offline Linux wheel setup, import step03c1_ns64_dependencies.ipynb, enable GPU, turn Internet off and execute the cell. Return imc_ns64_dependency_receipt.zip even if blocked. A missing official hash leaves that model load blocked until its bytes are verified. The previous organizer and Phase 3C pilot notebooks are separate.
+5. Review each check before authorizing the inference launch. A candidate environment that passes model checks still needs actual pipeline acceptance. Full-fold readiness is pending. No new score exists to compare with organizer ETs 0.3458737864.
+
+For approved Linux acquisition, use a project checkout and a dedicated scratch volume. After reviewing the upstream terms, run the command below. It checks expected sizes, streams the exact author files to the destination, verifies available reference hashes and emits provenance for newly resolved hashes. Compare any newly generated authority records, copy reviewed records to configs/baselines/top10_reproduction_v1/upstream_<key>.json and rebuild with python scripts/build_ns64_dependency_notebook.py. Keep existing Kaggle DINOv2 and ALIKED mounts.
+
+```bash
+python3.11 scripts/acquire_ns64_linux_assets.py configs/baselines/top10_reproduction_v1/assets_phase3c1.json /scratch/imc/ns64-weights
+```
+
+For Kaggle, use Add Input for the author model mounts. For the Linux wheel, upload the .whl as a private dataset and attach it. For separately built ASMK and curope, attach the wheelhouse and its reviewed SHA256SUMS; in a CPython 3.11 session verify sha256sum -c SHA256SUMS in that directory, then install the two exact files with python -m pip install --no-index --no-deps. Run the verifier in the same interpreter. It requires no competition data. The old 3.10 session cannot validate the target ABI.
+
+Local preparation checks passed 19 new integration tests and 125 total tests. The suite includes recomputation of both frozen scores from the registered ETs predictions as an evaluator control. No organizer predictions are fed into ns64. Tests cover scope and identity, source/config verification through the existing suite, geometry evidence counts, invalid correspondence indices, rotations, NaN outliers, staging isolation, failed SfM and stale receipts. A genuine GPU run is still needed for actual match/geometry payloads, model loaders, timing and numerical fidelity. No real dependency or pilot receipt has yet been produced for Phase 3C.1.
+
+Checkpoint acquisition outcome: upstream sizes were verified first. SuperPoint and the retrieval head were hashed directly in memory. DINOv2's published object SHA256 matches its Kaggle hash. The larger parallel download was stopped after about 25 minutes to bound the laptop transfer. No verified digest was persisted for the matching model, codebook or ISC. Resolve these three from their original URLs on approved Linux storage using the acquisition script before requesting an all-model load. No weights are included in the handoff.
+
+
+## Returned extension build evidence
+
+The received imc_ns64_build_receipt.zip passed ZIP integrity and wheel hash verification. ASMK revision 2a96d9c03a841dffdfddabc699a20512dcd09363 and CroCo revision d7de0705845239092414480bd829228723bf20de match the build plan. Both cp311 extensions imported with torch 2.5.1+cu121, NumPy 1.26.4 and faiss-cpu 1.10.0. ASMK's generated C was regenerated with Cython 0.29.37; the author .pyx hash is identical before and after. Wheels are retained under kaggle_upload/ns64_linux_cp311, their hashes in built_wheels.json, and full review evidence in reports/phase3c1_build_receipt/review.json. Actual MASt3R, ASMK retrieval and curope tensor execution remain pending.
+
+
+## Verified all-model dependency receipt
+
+The returned imc_ns64_dependency_receipt.zip matches the prepared manifest and verified extension wheel origins. All 28 recorded checks passed in 118.04 seconds. All seven asset groups matched their SHA256 values. SuperPoint, ALIKED, DINOv2 and ISC loaded on CUDA. MASt3R loaded with all keys matched and completed the synthetic two-view forward pass. The retrieval loader initialized both the retrieval head and ASMK codebook together. Its peak worker RSS was 6,324,903,936 bytes. The MASt3R probe's peak PyTorch allocation was 2,924,790,784 bytes. These are separate-process probe measurements, not the complete ETs pipeline footprint.
+
+step03c_ns64_real_ets_pilot.ipynb is now prepared for the same active session. Attach this notebook as a private input, then execute its code cell through a loader in the current notebook so the validated interpreter and downloaded weights remain available. Keep Internet off. It verifies the exact reviewed receipt and frozen source package, limits image access to train/ETs, retains persistent source-stage caches in the attempt workspace, and shares an 1800-second limit between inference and frozen scoring. On timeout it kills the worker process group and exports available lightweight evidence. Checkpoint replay across interrupted original stages is unverified. No real ETs predictions or scores exist yet. The full 125-test suite passed after packaging. Preserve the current session until imc_ns64_ets_pilot.zip is downloaded.

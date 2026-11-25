@@ -1,0 +1,5 @@
+# Offline replay
+
+The preparation step authenticated the model kit from the pinned Stairs notebook and both historical branch archives against the Phase 4F review manifest. It reread the original parent, reconstructed the verified graph and joined model summaries to opaque memberships. The score-free inference ZIP contains the frozen kit plus only opaque nodes, edges, proposed sides, model memberships and point counts. A fresh Python interpreter in a temporary directory with this extracted package recomputed the candidate, verified the two sides and executed the original decide function. This directory and the audited import path separate routine inference from administrator data; they do not impose OS-level filesystem access restrictions.
+
+The decision receipt and selected prediction are SHA-256 sealed. The unobserved residual fields were omitted entirely. If execution reached a residual lookup the replay would fail, rather than accepting empty feature arrays. Earlier score reports played no part in the function call. This is a replay of the selector on saved mapper evidence, not a replay of end-to-end matching, reconstruction or quality extraction.

@@ -1,0 +1,6 @@
+{
+  "url": "https://download.europe.naverlabs.com/ComputerVision/MASt3R/MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric_retrieval_codebook.pkl",
+  "size": 268435691,
+  "sha256": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+  "evidence": "User-reported successful original Kaggle download; verify mounted bytes in next receipt"
+}

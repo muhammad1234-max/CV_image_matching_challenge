@@ -1,0 +1,99 @@
+{
+  "status": "CLEAN_VM_PRECHECK_PASS",
+  "mechanism": "separate clean VM; no process sandbox",
+  "scope": "pre-staging dependency and absence checks",
+  "python": "3.11.11 (main, Mar 17 2025, 21:02:09) [Clang 20.1.0 ]",
+  "uid": 0,
+  "limitations": [
+    "Physical VM deletion is operator-attested.",
+    "Absence checks do not prove read denial within this VM.",
+    "No opaque image package has been staged or verified yet."
+  ],
+  "administrative_paths": {
+    "/content/drive": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/ns64": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/kaggle/input": {
+      "accessible": true,
+      "mount_at_path": true,
+      "empty_input_directory": true
+    },
+    "/private.json": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/private.json": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/imc_ets_images.zip": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/imc_ns64_colab_migration.zip": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/ns64/project/configs/baselines/organizer_v1/development_scoring/ETs/train_labels.csv": {
+      "accessible": false,
+      "errno": 2
+    },
+    "/content/ns64/ets_attempt/inference/predictions.csv": {
+      "accessible": false,
+      "errno": 2
+    }
+  },
+  "source_inventory_hash": "edb517b23a85fffe9c4419bed989ca121ea0e8845693ff788614e13cbd713ddd",
+  "assets": {
+    "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e",
+    "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+    "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+    "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+    "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+    "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+    "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d"
+  },
+  "unexpected_artifact_count": 0,
+  "device": "Tesla T4",
+  "torch": "2.5.1+cu121",
+  "pycolmap": "3.11.1",
+  "dependencies": "PASS",
+  "environment_freeze": "absl-py==2.5.1\naddict==2.4.0\naiohappyeyeballs==2.7.1\naiohttp==3.14.5\naiosignal==1.4.0\nannotated-types==0.8.0\nantlr4-python3-runtime==4.9.3\nasmk @ file:///content/ns64_clean/wheels/asmk-0.1-cp311-cp311-linux_x86_64.whl#sha256=d45f694a50fe0fa1c25e500b0edf6a0b1e5802a84241c95ae78f4be270976308\nattrs==26.1.0\ncertifi==2026.10.23\ncffi==2.1.1\ncharset-normalizer==3.5.2\ncloudpickle==3.1.2\ncontourpy==1.3.3\ncroco @ file:///content/ns64_clean/wheels/croco-0.1.2-py3-none-any.whl#sha256=ee26071c4c63f454d043c38f851cc692ee9d956bcd18a90996b21325df7e23a2\ncurope @ file:///content/ns64_clean/wheels/curope-0.0.0-cp311-cp311-linux_x86_64.whl#sha256=6e021ae761fd6694e80482e2aa0ff581cf321eb247d4b212f3ac2ed7a8ce6ee2\ncycler==0.12.1\nCython==0.29.37\ndacite==1.9.2\ndad @ file:///content/ns64_clean/wheels/dad-0.2.0-py3-none-any.whl#sha256=d45d0f363cd3c793ca98721b689342d4ae3344eac6667a26137110b5eb5c27f8\nDeDoDe @ file:///content/ns64_clean/wheels/dedode-0.0.1-py3-none-any.whl#sha256=436f876a5b57957f660ab652f019ff85379057a39ade5f16396124d82474c142\ndepth_anything_v2 @ file:///content/ns64_clean/wheels/depth_anything_v2-0.0.1-py3-none-any.whl#sha256=c19b2c9d4b18d45d758757f6c215087b5edb08f3641438915db84e6d6672594f\ndotmap==1.3.30\ndsine @ file:///content/ns64_clean/wheels/dsine-0.0.0-py3-none-any.whl#sha256=3ff645d126f5c081e9077252a65d28cdc4aad38201ba14f65ddb986ae32e6f43\ndust3r @ file:///content/ns64_clean/wheels/dust3r-0.1.0-py3-none-any.whl#sha256=b4313794fd89ff3d7ee7ebdf1210ed852f6f505bbffad9fdfe712fabe4814b2b\ne2cnn==0.2.3\neinops==0.8.1\nfaiss-cpu==1.10.0\nfilelock==4.2.4\nfonttools==4.68.0\nfrozenlist==1.8.0\nfsspec==2025.12.0\ngrpcio==1.85.1\nh5py==3.13.0\nhf-xet==1.8.0\nhloc @ file:///content/ns64_clean/wheels/hloc-1.5-py3-none-any.whl#sha256=44a53f7e6ea41915dd6c48d9dce20a393fd2186ad109709c5003e62a84e49939\nhuggingface_hub==0.36.2\nhydra-core==1.3.2\nidna==3.20\niglovikov-helper-functions==0.0.53\nimagecorruptions==1.1.2\nImageIO==2.38.1\nJinja2==3.1.6\njoblib==1.6.0\njpeg4py==0.1.4\nkiwisolver==1.5.1\nkornia==0.8.0\nkornia-moons==0.2.9\nkornia_rs==0.2.0\nlazy-loader==0.6\nlightglue @ file:///content/ns64_clean/wheels/lightglue-0.0-py3-none-any.whl#sha256=56383e98ab14c77b2f2c8214c43b2ee33b8f11bf622c4b6e8b5b335ce421adfd\nlightning==2.5.1\nlightning-utilities==0.15.3\nloguru==0.7.3\nMarkdown==3.11.3\nMarkupSafe==3.0.3\nmast3r @ file:///content/ns64_clean/wheels/mast3r-0.1.0-py3-none-any.whl#sha256=6a5367dd9d097d6549129a74ab15b29daf9f397fd8b04242627b79b53679f0d8\nmatplotlib==3.10.1\nmoge @ file:///content/ns64_clean/wheels/moge-1.0.0-py3-none-any.whl#sha256=9940118078e5c034b91e2d0f27982ff6e00a914e7c0d967c6db881c6d62fd3a3\nmono @ file:///content/ns64_clean/wheels/mono-0.0.0-py3-none-any.whl#sha256=479f3fc45d9638a14653080f1bb1af546303402b3b8e7f5aae54e6dd65271aa3\nmpmath==1.3.0\nmpsfm @ file:///content/ns64_clean/wheels/mpsfm-0.1.0-py3-none-any.whl#sha256=7c28365aec2bea6d1127296a85cfbfd69820cb45102200b90e18ca866accebfe\nmultidict==7.2.1\nnarwhals==2.28.0\nnetworkx==3.6.1\nninja==1.11.1.3\nnumpy==1.26.4\nnvidia-cublas-cu12==12.1.3.1\nnvidia-cuda-cupti-cu12==12.1.105\nnvidia-cuda-nvrtc-cu12==12.1.105\nnvidia-cuda-runtime-cu12==12.1.105\nnvidia-cudnn-cu12==9.1.0.70\nnvidia-cufft-cu12==11.0.2.54\nnvidia-curand-cu12==10.3.2.106\nnvidia-cusolver-cu12==11.4.5.107\nnvidia-cusparse-cu12==12.1.0.106\nnvidia-nccl-cu12==2.21.5\nnvidia-nvjitlink-cu12==12.9.86\nnvidia-nvtx-cu12==12.1.105\nomegaconf==2.3.0\nopencv-python==4.11.0.86\npackaging==24.2\npandas==2.2.3\npillow==11.0.0\nplotly==6.0.1\nprettytable==3.16.0\npropcache==0.5.4\nprotobuf==7.36.2\npyaml==25.1.0\npyceres==2.4\npycolmap==3.11.1\npycparser==3.12\npydantic==2.11.2\npydantic_core==2.33.1\npydegensac==0.1.2\npyparsing==3.3.3\npyrender @ file:///content/ns64_clean/wheels/pyrender-0.1.45-py3-none-any.whl#sha256=619169d5468873900b414af58f89d3a6bd61d411e877810f3ff9291a4db4063b\npython-dateutil==4.0.0\npytorch-lightning==2.5.1\npytz==2026.6\nPyYAML==6.0.2\nregex==2026.11.15\nrequests==2.34.2\nsafetensors==0.8.0\nscikit-image==0.26.0\nscikit-learn==1.6.1\nscipy==1.15.2\nsix==1.17.0\nsuperglue_pretrained_network @ file:///content/ns64_clean/wheels/superglue_pretrained_network-0.0.0-py3-none-any.whl#sha256=fd0f5aca1dcfc3c7c744fb40e8c03965089a793d955ee19ff8f529e444dbfd14\nsympy==1.13.1\ntensorboard==2.19.0\ntensorboard-data-server==0.7.2\nthreadpoolctl==3.8.0\ntifffile==2026.3.3\ntimm==1.0.15\ntokenizers==0.21.4\ntorch==2.5.1+cu121\ntorchmetrics==1.9.0\ntorchvision==0.20.1+cu121\ntqdm==4.67.1\ntransformers==4.47.0\ntriton==3.1.0\ntyping-inspection==0.4.5\ntyping_extensions==4.16.0\ntzdata==2026.6\nurllib3==2.8.0\nutils3d @ file:///content/ns64_clean/wheels/utils3d-0.0.2-py3-none-any.whl#sha256=e6674c15a840e54adc063f05e9816edf0ec533fc112dba0d986be77edd14d117\nvggt @ file:///content/ns64_clean/wheels/vggt-0.0.1-py3-none-any.whl#sha256=2f25a6f22fda1b6f0c64f0dfbe795075e4f0e043eec3322fe1a1d6cf1a47f93a\nwcwidth==0.9.4\nWerkzeug==3.1.9\nyacs==0.1.8\nyarl==1.25.1\n",
+  "gpu": "Tesla T4, 580.82.07, 15360 MiB",
+  "mountpoints": [
+    "/",
+    "/proc",
+    "/dev",
+    "/dev/pts",
+    "/sys",
+    "/sys/fs/cgroup",
+    "/dev/mqueue",
+    "/dev/shm",
+    "/usr/sbin/docker-init",
+    "/var/colab",
+    "/kaggle/input",
+    "/usr/lib64-nvidia",
+    "/etc/resolv.conf",
+    "/etc/hostname",
+    "/etc/hosts",
+    "/opt/bin/.nvidia",
+    "/var/colab/cgroup/jupyter-children",
+    "/proc/bus",
+    "/proc/fs",
+    "/proc/irq",
+    "/proc/sys",
+    "/proc/sysrq-trigger",
+    "/proc/acpi",
+    "/proc/kcore",
+    "/proc/keys",
+    "/proc/timer_list",
+    "/proc/scsi",
+    "/sys/firmware"
+  ],
+  "probe_sha256": "7186cf6f7a670191f5aca873c3f89be43b972ed75b4cc1edf98634d741c48551"
+}

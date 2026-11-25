@@ -1,0 +1,51 @@
+{
+  "committed": false,
+  "custody_preview_sha256": "f2813c5ec4e256276a8785f628182271508967b9199cd1c3cb78e14747a71ace",
+  "events": [
+    {
+      "identity": {
+        "dataset": "imc2024_dioscuri_baalshamin",
+        "model": "final_candidate_v1",
+        "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+        "seed": 20261111,
+        "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+      },
+      "runner": "e14229b7498c1ded9e36d5366d431486474d393e69f688907888dc59593e9163",
+      "stage": "",
+      "status": "created"
+    },
+    {
+      "new_runner": "e14229b7498c1ded9e36d5366d431486474d393e69f688907888dc59593e9163",
+      "previous_checkpoints": [],
+      "previous_events": [
+        {
+          "identity": {
+            "dataset": "imc2024_dioscuri_baalshamin",
+            "model": "final_candidate_v1",
+            "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+            "seed": 20261111,
+            "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+          },
+          "runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+          "stage": "",
+          "status": "created"
+        }
+      ],
+      "previous_runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+      "previous_sha256": "c55696d7f66f5555474fffc693566b91973b5e172f33e2a7e7e20f8a6e9a8dc4",
+      "reason": "Colab capture time gate; Kaggle compatibility validation",
+      "seconds": 0,
+      "stage": "",
+      "status": "migrated"
+    }
+  ],
+  "platform": "win32",
+  "restored": {
+    "capture_seal": "21840a08d77526c697ecca18d9c47bfd8f83ba54c1ea95cd246df0088d2f7b0a",
+    "next_stage": "original",
+    "repeated_capture": false,
+    "restored_journal": "4ff4ae84db3a490b7e43d5a817941fbae0ed834265e2e8f05793d964252e1acc"
+  },
+  "revision": "e14229b7498c1ded9e36d5366d431486474d393e69f688907888dc59593e9163",
+  "synthetic_checkpoint": "99411d3fe8983295e44da897cec7896b4233ac82641f3a9a2b8b6ae8eba8e688"
+}

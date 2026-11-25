@@ -1,0 +1,78 @@
+{
+  "phase": "4A",
+  "date": "2026-11-19",
+  "status": "DESIGN_READY_FOR_SUPERVISOR_REVIEW",
+  "proposal": "ns64_boundary_rotation_v1",
+  "recommendation": "Approve only graph inventory and synthetic correctness prototype first",
+  "primary": "A: endpoint-disjoint rotation consensus across a proposed cut",
+  "fallback": "C: coverage-penalized held-out reprojection risk",
+  "deprioritized": "B: learned edge reliability",
+  "registered_organizer": {
+    "id": "organizer_baseline_v1_dev_full",
+    "full_development_combined": 0.4182297604006473,
+    "datasets": 11,
+    "images": 1563
+  },
+  "ns64": {
+    "primary_order": 20261111,
+    "verified_datasets": 4,
+    "verified_images": 203,
+    "full_development_combined": null,
+    "verified_138_image_result": false
+  },
+  "primary_endpoint": "equal-dataset mean of paired combined-score differences; per-dataset mAA, clusterness, registrations, outliers and costs required",
+  "source": "reports/ns64_full/completed_archive_index.json",
+  "research_observation": {
+    "haiper_cross_edges": 68,
+    "haiper_cross_edges_with_shared_neighbor": 68,
+    "haiper_cross_edge_common_neighbors_min_median_max": [
+      3,
+      8,
+      13
+    ],
+    "haiper_within_edge_common_neighbors_min_median_max": [
+      4,
+      13,
+      20
+    ],
+    "theater_church_cross_edges": 0,
+    "theater_church_within_edges_without_shared_neighbor": 1
+  },
+  "novelty_status": "Conditional method hypothesis; close overlap with Gong 2024 and Xu 2026. No priority or performance claim.",
+  "blocker_for_real_pilot": "Existing four worker archives lack required mapper-ready calibrated pair geometry; establish verified export or capture once per dataset.",
+  "runtime_costs": "docs/phase4a_implementation_plan.md",
+  "configuration": "configs/novel_model/architecture_proposal_v1.yaml",
+  "training_performed": false,
+  "new_inference_performed": false,
+  "confirmation_accessed": false,
+  "next_authorization": "Phase 4B prototype",
+  "references": [
+    "shi00",
+    "zach10",
+    "wilson13",
+    "gong24",
+    "xu26",
+    "zhao26",
+    "damblon25",
+    "cai23",
+    "xiangli25",
+    "xiao26",
+    "chen26",
+    "barath20",
+    "zhang25",
+    "tag25",
+    "dgi19",
+    "guo17",
+    "cui17",
+    "xue25",
+    "wang24",
+    "leroy24",
+    "wang25",
+    "schon16",
+    "ns64",
+    "kaqln",
+    "wilson14",
+    "manam26"
+  ],
+  "proposal_file_sha256": "b0fb39e016e84428daada0b48bad89ca99153c05bfcc61f40d91ed9300a842b9"
+}

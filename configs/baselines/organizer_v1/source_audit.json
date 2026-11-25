@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "url": "https://www.kaggle.com/code/eduardtrulls/imc25-submission",
+      "api": "https://www.kaggle.com/api/v1/kernels/pull/eduardtrulls/imc25-submission",
+      "version": 1,
+      "kernel_id": 79815998,
+      "docker_image": "gcr.io/kaggle-images/python@sha256:f4b6dd72d4ac48c76fbb02bce0798b80b284102886ad37e6041e9ab721dc8873",
+      "notebook_sha256": "348200aee23b2be57748d5bfaaa4bc8728e6879b29935cc1caff4c637134b3b5",
+      "api_response_sha256": "5382c9847faf9bd979b437e76210282af59e65ee3c5f36be46dba362110a93c1"
+    },
+    {
+      "url": "https://www.kaggle.com/code/octaviograu/baseline-dinov2-aliked-lightglue",
+      "api": "https://www.kaggle.com/api/v1/kernels/pull/octaviograu/baseline-dinov2-aliked-lightglue",
+      "version": 12,
+      "kernel_id": 79905538,
+      "docker_image": "gcr.io/kaggle-private-byod/python@sha256:d8674e13fab653bf7fb8d9a102f2ae94036771ccb5c73f51888d881421e1f937",
+      "notebook_sha256": "226100195066430bbe9eca8817ad8548112834d7ced732846f22622c1580bf10",
+      "api_response_sha256": "56175b51aaba3ce74ae64572de8e629dc5ecd79ad2781d6130e99d23b805d552"
+    }
+  ],
+  "reference": "organizer version 1",
+  "expanded_comparison": "version 12; detection_threshold 0.05 is NOT adopted",
+  "notebook_license": "not exposed by acquired metadata; attribution retained, do not publish/redistribute without license verification",
+  "repositories": {
+    "lightglue": "5a650c444718caffc2669dc0094cde908f42dd73",
+    "colmap": "137f21680c79d3f2fffbb1d11deb367162aa6f83"
+  },
+  "acquired_files": {
+    "colmap_commit.json": "902db3628872e5edaa99f60d02261f34df2c2a24023907451b495cfd101dd48a",
+    "database.py": "f069ca625030bba0dd15ff1874d9a3bda496824a81a8619bf8f781fcf4354c9d",
+    "expanded.ipynb": "226100195066430bbe9eca8817ad8548112834d7ced732846f22622c1580bf10",
+    "expanded.json": "56175b51aaba3ce74ae64572de8e629dc5ecd79ad2781d6130e99d23b805d552",
+    "expanded_code.py": "70af1e3965b39b09dea8e0eadbf63e155804f946eee01b8a2afa11d40dacabd0",
+    "h5_to_db.py": "f90ef43e2e540bf2beef501dcd49d1a8903f70dcbee7130dc42b069d6729d8c4",
+    "kornia-0.7.2-py2.py3-none-any.whl": "411e09ccdc4efde351f90a81f35a6eb9fad3bcf58ac037cbec4d41a8364dd039",
+    "kornia_kornia_feature_lightglue.py": "6988bc1e0d8198c44970aadd4f1bfcc9545ada1545f80200913acc1128dc002d",
+    "kornia_kornia_feature_lightglue_onnx_lightglue.py": "950305042e3e7f4ecd542ef2bdc8101921559cf9edc30bd7c405181ae48af46c",
+    "kornia_moons-0.2.9-py3-none-any.whl": "d35e799b29031365c7b57fee3d84b4be547c0513f7c013e8234e05d33d2b1061",
+    "kornia_rs-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": "eb627590ccfabcfb0fdc39cf186d4abf5eee017c74a9bdf1903ca0bc6b4192f0",
+    "lightglue-0.0-py3-none-any.whl": "5458397cf646ba5840700f56683bd4108ce6a5d51208a02f2d9d2b06a89d1a90",
+    "lightglue_commit.json": "9346add86c3eee1893362808c6067b56e31e2a094263a4938afc9483c2c615d8",
+    "lightglue_LICENSE": "0e6031ed3e62dc91dc8b1c8f240abd200b1083f60773362e64e339fe01d1bf18",
+    "lightglue_lightglue_aliked.py": "6d5fbbf6515ea8f9bd1ac76e515822c5fbe0267494c916219b5edeac96f5e24b",
+    "lightglue_lightglue_lightglue.py": "2c48e74643d512ea1b91bd81f1fd51abfb7034ac0f54ec7eb7883f4f0dfa24b4",
+    "lightglue_requirements.txt": "b22ded89cd2f936b01e90e75f70e5736a905328241bb293d9ddffce3f3344328",
+    "organizer.ipynb": "348200aee23b2be57748d5bfaaa4bc8728e6879b29935cc1caff4c637134b3b5",
+    "organizer.json": "5382c9847faf9bd979b437e76210282af59e65ee3c5f36be46dba362110a93c1",
+    "organizer_code.py": "d1c5da65ad6f86e016913a5d054c18997ac1b13b224deaa66c83aa8b1eefdfec",
+    "packages_download": "dc64b72d5a31761e23e3bf92f62d80735f28fe8b976fb5b77e8f8b00eebafc4e",
+    "packages_files": "3fd6f80aab145e0a13eba5ec03afe83ee5b7da941dfa27358ed112d3089a4f04",
+    "pycolmap-0.6.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": "3bce081ff00d0b51c031f43568211ea216c74e6c69d5906aa5a196f58f0f7b8e",
+    "pycolmap_pypi": "c52df0468777bf1e27a6246f4c74eee823856a0fc119c5e4d700e9d9f3bbfd00",
+    "rerun_sdk-0.15.0a2-cp38-abi3-manylinux_2_31_x86_64.whl": "53ca5533ce10b337aa8f94596d081705e35dfee8c8a65855bb461f27ed73312d",
+    "utils_download": "fc1228d41f6321dfa12e675ebc32a0f14333eab1f1116d0c9c4230f951710ce0",
+    "utils_files": "a337928278c9e817645caafca4111408defe0429c6220cc963137ff8a6008165"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "evidence": "test_pre_repair_children",
+  "generated_identity": {
+    "capture": true,
+    "original": false,
+    "trial": false
+  },
+  "previous_notebook": "0648f8b3be18a687c2a802f1d7ebd791c3ae55435a1ff06a7afe2088459c6c64",
+  "previous_runner": "6a8ee14b6003dd775627ef49f0389d129213c199eebe5a3c51ee590d8e9c82c1",
+  "scope": "Historical pre-repair CPU reproduction"
+}

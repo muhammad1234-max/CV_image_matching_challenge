@@ -1,0 +1,7 @@
+# Phase 5A.5 kaggle runbook
+
+1. Create one private Kaggle Dataset from the two files inside kaggle_upload/phase5a5_private_inputs. Upload both .bin files with their exact names. Their extensions preserve the original archive bytes. Keep the dataset and both notebooks private.
+2. Import notebooks/step05a5_kaggle_smoke.ipynb into a fresh Kaggle notebook. Attach only that private dataset. Select T4 x2 and enable Internet for the pinned environment and digest-verified model downloads. Use Run All in the fresh session. Save & Run All can run this first notebook without interactive prompts.
+3. Download phase5a5_kaggle_smoke.json from /kaggle/working or the saved version outputs, including if the notebook stops. If phase5a5_synthetic_checkpoint.bin exists, download it too and keep the independently recorded external_sha256 from checks.synthetic_checkpoint. Always bring back the JSON. The last completed check and reason identify the failure boundary.
+4. To test persistence, create a separate private dataset with only phase5a5_synthetic_checkpoint.bin. Open notebooks/step05a5_kaggle_restore.ipynb in a new private CPU session, attach only that second dataset, and leave Internet off. Enter the independently retained SHA256 when prompted. Download the new phase5a5_kaggle_smoke.json and save it locally as phase5a5_kaggle_restore.json so the first receipt is preserved.
+5. Place both JSON receipts in the project root for independent review. Retain the original created-only Colab journal. GPU inference remains gated on live validation and supervisor review.

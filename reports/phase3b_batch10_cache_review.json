@@ -1,0 +1,7 @@
+{
+  "archive_integrity": "PASS",
+  "sha256": "c0e7aa62f7283e471e98d670597e4e4646d371a7f930a6ac6e27da7dedc17b97",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/pt_brandenburg_british_buckingham/F/colmap.db"
+  ]
+}

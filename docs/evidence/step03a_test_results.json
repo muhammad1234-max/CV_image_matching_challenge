@@ -1,0 +1,14 @@
+{
+  "command": "python -m unittest discover -s tests",
+  "tests": 77,
+  "failures": 0,
+  "errors": 0,
+  "duration_seconds": 2.736,
+  "new_phase3a_tests": 20,
+  "model_executed": false,
+  "gpu_packages_installed_locally": false,
+  "python310_source_syntax": "PASS",
+  "frozen_benchmark_integrity": "PASS",
+  "notebook_sha256": "7665f2fdd05729ed6535d0522f9c7738412809c65a6d4bfc5cfb291440c0fdee",
+  "source_snapshot_hash": "b16bb8d4cc4302fb7368c908bd69864939838250a9451aabd0a127290213c635"
+}

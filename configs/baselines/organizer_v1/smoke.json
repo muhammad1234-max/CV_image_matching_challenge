@@ -1,0 +1,21 @@
+{
+  "dataset": "ETs",
+  "seed": 20261111,
+  "budget_seconds": 1200,
+  "gpu_memory_gib": 12,
+  "sim_th": 0.3,
+  "min_pairs": 20,
+  "exhaustive_if_less": 20,
+  "max_keypoints": 4096,
+  "resize": 1024,
+  "detection_threshold": 0.01,
+  "min_matches": 15,
+  "width_confidence": -1,
+  "depth_confidence": -1,
+  "lightglue_mp": true,
+  "aliked_dtype": "float32",
+  "min_model_size": 3,
+  "max_num_models": 25,
+  "camera_model": "simple-pinhole",
+  "single_camera": false
+}

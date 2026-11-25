@@ -1,0 +1,190 @@
+{
+  "dataset": "imc2023_theather_imc2024_church",
+  "seed": 20261111,
+  "experiment_id": "ns64_isolated_v1_imc2023_theather_imc2024_church_20261111",
+  "status": "AWAITING_MANUAL_EXECUTION",
+  "benchmark": {
+    "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+    "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+    "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+    "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+  },
+  "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+  "config_sha256": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+  "checkpoint_hashes": {
+    "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e",
+    "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+    "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+    "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+    "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+    "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+    "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d"
+  },
+  "source_inventory_hash": "edb517b23a85fffe9c4419bed989ca121ea0e8845693ff788614e13cbd713ddd",
+  "permutation_hash": "2133395075c25d66aaeb7d9663d8fb594b1289888871edcf1541bf15ae9d588b",
+  "organizer": {
+    "dataset": "imc2023_theather_imc2024_church",
+    "partition": "dev_a",
+    "images": 76,
+    "membership_hash": "2f93f07709144f4467ac3c35ebc493945751dbd313858c26e045436ce4e03e01",
+    "input_inventory_hash": "3e8a0936d8c18732b7ac4d464e9f74ec06a6a1dc4fbf4e660b291dc35f81be41",
+    "implementation_hash": "d5d612c530d52089b6dfa7ab3589ccaee572d0ba6281b9bfb35ceba044e5ce93",
+    "model_config_hash": "d430362fd8ebf2c6bddad39c14526e7b99aab79b436037aa27eb6d8b00f97784",
+    "checkpoint_hash": "e8b4ac2e7d6b1b07948f5ced15d41dead7edda37723ea2af5441f0d998ed9517",
+    "environment_hash": "436b98db47c714f62958d76306833340382f9ebb2a610a1cd65b69f882e21760",
+    "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+    "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+    "status": "COMPLETE",
+    "failure_count": 0,
+    "failure_reason": null,
+    "registered_images": 74,
+    "registration_coverage": 0.9736842105263158,
+    "models": 1,
+    "retained_match_pairs": 1523,
+    "verified_pairs": 1359,
+    "selected_pairs": 1948,
+    "runtime_by_stage": {
+      "B": 30.908828088000064,
+      "C": 7.130224904999977,
+      "D": 13.518763190999948,
+      "E": 208.028350348,
+      "F": 40.285612610000044,
+      "G": 398.6759545319999,
+      "H": 7.07146178999983
+    },
+    "successful_stage_seconds": 705.6191954639997,
+    "gpu_peak_allocated_bytes": 1711131136,
+    "gpu_peak_reserved_bytes": 2887778304,
+    "cpu_peak_rss_bytes": 1865199616,
+    "scores": {
+      "participant": {
+        "combined_score": 0.3832599118942731,
+        "maa": 0.3107142857142857,
+        "clusterness": 0.5
+      },
+      "prose_sensitivity": {
+        "combined_score": 0.3832599118942731,
+        "maa": 0.3107142857142857,
+        "clusterness": 0.5
+      }
+    },
+    "true_scene_count": 2,
+    "true_outliers": 0,
+    "predicted_outliers": 2,
+    "predicted_clusters": 1,
+    "diagnostics": {
+      "false_outliers": 2,
+      "missed_outliers": 0,
+      "merged_clusters": {
+        "cluster0": [
+          "church",
+          "kyiv-puppet-theater"
+        ]
+      },
+      "split_scenes": {},
+      "contingency": [
+        {
+          "true_scene": "church",
+          "predicted_scene": "cluster0",
+          "images": 50
+        },
+        {
+          "true_scene": "kyiv-puppet-theater",
+          "predicted_scene": "cluster0",
+          "images": 24
+        },
+        {
+          "true_scene": "kyiv-puppet-theater",
+          "predicted_scene": "outliers",
+          "images": 2
+        }
+      ]
+    },
+    "connectivity": {
+      "verified_component_sizes": [
+        76
+      ],
+      "isolated_images": 0,
+      "empty_verified_graph": false
+    }
+  },
+  "ordered_content_hashes": [
+    "a73b541a34bac587f2df65aec38a6b07478d62c7bd1f75ed0b22aa407f9fc16c",
+    "d547bc99f982fb77f4c312b64c7964f11707bbadfd7699480a9b6ad7c4b0dd14",
+    "b99fc88772de057e122af54e8efd56be39a0f1b1ca733d8bcec84bc859a4cc91",
+    "d31f49c57e5a58cf9af0dff4b3e19d01a79267484b7c64a112b196b5fde62cf5",
+    "af5961d901384ca02b762f2ce0bec90b5131bfb2aa994ad5da2f102a8bc42805",
+    "fd01c20ed6bc2e12cc673cdee9c1666e2dab8bb03b03f364d83b467d6bb48825",
+    "d37dd2ce400e51b63b77efff48ad0198ab408286f70825093007ac3908156d2c",
+    "42b952bc86b72c05c9184f822a94edd440bbb4e0a55c428cf837ee24df77917b",
+    "65a6b77cce73631b0e7e75171db45149f01f20e325b7e1aee701be0334074555",
+    "923f98867b668808cbd476c1c5a933ace98f35223ec3e44011fbf4fc71c173d7",
+    "76fd50e92918e9a66314dad42f1b6e61f5d09c72d3c8a36b771922a90cce0c7a",
+    "23df03c9a6a971ddbe74c4b3724123e11f50e91b914e0c89d699111a4f9c584d",
+    "83e2da1a815ba7bd5c7ba035fa4b7d62649b4d8516841c64fc7bfb4f41f341d6",
+    "eb3f832fd6e402995059c8df91bdd7948d56b8eebd39d3a3f638cf20dfcc463a",
+    "a15d82d778e960418de6c450e3c7b385160737cf223c20f63d7449e0bd4bc6c1",
+    "bb11a3b88186709b4abcb6efac320d7fba8bed21ad5ff41bb742d7741bab4403",
+    "2e6d0145635a96c3692efc2ebf9500085be53455b5285dee3a7dd10481d1bfbc",
+    "93f0978ac12d7bcbc8e18a7dd5f6613df949c4a9128e30d998f42d3456c65a87",
+    "fcadc4b23b70c08216a3a1a267e0fb4c92cb4569d8f24e6a33a395a010855249",
+    "de1255cf3f9fb319b62693083ce26be34cedd70039eec8e0ab17caa999590d72",
+    "9659dfa490a798b377affe74d4fd9ae4a511254a1504f8174c9855dcb3c19fce",
+    "7f077bbd4c78d476fbf927bb7d006a4a706a495ab113c0365f5c2421988bc2f0",
+    "b6ebc9c18a0f3fcf2815c5295b2b2a1b7ccf3a5da6d10b440d4d0839095df2d2",
+    "5d6501f19f5206c068715c0a402ecccfdcef4740db9566fadccd84534b3f14b4",
+    "55978b12bf461e3062f6357d04d63574d803fefe55bad28c5c2583e764e5798b",
+    "f4d33f152134783ae9947fef64c20f65e6bbea29980146b99d8bbd47981c0fe4",
+    "4ebebf6d4c261328122483e1f2f409cf74b3ed14deec3e761ba195ae6221dd3e",
+    "8f9c3ce9c75cbbacea18dbecc3c19b1b3b7e7321a12277ce6e26aafff0514aa7",
+    "9e11cd4049304ffec1be92e72ac433af0ec9c699844065e3f1f8bb46210b64f9",
+    "93c98d33192d84f43688d5352fb0fedc4b93e29e92e6babfc92a25d86d8c08e2",
+    "ef822c771a60518ba0fd28286de6f00fe7681c2ed0addce52cd9e96d23d59dee",
+    "96cd546b3e98bfdce721803cddd373fe71a25c500849540ad7e367d16d47c985",
+    "1e2128b76a4599741405b0d08932e00f7bf12cc040c8e72a97f74a7b5b7da6f6",
+    "47160977295f0ff8abad41f792ddbad098f8a31de02ca9224e44ef50625839cd",
+    "a5e6f7d820d844db3f6b0b309bae94e18f7d3613bc64238ee24d75ee02b0691b",
+    "5900e8e4382ec58e08caacf6b0a5feebf94840d2fd90a7a96acc740b71927bf2",
+    "fa63a759f942a5d8e3716a81643522167b1d07e900222ce9bf8965a656b1b588",
+    "ec7b9da15e03629668e20875fdf4e19f0e281d582100e7b11728fa9c12206834",
+    "68f84bbf4ebcbcd217d5e215ccd2fda6e15ecbd14782100edec36c91274455d0",
+    "c4940a2f56609c8675b4c0d4cc28efa19c0926ebb1b6cd23751e44798c9d4014",
+    "c40b44241407254822041208e2b3402d0cdee5e8da161d98a7f5628f2fae0865",
+    "7eb5768551f16ca56c33f04686ab78aedef9d93128a8db05d8b52ea29387d749",
+    "4795642d8f68712bf8d883a1829cae651164603fbc73da6066aa1d00b558bdba",
+    "49c60332478e224efb49a55930ebe20a13d6c3d31e13e96ab682e5bdfc5363ca",
+    "4b4adaa53f4c4c41a2147b72cb2b0ee4bb3fa05ed0863f1fb7aff9d1b1c82afd",
+    "0fde32d7c944ef7572284135753dabacfe8798184c81038bb82cbdeb46535b5d",
+    "025ecdf32db0d2d3fb6780a4ac5cd552d87f2d906045d95db4e51bff7ddd5ccd",
+    "00a18aef6308cd3b2fe3ec8aa8f49c9157c4952dcbd6a59017f02a2b9fa9d59a",
+    "34f859088b519f85524489f20a79d00fbcba1a41bd83c7ebab27c4a98b4d453d",
+    "5b91c8abe15ab70a9bfd96ac29fa412b11e872ff20ce28d24c19c7ac58128470",
+    "3bb1e06f246d5b9e08ea5456c42424ea10df775d2e620dd20fe378860a5e7d5d",
+    "66b12518b1743b1a50afe1fe99e72630f3936fa6971075b5ab934f83d9bdc669",
+    "ce533105276a5c8dfa562663b3d78ff8e9ee83ee0924b8ca1471239fda96260f",
+    "0f1a4b5eec435c96cad809e5807c82cd6469d0c65f164a9b2d28baf931f6414e",
+    "9a7b269cb44f988e27c2ce2a05de303accfe8dfab181b9761e4c9f86100b72b1",
+    "653bbcaeee4e7f99e84b4628a10130794bdde8846a8796c200217947704251ad",
+    "16f0480d1608b2ec97173e2539f331ea3f60c3f7ebd8dce64a7bd1f9c1dac9e7",
+    "ac99c9184eeb09b8d293d8b4a7f22345759636fb84d706167defdaadbbffb2c8",
+    "c2ccebc5a2496e10e1c93303d087dd91198961bce841d6e372f327ab5cc02841",
+    "f2f9302483e3e7ca39f15d0923a2612a608ee22c4e266042aee2b3c158a5cb7d",
+    "98918afa89b5a39bf3c48ad4966fc01194053cb4bba0717aed8fd715124b232a",
+    "fcd960dc2978bfc566c5b0abf6310a57f03f6a30970b360c1f405b487ac1ba23",
+    "db28638d948242ea7617e3fa81e01b58a5bb765afe358496e1e487e94c6159e9",
+    "f3d9039ce9c9216832721ce18009704b53c3900e8a6cf92bdb0605cf6e76c825",
+    "1af3fac6d53e886da306d632e41a9179322b045e1e0d80e5756ce4cd44796390",
+    "e23353a50a0598c37c0f241174f663e32b24862e4b77e7091becf3e3face0637",
+    "83a1b9beb8c5c968cda9ccf63d9fbccde18abe60b2bd216924a58881586e52f5",
+    "e83e551d79350105e780c3a8c2d616213d67af165dd396a798efeabf75ba8a49",
+    "76bf79f6e096ab8df8c7164bf3f87701d329cb9b9e03c39644fd1aaed1be12f6",
+    "9c9ac19b74d168b423e4f25297823dee69b1d16aa0770e030450b044eaa5f148",
+    "54c82a4808efd3fa6ec87dcc5e818eba642cd7c2cda58e971482f1a95fb431ce",
+    "f41f402e334220918a73764f69e08aa505754d4c1e99ce649abaaf8c36bb142c",
+    "cb785c2cecb04924c6c04a4a0968c8f9783ab0ec18bf071dbe472c3f897b7525",
+    "274eae6a9ffbadd5a1f56815fba27944d8eb3c68610a2f2df20b213b4361935e",
+    "a5a96444c47c4dc8d596e36a4a399c6a88f2c44b3d70de8729d33e3ae612a1c8",
+    "77aef7c165328af328ed016178bba04615dfae619525a60c97ceb0fb04c7b529"
+  ],
+  "worker_sha256": "782f46de6e4b2340fe2b05cbd01ae4c9124f286cb21b07fefe3e80d75847d9d0"
+}

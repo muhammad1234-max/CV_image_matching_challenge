@@ -1,0 +1,14 @@
+[
+  {
+    "identity": {
+      "dataset": "imc2024_dioscuri_baalshamin",
+      "model": "final_candidate_v1",
+      "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+      "seed": 20261111,
+      "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+    },
+    "runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+    "stage": "",
+    "status": "created"
+  }
+]

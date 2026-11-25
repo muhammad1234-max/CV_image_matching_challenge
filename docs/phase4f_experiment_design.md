@@ -1,0 +1,5 @@
+# Phase 4F Haiper experiment
+
+Selection used only Phase 4D opaque nodes, adjacency and the two frozen proposals. Recomputing the median crossing-edge endpoint-neighborhood Jaccard gives 0.6521739130434783 for 23 images and 0.2962962962962963 for 31. Freeze the latter's 16 + 15 split. The parent, complete 454-edge mask, seed, published YAML identity, input image order and exact 3.11.1 IncrementalPipelineOptions summary are in plan.json. This proposal was informed by prior Haiper analysis.
+
+Use a fresh free T4 Colab runtime without Drive. Open step04f_mapper_colab.ipynb. Cell 1 takes the clean runtime ZIP. Cell 2 takes the worker ZIP, opaque Haiper image ZIP and hash-named parent database together. Cell 3 launches the unchanged branch and downloads the return ZIP even on mapper failure or timeout. Return it for independent evaluation. Keep the session open. Cell 4 requires its paired parity gate. All cells share a 5,400-second deadline including setup, with 90 seconds reserved for export.

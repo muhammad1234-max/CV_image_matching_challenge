@@ -1,0 +1,33 @@
+{
+  "archive_sha256": "8af983ab540df0aa6c645d90790cb9912c9184d0aeb235fca54accac825d6a81",
+  "status": "VERIFIED_SMOKE_PASS",
+  "benchmark_pins_match": true,
+  "prediction_count": 22,
+  "identity_order_match": true,
+  "both_metrics_recomputed_exactly": true,
+  "included_stage_artifacts_verified": 10,
+  "source_files_differing_from_current_local": [
+    "src/baselines/organizer/run.py"
+  ],
+  "source_limit": "Returned manifest contains hashes, not full source bytes. Current local mount diagnostics postdate this run. Omitted large artifacts and image bytes cannot be rehashed from report.",
+  "scene_contingency": {
+    "('outliers', 'cluster0')": 1,
+    "('outliers', 'outliers')": 2,
+    "('ET', 'cluster0')": 9,
+    "('another_ET', 'cluster0')": 10
+  },
+  "runtime": {
+    "python": "3.10.12",
+    "gpu": "Tesla T4",
+    "torch": "2.5.1+cu121",
+    "cuda_build": "12.1"
+  },
+  "package_versions": {
+    "numpy": "1.26.4",
+    "pycolmap": "0.6.1",
+    "kornia": "0.7.2",
+    "kornia_rs": "0.1.2",
+    "lightglue": "0.0",
+    "transformers": "4.47.0"
+  }
+}

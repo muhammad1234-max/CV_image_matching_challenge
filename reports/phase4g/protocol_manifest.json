@@ -1,0 +1,28 @@
+{
+  "files": {
+    "src/novel_model/geometry_graph_v1/schemas.py": "7a1cedcc2f9cc8ca7e0fe6b49778354f08de1c33e7c584285ec6b53038f6b15a",
+    "src/novel_model/geometry_graph_v1/spectral_proposal.py": "f9e890563dfc057a36a0d3b28117f3abc6b583a6f9ce94202059166975d4e52c",
+    "src/novel_model/geometry_capture_v1/database.py": "24bc7ef8dac7c1f9540218ccb1cc5b8d7ef9bbfb182ff8b1c9a4f47009a1a08a",
+    "src/novel_model/reconstruction_feedback_v1/__init__.py": "acda30b51198c6abecf9a63c17678c33cbbc5fbf52addb5d18ea9feaedba9f60",
+    "src/novel_model/reconstruction_feedback_v2/__init__.py": "fd81957e2e90543f0abb15f91b431aa7ff8db2a6a2a151761d78d3c36172a03d",
+    "src/novel_model/reconstruction_feedback_v2/worker.py": "264ac57a63d6bfe8749fd27e262942399517b77683fdd6f7798371992555c9d7",
+    "configs/novel_model/reconstruction_feedback_v2.yaml": "58749431879958c095957f404e329213fdd4dd1682a6dab7dd632c57e1467367"
+  },
+  "model_bundle": "af0eaa71875e61f265284e45fb13b2770b1bd711e4ec7941873c53832be02c01",
+  "datasets": {
+    "stairs": {
+      "worker": "6599b587882391997dafac907a202dfb72344610dcd0b6adf973d80540153ec4",
+      "notebook": "9cb37090a9f1752954f7cb4ea77c47273f60c169e6b3c226d1a18b0f063c06ba",
+      "opaque_baseline": "de79869b7aef29284f65d04fe4df7289abdf259d87119fafdd3b8c3f71801ea7",
+      "historical_archive": "c4f74f7900f34d684f9fea12651dd9ab75f3ae3ce24194e36ab692bfed474c14",
+      "historical_cache_members": []
+    },
+    "imc2023_theather_imc2024_church": {
+      "worker": "b4e614e07334918841b3b9d89caccebc1e630eed5ed02bed8074ccc8394a4969",
+      "notebook": "d426b6b7affe4551fd912626aff6a5ba04fa25fd53303552d5afb57d85d2bb0c",
+      "opaque_baseline": "819e78249e759f7d752112f4a3f91e7bfaeab5cbdd6e387de4719c38055c629a",
+      "historical_archive": "5d3f2d0fd06a163aa31cf59c8b0b5dd73b061c715ab929ba7f30250b527c6a93",
+      "historical_cache_members": []
+    }
+  }
+}

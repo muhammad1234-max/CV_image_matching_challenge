@@ -1,0 +1,3 @@
+# Custody failure analysis
+
+Phase 5A.6 validated the local export and printed its SHA-256 before prompting for browser custody. The browser failed to deliver a retained copy. The operator later found neither the .bin nor the sealed directory or process in the runtime and reported no saved version. The available evidence cannot distinguish a browser, network, session or service-side transfer error. No verified usable parent has been found. The API rejected the private inventory request. Before further GPU work the owner must also check private notebook outputs, datasets and other destinations. If the original is found, validate its SHA-256 and restore it with the original contract and completion journal. A filename match is insufficient.

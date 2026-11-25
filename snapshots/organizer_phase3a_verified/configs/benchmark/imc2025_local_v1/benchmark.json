@@ -1,0 +1,59 @@
+{
+  "benchmark_version": "imc2025_local_v1",
+  "status": "FROZEN",
+  "seed": 20261111,
+  "blockers": [],
+  "dataset_inventory_hash": "ad6c64f09b9590cd2ab1c67a7c472ce52aa761ab5c5297f30884faa9ad85ad37",
+  "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+  "proposal_hash": "612595ad47ebb354acb37d277adfb228d10ee0c500ad53c28b5447bb53653064",
+  "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+  "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645",
+  "evaluation_datasets": {
+    "dev_a": [
+      "amy_gardens",
+      "imc2023_haiper",
+      "imc2023_heritage",
+      "imc2023_theather_imc2024_church",
+      "imc2024_dioscuri_baalshamin",
+      "stairs"
+    ],
+    "dev_b": [
+      "ETs",
+      "fbk_vineyard",
+      "pt_brandenburg_british_buckingham",
+      "pt_sacrecoeur_trevi_tajmahal",
+      "pt_stpeters_stpauls"
+    ],
+    "confirmation": [
+      "imc2024_lizard_pond",
+      "pt_piazzasanmarco_grandplace"
+    ]
+  },
+  "file_hashes": {
+    "source_groups.json": "b702275a27ab7e0d630cba06be9ac984b699178c86fa402c9f2a5a914987b9e6",
+    "split_proposal.json": "6aaec09faad762f64e96cb3b79f5046634fc8184e4990b55cb3b4688086b13fa",
+    "thresholds.json": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645",
+    "provenance.json": "8f28efeef2f9c49293ed68c5294832e11c31b64df9be8938f600bad760155cd9",
+    "evaluator.json": "76de800b377ca8d228ee5e4ac30bf2b1bdf36c2a78d802a1edbe8ca9787b22aa",
+    "experiment_template.json": "69875c98884417855d296cde374dccd77ae56edfe029b6d87041d4dad5560d10",
+    "image_membership.json": "14735532b83d51b918fc2ed79169f97c81cc87b74f699c5e68d4c69a92543f87",
+    "metadata_validation.json": "1f57032cab032ef6b804aff58161e3d9362cc129f26e1d21c9d0eb1378661ac8",
+    "evaluator_environment.json": "4c54700c36269cb8bc88581816372219148472b2db7135cca44a4b19bf8d2a28",
+    "freeze_decision.json": "da76955bfed2b5dbfc6f453fcf68138fa8737b0378f57ccc2e305fb80e49a4f5"
+  },
+  "code_hashes": {
+    "scripts/benchmark_contract.py": "2a3afea5a7daa79274b771a205b6fffcd0b534f7ce51c50b958d4ff0a37da3c0",
+    "scripts/evaluate_local_reference.py": "ade8662f9b8f22b3c7b7c946a648a37c7aca0bce7820d9d6d254984590f4f3ba",
+    "scripts/validate_benchmark.py": "936df668d7eb55448075502aaa869be99a306c1b0d00bb66c578fec8e56e9843",
+    "scripts/register_experiment.py": "39b0924408529ec64ea70e0ebec1074f557919d741bc9b7bb8cb5e718fe167e9",
+    "scripts/finalize_benchmark.py": "db40c32e6445e72aac0166c2755c77b9fee70a5aa63feb2b997e41c41863a846"
+  },
+  "baseline_status": "NOT REGISTERED",
+  "phase3_status": "AWAITING SUPERVISOR APPROVAL",
+  "metadata_hashes": {
+    "docs/evidence/benchmark_metadata_received/train_labels.csv": "f65b20be20cb2cbfd288871c20f9863fd6f052f484a97b236090989af945ea0c",
+    "docs/evidence/benchmark_metadata_received/sample_submission.csv": "cce6dddfdf979f0b33e821587d98d6ed0fa97042a0cc0ae4cca1a77a3cf65aab",
+    "docs/evidence/benchmark_metadata_received/train_thresholds.csv": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2"
+  },
+  "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4"
+}

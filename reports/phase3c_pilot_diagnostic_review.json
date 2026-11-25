@@ -1,0 +1,33 @@
+{
+  "archive_sha256": "4826b56ccd051e5b8b5cd2b7fe33ec394c4483fdb5625998d5acd0eec9bfd91f",
+  "plan_matches_preparation": true,
+  "source_hash_verified": true,
+  "reported_input_check": "PASS",
+  "status": "BLOCKED",
+  "execution_seconds": 15.952252479999999,
+  "hardware": {
+    "gpus": [
+      "Tesla T4, 15360 MiB, 580.178.04",
+      "Tesla T4, 15360 MiB, 580.178.04"
+    ],
+    "python": "3.10.12"
+  },
+  "missing_weights": [
+    "superpoint",
+    "mast3r",
+    "retrieval",
+    "codebook",
+    "isc"
+  ],
+  "missing_distributions": [
+    "pycolmap",
+    "asmk",
+    "curope",
+    "mast3r"
+  ],
+  "limitations": [
+    "hardware PASS records device discovery; combined CUDA/import probe returned 1",
+    "probe stopped at pycolmap; later module imports remain untested",
+    "No checkpoint loading, inference, predictions or scoring executed"
+  ]
+}

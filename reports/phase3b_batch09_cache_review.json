@@ -1,0 +1,7 @@
+{
+  "archive_integrity": "PASS",
+  "sha256": "2c00a67c87e22f1846066c4c683ab9f4c5d50f7bd51cebf6edc32a597bcc329b",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/imc2023_heritage/F/colmap.db"
+  ]
+}

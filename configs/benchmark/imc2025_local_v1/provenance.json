@@ -1,0 +1,233 @@
+{
+  "verified_local_artifacts": [
+    {
+      "path": "docs/evidence/kaggle_audit_received/execution_environment.json",
+      "file": "execution_environment.json",
+      "bytes": 207,
+      "sha256": "9eb6c421b6737fb1756de3b406b0f8c9aab57c8fa2822aa219b0f072ddb8c46a"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/dataset_inventory.json",
+      "file": "dataset_inventory.json",
+      "bytes": 274982,
+      "sha256": "ad6c64f09b9590cd2ab1c67a7c472ce52aa761ab5c5297f30884faa9ad85ad37"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/pose_validation.json",
+      "file": "pose_validation.json",
+      "bytes": 498,
+      "sha256": "08090f9f48fd1b25a1071129bc55375151f960fa3b221f6174e440e8a9af5fd4"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/submission_contract.json",
+      "file": "submission_contract.json",
+      "bytes": 355,
+      "sha256": "73f5e28fb66624268626d68f04cbb6c983e0ca4952ba708bcd32bbfee810125d"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/dataset_groups.csv",
+      "file": "dataset_groups.csv",
+      "bytes": 415,
+      "sha256": "3eddf87e1730dd7ae1240d2e373eb56bb776663d0684d1e46b2d643661e31aca"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/scene_statistics.csv",
+      "file": "scene_statistics.csv",
+      "bytes": 1251,
+      "sha256": "6f803de14510888363f99c689230f9daccced5f2ceb7328dfc2b1058b99ef1cd"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/outlier_statistics.csv",
+      "file": "outlier_statistics.csv",
+      "bytes": 499,
+      "sha256": "1434e7e1740bb2bff036eedd4c023d35cf23587dae59f957b1d4da20ec168876"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/dataset_summary.json",
+      "file": "dataset_summary.json",
+      "bytes": 1107,
+      "sha256": "d9905df9f1b9d860726746b155f0ceeb37b07c45c96b4c5aebb8d79c963a6c42"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/threshold_provenance.json",
+      "file": "threshold_provenance.json",
+      "bytes": 7972,
+      "sha256": "63c3c0933936d0be6ef127c1082deb214c769a82859e980dee966ecdc13990c8"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/scene_sizes.svg",
+      "file": "scene_sizes.svg",
+      "bytes": 942,
+      "sha256": "0571bd24f1ecb429a19d8ee29b2c5fb4a0120fa79d128d8988d496367e503ae2"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/validation_recommendation.md",
+      "file": "validation_recommendation.md",
+      "bytes": 1145,
+      "sha256": "90804a1e86b52dea6fbd91c190dee59b8f12c96b9a93bb12ba819037b0ee96ce"
+    },
+    {
+      "path": "docs/evidence/kaggle_audit_received/audit_status.json",
+      "file": "audit_status.json",
+      "bytes": 669,
+      "sha256": "dd86951c8be399895230c684c1b92087c4156447ee58405a28eb01901afdbccf"
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/environment.json",
+      "file": "environment.json",
+      "sha256": "2408edbaf32eaf2bd344c52af86d87595b03a8fda6dd03d388d1003f1075fc01",
+      "bytes": 126
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/audit_status.json",
+      "file": "audit_status.json",
+      "sha256": "e38919f38de1187a6ff624b671c125afb34db925de03db428a657d914907c33e",
+      "bytes": 406
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/sample_submission_contract.json",
+      "file": "sample_submission_contract.json",
+      "sha256": "8fb56b57c5ca166014496ccf67c8b4f3fa688b2e34402f3a9b023450e5d5193b",
+      "bytes": 1735
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/sample_dataset_coverage.csv",
+      "file": "sample_dataset_coverage.csv",
+      "sha256": "d645ac276988335134794f1fd50d74d1f596498cd5a3a87e7f52492a8a82a009",
+      "bytes": 388
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/thresholds_raw_and_parsed.csv",
+      "file": "thresholds_raw_and_parsed.csv",
+      "sha256": "34ced4582a883bb67cacdfbc668a706f23d36be7351c56c61b3160829641b163",
+      "bytes": 17871
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/threshold_source.json",
+      "file": "threshold_source.json",
+      "sha256": "18f1b021c8ec28795a0fb2d18a3232b71df3fff144c8057ae52fc56224583985",
+      "bytes": 529
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/threshold_reconciliation.md",
+      "file": "threshold_reconciliation.md",
+      "sha256": "459325df03803e16007f36cf16f42252463ca828fa01e0ba52b0c2d2509ca019",
+      "bytes": 2638
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/pose_outlier_crosstab.csv",
+      "file": "pose_outlier_crosstab.csv",
+      "sha256": "fe47661a660c18bcb70775169672127df5584bdfa7bff6594a3677188ddaa407",
+      "bytes": 749
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/pose_integrity.json",
+      "file": "pose_integrity.json",
+      "sha256": "2f8fb06dff1b7824fb195b82a4d999b44c6e459d96f88591d2c7852199a53689",
+      "bytes": 311
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/dataset_overlap_candidates.csv",
+      "file": "dataset_overlap_candidates.csv",
+      "sha256": "b19e1397a03f654cc449d08193666b26cd3a79773afa50ed69d2333381fa0cbc",
+      "bytes": 59
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/overlap_status.json",
+      "file": "overlap_status.json",
+      "sha256": "9fa9a9f559ec003ac2a549bbd9f93a93eb3000610e90cdcb5497ed5e4307e2de",
+      "bytes": 1423
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/source_provenance_review.md",
+      "file": "source_provenance_review.md",
+      "sha256": "46cdd8a6320be3450fb20bbe09d0cbf13ce3e19ffb0df55869c649e7b5373227",
+      "bytes": 8854
+    },
+    {
+      "path": "docs/evidence/contract_audit_received/validation_grouping_proposal.md",
+      "file": "validation_grouping_proposal.md",
+      "sha256": "d97e7becded59723d92598516244df221c21ba54078c7a6fff15d37bc581e7aa",
+      "bytes": 1359
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/environment.json",
+      "file": "environment.json",
+      "sha256": "ae5004437973bb24ded865ccd8109ade150531d3ab25735ca9413179a032dc25",
+      "bytes": 126
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/audit_status.json",
+      "file": "audit_status.json",
+      "sha256": "46b8ec617937cbc1be24a48b008501602a3ceb1b32960c772f3d908011a64a00",
+      "bytes": 376
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/sample_submission_contract.json",
+      "file": "sample_submission_contract.json",
+      "sha256": "8fb56b57c5ca166014496ccf67c8b4f3fa688b2e34402f3a9b023450e5d5193b",
+      "bytes": 1735
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/sample_dataset_coverage.csv",
+      "file": "sample_dataset_coverage.csv",
+      "sha256": "d645ac276988335134794f1fd50d74d1f596498cd5a3a87e7f52492a8a82a009",
+      "bytes": 388
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/thresholds_raw_and_parsed.csv",
+      "file": "thresholds_raw_and_parsed.csv",
+      "sha256": "34ced4582a883bb67cacdfbc668a706f23d36be7351c56c61b3160829641b163",
+      "bytes": 17871
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/threshold_source.json",
+      "file": "threshold_source.json",
+      "sha256": "18f1b021c8ec28795a0fb2d18a3232b71df3fff144c8057ae52fc56224583985",
+      "bytes": 529
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/threshold_reconciliation.md",
+      "file": "threshold_reconciliation.md",
+      "sha256": "459325df03803e16007f36cf16f42252463ca828fa01e0ba52b0c2d2509ca019",
+      "bytes": 2638
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/pose_outlier_crosstab.csv",
+      "file": "pose_outlier_crosstab.csv",
+      "sha256": "fe47661a660c18bcb70775169672127df5584bdfa7bff6594a3677188ddaa407",
+      "bytes": 749
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/pose_integrity.json",
+      "file": "pose_integrity.json",
+      "sha256": "2f8fb06dff1b7824fb195b82a4d999b44c6e459d96f88591d2c7852199a53689",
+      "bytes": 311
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/dataset_overlap_candidates.csv",
+      "file": "dataset_overlap_candidates.csv",
+      "sha256": "fd0fb8c706e0e87bb44b2618a9e486b382bb14f28b2567da5357eaa6dbef05db",
+      "bytes": 1387
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/overlap_status.json",
+      "file": "overlap_status.json",
+      "sha256": "916d7c546986ee59f7e671e2970124a5174502ade4c5d1e3508e092ee3ef1282",
+      "bytes": 1411
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/source_provenance_review.md",
+      "file": "source_provenance_review.md",
+      "sha256": "46cdd8a6320be3450fb20bbe09d0cbf13ce3e19ffb0df55869c649e7b5373227",
+      "bytes": 8854
+    },
+    {
+      "path": "docs/evidence/contract_audit_rerun_received/validation_grouping_proposal.md",
+      "file": "validation_grouping_proposal.md",
+      "sha256": "04ffe9ed0ca44236857ce65fc678c2c47fd4d8f9ebcfd0bfd97808e54603ccd3",
+      "bytes": 1351
+    }
+  ],
+  "remote_findings_independently_reverified": false
+}

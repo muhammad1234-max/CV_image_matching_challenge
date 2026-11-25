@@ -1,0 +1,22 @@
+{
+  "status": "parsed",
+  "columns": [
+    "dataset",
+    "scene",
+    "image",
+    "rotation_matrix",
+    "translation_vector"
+  ],
+  "rows": 1945,
+  "unique_dataset_image_keys": 1945,
+  "complete": true,
+  "pose_states": {
+    "valid": 1823,
+    "all_nan": 122
+  },
+  "issues": {},
+  "sample_keys_missing_visible_test_images": null,
+  "sample_keys_without_visible_test_image": null,
+  "identifier_format": "opaque image string; uniqueness key is (dataset,image)",
+  "source": "train_labels.csv"
+}

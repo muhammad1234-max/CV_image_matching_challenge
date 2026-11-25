@@ -1,0 +1,12 @@
+{
+  "dataset": "ETs",
+  "images": 22,
+  "partition": "dev_b",
+  "fold_a_role": "training",
+  "fold_b_role": "evaluation",
+  "rationale": "No dedicated training-only group exists. Smallest intact authorized development dataset, selected before scores by size; 231 possible pairs.",
+  "confirmation_used": false,
+  "test_images_used": false,
+  "gt_labels_available_to_inference": false,
+  "diagnostic_only": true
+}

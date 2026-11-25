@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "archive_sha256": "3225dda6d7a02d1d6008a672c13695e8c45941b9f78087d9644b8c04a262bf6b",
+  "elapsed_seconds": 118.03578632800054,
+  "checks": 28,
+  "scope": "Checkpoint identity and loaders, model imports, synthetic MASt3R CUDA forward; full ETs pending",
+  "tests_total": 125,
+  "new_integration_tests": 19,
+  "real_pilot_notebook": "notebooks/step03c_ns64_real_ets_pilot.ipynb",
+  "real_pilot_status": "PREPARED_PENDING_HUMAN_EXECUTION"
+}

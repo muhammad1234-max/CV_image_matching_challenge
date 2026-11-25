@@ -1,0 +1,51 @@
+{
+  "stairs": {
+    "selection": {
+      "status": "BLOCKED",
+      "selected": null,
+      "error": "Resource limit in capture",
+      "protocol": "af0eaa71875e61f265284e45fb13b2770b1bd711e4ec7941873c53832be02c01",
+      "worker": "6599b587882391997dafac907a202dfb72344610dcd0b6adf973d80540153ec4",
+      "wall_seconds": 1377.0894718710001
+    },
+    "usage": {
+      "seconds": 44.10139492799999,
+      "peak_tree_rss_bytes": 23294685184
+    },
+    "archive_sha256": "3f46111feb4b9fd983d38fff8ff1fda63fccf349a6769e8716f58ed9f02f1b56",
+    "members": [
+      "capture.log",
+      "boundary.json",
+      "capture_usage.json",
+      "selection.json",
+      "environment.json",
+      "identity.json"
+    ]
+  },
+  "imc2023_theather_imc2024_church": {
+    "selection": {
+      "status": "BLOCKED",
+      "selected": null,
+      "error": "Resource limit in capture",
+      "protocol": "af0eaa71875e61f265284e45fb13b2770b1bd711e4ec7941873c53832be02c01",
+      "worker": "b4e614e07334918841b3b9d89caccebc1e630eed5ed02bed8074ccc8394a4969",
+      "wall_seconds": 1668.5187451440001
+    },
+    "usage": {
+      "seconds": 55.077300596000214,
+      "peak_tree_rss_bytes": 19245801472
+    },
+    "archive_sha256": "38eda7d9a2a226198e2bf148f14fc781afd07191a6576409cc2fe79a90946a5f",
+    "members": [
+      "capture.log",
+      "weight_load.json",
+      "environment.json",
+      "selection.json",
+      "capture_usage.json",
+      "boundary.json",
+      "preflight.json",
+      "identity.json",
+      "input_receipt.json"
+    ]
+  }
+}

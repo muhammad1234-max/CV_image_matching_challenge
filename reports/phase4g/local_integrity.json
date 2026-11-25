@@ -1,0 +1,42 @@
+{
+  "implementation_hash": "d5d612c530d52089b6dfa7ab3589ccaee572d0ba6281b9bfb35ceba044e5ce93",
+  "images": {
+    "stairs": {
+      "count": 51,
+      "permutation": "744bdb099dfac67431db563c63058f42765beb757ee6bf5a2a39adc97a500b26",
+      "checkpoints": {
+        "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e",
+        "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+        "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+        "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+        "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+        "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+        "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d"
+      },
+      "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+      "yaml": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763"
+    },
+    "imc2023_theather_imc2024_church": {
+      "count": 76,
+      "permutation": "2133395075c25d66aaeb7d9663d8fb594b1289888871edcf1541bf15ae9d588b",
+      "checkpoints": {
+        "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e",
+        "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+        "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+        "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+        "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+        "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+        "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d"
+      },
+      "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+      "yaml": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763"
+    }
+  },
+  "phase4f_verified_members": 29,
+  "benchmark": {
+    "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+    "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+    "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+    "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+  }
+}

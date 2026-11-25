@@ -1,0 +1,103 @@
+{
+  "status": "COMPLETED",
+  "archive_sha256": "bbec7c6dec4a91bff1623e0773e69efebbc301e8a698ae85918ec13b7a92fef9",
+  "restored_sha256": "6901de90ed8cd8cd8b1ab3dd2aba75a986fa64aeb621724b3857f5e91fa4c1c9",
+  "environment_differences": [],
+  "component_sizes": [
+    31,
+    23
+  ],
+  "cross_scene_verified_edges": {
+    "bike / chairs": 68
+  },
+  "stages": [
+    {
+      "stage": "shortlist_generator",
+      "status": "PASS",
+      "count": 733,
+      "seconds": 90.10033653400023,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 3589263872,
+      "peak_gpu_reserved_bytes": 3667918848
+    },
+    {
+      "stage": "run_local_feature_extraction_and_matching_stage",
+      "status": "PASS",
+      "seconds": 0.0007620140004291898,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 3589263872,
+      "peak_gpu_reserved_bytes": 3667918848
+    },
+    {
+      "stage": "run_detector_free_matching_stage",
+      "status": "PASS",
+      "seconds": 0.0005453419998957543,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 3589263872,
+      "peak_gpu_reserved_bytes": 3667918848
+    },
+    {
+      "stage": "run_point_tracking_matching_stage",
+      "status": "PASS",
+      "seconds": 479.45104913999967,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 5367882752,
+      "peak_gpu_reserved_bytes": 5928648704
+    },
+    {
+      "stage": "fuse_matching_sets_late",
+      "status": "PASS",
+      "retained_pairs": 455,
+      "seconds": 0.0006999990000622347,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 5367882752,
+      "peak_gpu_reserved_bytes": 5928648704
+    },
+    {
+      "stage": "verify_matches",
+      "status": "PASS",
+      "verified_pairs": 454,
+      "seconds": 23.34533145899877,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 5367882752,
+      "peak_gpu_reserved_bytes": 5928648704
+    },
+    {
+      "stage": "incremental_mapping",
+      "status": "PASS",
+      "remaining_before_sfm": 4744.629157898,
+      "count": 2,
+      "seconds": 427.52270215799945,
+      "worker_peak_rss_kib": 6807396,
+      "peak_gpu_allocated_bytes": 5367882752,
+      "peak_gpu_reserved_bytes": 5928648704
+    }
+  ],
+  "resources": {
+    "worker_peak_rss_kib": 6807396,
+    "peak_gpu_allocated_bytes": 5367882752,
+    "peak_gpu_reserved_bytes": 5928648704,
+    "work_bytes": 202766278,
+    "mem_available": "MemAvailable:    5516232 kB"
+  },
+  "run": {
+    "status": "PASS",
+    "seed": 20261111,
+    "experiment_id": "ns64_isolated_v1_imc2023_haiper_20261111",
+    "seconds": 1086.6158454099987,
+    "budget_seconds": 5400,
+    "worker_sha256": "e3487c87a4dc9649736156632cb6ad440169e3b242b0ffe42e019de2ba940113"
+  },
+  "deltas": {
+    "participant": {
+      "combined_score": 0.05403828770997465,
+      "maa": 0.1166666666666667,
+      "clusterness": 0.0
+    },
+    "prose_sensitivity": {
+      "combined_score": 0.05403828770997465,
+      "maa": 0.1166666666666667,
+      "clusterness": 0.0
+    }
+  }
+}

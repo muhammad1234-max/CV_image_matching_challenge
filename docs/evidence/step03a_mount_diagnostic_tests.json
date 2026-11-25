@@ -1,0 +1,9 @@
+{
+  "tests": 83,
+  "failures": 0,
+  "errors": 0,
+  "duration_seconds": 1.883,
+  "notebook_sha256": "09438186d5f288408411cfbe03f0e1d3200e43ac711110dac0c65b2110b2c1c9",
+  "gpu_inference_executed": false,
+  "fix": "Explain missing competition mount or incomplete intact ETs dataset; never auto-switch to another competition"
+}

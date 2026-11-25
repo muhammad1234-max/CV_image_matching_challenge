@@ -1,0 +1,76 @@
+{
+  "status": "DRAFT",
+  "seed": 20261111,
+  "strategy": "fixed metadata-informed named allocation; no score inspection or random percentages",
+  "assignments": {
+    "ETs": "dev_b",
+    "amy_gardens": "dev_a",
+    "fbk_vineyard": "dev_b",
+    "imc2023_haiper": "dev_a",
+    "heritage_dioscuri": "dev_a",
+    "imc2023_theather_imc2024_church": "dev_a",
+    "imc2024_lizard_pond": "confirmation",
+    "pt_brandenburg_british_buckingham": "dev_b",
+    "pt_piazzasanmarco_grandplace": "confirmation",
+    "pt_sacrecoeur_trevi_tajmahal": "dev_b",
+    "pt_stpeters_stpauls": "dev_b",
+    "stairs": "dev_a"
+  },
+  "balance": {
+    "dev_a": {
+      "datasets": [
+        "amy_gardens",
+        "imc2023_haiper",
+        "imc2023_heritage",
+        "imc2023_theather_imc2024_church",
+        "imc2024_dioscuri_baalshamin",
+        "stairs"
+      ],
+      "groups": 5,
+      "images": 728,
+      "scenes": 13,
+      "outliers": 85
+    },
+    "dev_b": {
+      "datasets": [
+        "ETs",
+        "fbk_vineyard",
+        "pt_brandenburg_british_buckingham",
+        "pt_sacrecoeur_trevi_tajmahal",
+        "pt_stpeters_stpauls"
+      ],
+      "groups": 5,
+      "images": 835,
+      "scenes": 13,
+      "outliers": 3
+    },
+    "confirmation": {
+      "datasets": [
+        "imc2024_lizard_pond",
+        "pt_piazzasanmarco_grandplace"
+      ],
+      "groups": 2,
+      "images": 382,
+      "scenes": 4,
+      "outliers": 34
+    }
+  },
+  "training": {
+    "fold_a": [
+      "ETs",
+      "fbk_vineyard",
+      "pt_brandenburg_british_buckingham",
+      "pt_sacrecoeur_trevi_tajmahal",
+      "pt_stpeters_stpauls"
+    ],
+    "fold_b": [
+      "amy_gardens",
+      "imc2023_haiper",
+      "imc2023_heritage",
+      "imc2023_theather_imc2024_church",
+      "imc2024_dioscuri_baalshamin",
+      "stairs"
+    ]
+  },
+  "confirmation_for_model_selection": false
+}

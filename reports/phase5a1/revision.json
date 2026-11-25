@@ -1,0 +1,33 @@
+{
+  "notebook": "0648f8b3be18a687c2a802f1d7ebd791c3ae55435a1ff06a7afe2088459c6c64",
+  "runner": "6a8ee14b6003dd775627ef49f0389d129213c199eebe5a3c51ee590d8e9c82c1",
+  "scientific": {
+    "benchmark": {
+      "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+      "evaluator_hash": "c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261",
+      "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+      "threshold_hash": "c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645"
+    },
+    "config_sha256": "8134dd74471fe6bd25bf8ce3a891454f461e772d156715409f62977eb4c95b26",
+    "dataset": "imc2024_dioscuri_baalshamin",
+    "environment": "8bb71679bf5735f6e3c8225885be88c1f530639094df310a5a29e6691498455b",
+    "image_archive": "2390cb5c85812982edfd47d73471e548fb70e5e8f4d4d76b35674951f089fd9c",
+    "image_permutation": "1b7bc97f6f54a2f5daa967a06e67211cd565f84d2d9403cd60f1faa50af543b0",
+    "images": 138,
+    "options_sha256": "34efa9cc0082dfefd16df98fea3ad8e9523d75245f464072c78985a24a7bb7be",
+    "protocol_sha256": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+    "published_config": "e7829be60865192d3ddcc8555b94bc8678415e265a566d8ce8386ef17b0cc763",
+    "source_inventory": "edb517b23a85fffe9c4419bed989ca121ea0e8845693ff788614e13cbd713ddd",
+    "source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+    "weight_pins": {
+      "aliked": "5be8704840ed662d9d8c561bf7279c222092674e7eb05fd0feab94899e9d82f2",
+      "codebook": "700af9e31ad0ca6159955dc80b4fd6e14234780b52f5c91884f6553991933c1a",
+      "dinov2": "014965d9e330e7f4bff8ddcbee9df5e4f2ca032b2f5180942a6edb454783e75d",
+      "isc": "512390a15ab52f8ab5adc14a315b157a5d6e732e3361c7a0dce5be6e95a86d30",
+      "mast3r": "e28f91b488554653e2b46ddae9c78c1143e0bcb2e27d3e26cdb0b717f1568eb2",
+      "retrieval": "000a324f06f9369ab3e32d03dd4b8a838d48e98e3f3bf9d7dd034dce1bfd4c50",
+      "superpoint": "52b6708629640ca883673b5d5c097c4ddad37d8048b33f09c8ca0d69db12c40e"
+    },
+    "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+  }
+}

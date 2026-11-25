@@ -1,0 +1,11 @@
+{
+  "changed_files": {
+    "scripts/phase5a7_persistence.py": "85444955d5713718e56510092995016c1815213b6b352f40e9fe193f09237a66",
+    "scripts/phase5a7_recovery.py": "3c013413d1647232a22f859ebf6646697ce02374a3a9f4a54697f909d2f09c08",
+    "src/runner_5a7_primitives.py": "d7f2c7f6f46db0c5c6120fa30509171b327048bc0f7427bf233871b24e7d3b08"
+  },
+  "extension_sha256": "d48bd113af3389defb93989ffe73fed614ee1eeb81fee878c6ce18e421549ede",
+  "fixture_release": "a4139e05464bb7052bac562a311131667d0f92cb275e134ff79447cd12111309",
+  "parent_release": "fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac",
+  "state": "prepared; live dispatch withheld at persistence gate"
+}

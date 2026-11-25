@@ -1,0 +1,79 @@
+schema_version: 1
+proposal_id: ns64_boundary_rotation_v1
+state: design_pending_supervisor_review
+primary: A
+fallback: C
+benchmark:
+  name: imc2025_local_v1
+  benchmark_hash: a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4
+  split_hash: 170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057
+  evaluator_hash: c7ae94306ba0ae4ce9c00e9abc7e15bd99f3091fa063b5826b0dd567a6c3f261
+  threshold_hash: c6aec2fc2c8f9cb5f268f57333911f0835fcaba8aedc0eec67951ed729e68645
+  organizer_id: organizer_baseline_v1_dev_full
+  organizer_lock_dir: configs/baselines/organizer_v1
+  ns64_lock: configs/baselines/ns64_isolated_v1/experiment.json
+  subset_receipts: reports/ns64_full/completed_archive_index.json
+  primary_seed: 20261111
+  sensitivity_seed_ets: 20261112
+  four: [ETs, stairs, imc2023_haiper, imc2023_theather_imc2024_church]
+  first_pilot: imc2023_haiper
+frontend: frozen_ns64_mast3rhybrid_022c
+capture: post_verification_post_pruner_pre_mapper
+graph:
+  node_key: neutral_opaque_id
+  weight: log1p_verified_inlier_count
+  scope: original_connected_component_in_mapper_invocation
+  proposal: connected_normalized_cut_fiedler_sweep
+  min_side_images: 6
+  proposals_per_component: 1
+  recurse: false
+  tie_tolerance: 1.0e-10
+  eigengap_min: 1.0e-8
+rotation:
+  convention: target_camera_from_source_camera
+  unit: degrees
+  side_frames: maximum_weight_internal_spanning_tree
+  min_non_tree_checks_per_side: 4
+  internal_quantile: 0.8
+  quantile_method: nearest_rank
+  max_internal_error_deg: 10
+  recovery_min_inliers: 8
+  recovery_min_positive_depth_fraction: 0.75
+  recovery_min_median_triangulation_deg: 1
+  exclude_ambiguous_decompositions: true
+  exclude_planar_and_panoramic_only: true
+vote:
+  selection: greedy_distinct_endpoints_descending_weight
+  tie_break: canonical_opaque_endpoint_ids
+  minimum_pairs: 6
+  maximum_pairs: 32
+  radius_floor_deg: 15
+  radius_multiplier_on_sum_internal_quantiles: 2
+  center_search: observed_bridge_rotations
+  split_if_max_fraction_strictly_below: 0.5
+  on_accept: suppress_all_crossing_associations
+  on_insufficient_evidence: preserve_component
+execution:
+  new_matching_pairs: 0
+  learned_parameters: 0
+  default_pass_through: true
+  invalid_cache: reject_run
+  poses_and_outliers: original_mapper_and_exporter
+  cache_replay: verified_read_only_parent_per_dataset
+gates:
+  four_mean_combined_delta_vs_paired_control_gt: 0
+  minimum_corrected_merges: 1
+  maximum_new_false_splits_ets_and_theater: 0
+  maximum_total_lost_inlier_registrations: 1
+  maximum_aggregate_wall_ratio: 1.25
+  confirmation_requires_release_id: true
+reference_file_sha256:
+  configs/baselines/organizer_v1/full_implementation.json: 4e81cd91664119e89d0f635bd84148bc478a899c9f21b808acddc7e5db6953ac
+  configs/baselines/organizer_v1/full_environment_lock.json: 30b2b2bac254640b70459aa77b54ddc8ab7f8b2b1771232f796dc1ac310c95b3
+  configs/baselines/organizer_v1/full_checkpoint_lock.json: f268fabe715fca9e2d311fb8ad61057180872ce8aabee42e79459c622568a755
+  configs/baselines/organizer_v1/full_development.json: 2e4b88c720d7d4b29cdf1e186dec26f8922c8743f6406432c0ffa14157b2a7cc
+  configs/baselines/organizer_v1/development_inputs.json: f4c6b8d81b25790336816e9cf5e3a1154f2d6424f08da1408857cfb66cb16211
+  configs/baselines/ns64_isolated_v1/experiment.json: 434d7d99e114b4705015bb1de45c4182dacae3c28e6baf8bb8fbda98b542602b
+  configs/baselines/top10_reproduction_v1/source_manifest.json: d5c6d19aba6f173f6d5fd60d83d750b6cdfb63b53c5a31051a638de285a7f34a
+  configs/benchmark/imc2025_local_v1/evaluator_environment.json: 4c54700c36269cb8bc88581816372219148472b2db7135cca44a4b19bf8d2a28
+  reports/ns64_full/completed_archive_index.json: bd6e6c2b409fc985b8f23bc2ba66e667bd6877f42027b35decfd31b3c57d005d

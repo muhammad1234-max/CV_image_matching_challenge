@@ -1,0 +1,25 @@
+{
+  "verified_edges": 616,
+  "components": [
+    {
+      "size": 50,
+      "truth": {
+        "church": 50
+      },
+      "predicted": {
+        "cluster0": 49,
+        "outliers": 1
+      }
+    },
+    {
+      "size": 26,
+      "truth": {
+        "kyiv-puppet-theater": 26
+      },
+      "predicted": {
+        "cluster1": 26
+      }
+    }
+  ],
+  "cross_scene_edges": {}
+}

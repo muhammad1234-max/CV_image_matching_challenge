@@ -1,0 +1,13 @@
+{
+  "expected_mounts": {
+    "dioscuri_opaque.bin": "2390cb5c85812982edfd47d73471e548fb70e5e8f4d4d76b35674951f089fd9c",
+    "ns64_runtime.bin": "39e9bb97ede83c777a06f385fbe4acb27fc4665ba1556b504dc64000dcafb925"
+  },
+  "journal": "c55696d7f66f5555474fffc693566b91973b5e172f33e2a7e7e20f8a6e9a8dc4",
+  "notebooks": {
+    "step05a5_kaggle_restore.ipynb": "f74f3f03e51cb01669d8431c4a4ab523689fe64f5a1ee1f6b81ef01a083e0536",
+    "step05a5_kaggle_smoke.ipynb": "fa7729a17043f4dcfeed1b507f3ae236cfa9d591fe31f7c8329e796310220dc5"
+  },
+  "prior_release": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+  "revision": "e14229b7498c1ded9e36d5366d431486474d393e69f688907888dc59593e9163"
+}

@@ -1,0 +1,55 @@
+{
+  "purpose": "ETs dev_b engineering smoke diagnostic, not full-fold validation or leaderboard",
+  "metrics": {
+    "participant": {
+      "variant": "participant",
+      "exact_kaggle_parity": false,
+      "score_units": "fraction",
+      "components": {
+        "combined_score": {
+          "overall": 0.35894206549118385,
+          "per_dataset": {
+            "ETs": 0.35894206549118385
+          }
+        },
+        "maa": {
+          "overall": 0.28846153846153844,
+          "per_dataset": {
+            "ETs": 0.28846153846153844
+          }
+        },
+        "clusterness": {
+          "overall": 0.475,
+          "per_dataset": {
+            "ETs": 0.475
+          }
+        }
+      }
+    },
+    "prose_sensitivity": {
+      "variant": "prose_sensitivity",
+      "exact_kaggle_parity": false,
+      "score_units": "fraction",
+      "components": {
+        "combined_score": {
+          "overall": 0.35894206549118385,
+          "per_dataset": {
+            "ETs": 0.35894206549118385
+          }
+        },
+        "maa": {
+          "overall": 0.28846153846153844,
+          "per_dataset": {
+            "ETs": 0.28846153846153844
+          }
+        },
+        "clusterness": {
+          "overall": 0.475,
+          "per_dataset": {
+            "ETs": 0.475
+          }
+        }
+      }
+    }
+  }
+}

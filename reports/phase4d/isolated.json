@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    "0",
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "pairs": [],
+  "components": [
+    {
+      "nodes": [
+        "0"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "1"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "10"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "11"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "12"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "13"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "14"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "15"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "2"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "3"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "4"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "5"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "6"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "7"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "8"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    },
+    {
+      "nodes": [
+        "9"
+      ],
+      "sides": null,
+      "proposal": {
+        "reason": "small_component"
+      },
+      "decision": "ABSTAIN"
+    }
+  ],
+  "pass_through": [],
+  "normalized_cut": [],
+  "candidate_b2": []
+}

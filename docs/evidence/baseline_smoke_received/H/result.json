@@ -1,0 +1,12 @@
+{
+  "stage": "H",
+  "status": "PASS",
+  "metrics": {
+    "outliers": 2,
+    "cluster_assignment": "model index; unregistered -> outliers"
+  },
+  "runtime_seconds": 7.22611224700006,
+  "gpu_peak_allocated_bytes": 0,
+  "gpu_peak_reserved_bytes": 0,
+  "cpu_peak_rss_bytes": 1203036160
+}

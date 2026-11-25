@@ -1,0 +1,95 @@
+{
+  "classification": "COMPLETED_WITH_SCENE_MERGE",
+  "environment_freeze_matches_ets": true,
+  "restored_sha256": "09a8893f8dcfe6afba561cc7f9012650eda343786a64e223d35fbd05161651d4",
+  "run": {
+    "status": "PASS",
+    "seed": 20261111,
+    "experiment_id": "ns64_isolated_v1_stairs_20261111",
+    "seconds": 1016.559124938,
+    "budget_seconds": 3600,
+    "worker_sha256": "54fb4002762e6395ae7a45191370334349f252ad1db7dd638d0f87a65651f812"
+  },
+  "resources": {
+    "worker_peak_rss_kib": 6343916,
+    "peak_gpu_allocated_bytes": 5465738752,
+    "peak_gpu_reserved_bytes": 5916065792,
+    "work_bytes": 76461661,
+    "mem_available": "MemAvailable:    8754868 kB"
+  },
+  "stages": [
+    {
+      "stage": "shortlist_generator",
+      "status": "PASS",
+      "count": 855,
+      "seconds": 81.03488484400032,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 3590467584,
+      "peak_gpu_reserved_bytes": 3651141632
+    },
+    {
+      "stage": "run_local_feature_extraction_and_matching_stage",
+      "status": "PASS",
+      "seconds": 1.2676999631366925e-05,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 3590467584,
+      "peak_gpu_reserved_bytes": 3651141632
+    },
+    {
+      "stage": "run_detector_free_matching_stage",
+      "status": "PASS",
+      "seconds": 8.449000233667903e-06,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 3590467584,
+      "peak_gpu_reserved_bytes": 3651141632
+    },
+    {
+      "stage": "run_point_tracking_matching_stage",
+      "status": "PASS",
+      "seconds": 510.89107239999976,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 5465738752,
+      "peak_gpu_reserved_bytes": 5916065792
+    },
+    {
+      "stage": "fuse_matching_sets_late",
+      "status": "PASS",
+      "retained_pairs": 266,
+      "seconds": 2.6948000140691875e-05,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 5465738752,
+      "peak_gpu_reserved_bytes": 5916065792
+    },
+    {
+      "stage": "verify_matches",
+      "status": "PASS",
+      "verified_pairs": 266,
+      "seconds": 8.34414188000028,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 5465738752,
+      "peak_gpu_reserved_bytes": 5916065792
+    },
+    {
+      "stage": "incremental_mapping",
+      "status": "PASS",
+      "remaining_before_sfm": 2952.824891628,
+      "count": 1,
+      "seconds": 366.4609681910001,
+      "worker_peak_rss_kib": 6343916,
+      "peak_gpu_allocated_bytes": 5465738752,
+      "peak_gpu_reserved_bytes": 5916065792
+    }
+  ],
+  "deltas": {
+    "participant": {
+      "combined_score": 0.11403508771929827,
+      "maa": 0.07222222222222223,
+      "clusterness": 0.0
+    },
+    "prose_sensitivity": {
+      "combined_score": 0.11403508771929827,
+      "maa": 0.07222222222222223,
+      "clusterness": 0.0
+    }
+  }
+}

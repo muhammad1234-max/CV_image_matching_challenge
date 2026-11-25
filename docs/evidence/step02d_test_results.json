@@ -1,0 +1,17 @@
+{
+  "command": "python -m unittest discover -s tests -v",
+  "tests": 54,
+  "failures": 0,
+  "errors": 0,
+  "duration_seconds": 1.677,
+  "python": "3.13.7",
+  "numpy": "2.1.2",
+  "benchmark_validation": {
+    "status": "DRAFT",
+    "integrity": "PASS",
+    "image_membership": "NOT GENERATED",
+    "benchmark_hash": "26e8ea072099eaddf14698db579d8a41d5654e42e91bc1e6f00b59a0457f9b5d"
+  },
+  "test_file_sha256": "ade60f541d0bdfc289c9f130ad3472dbc5eeaa900e3e3fd76f2770dd1d023850",
+  "evidence_scope": "Synthetic regression tests plus returned local artifact integrity; not remote data verification or model results"
+}

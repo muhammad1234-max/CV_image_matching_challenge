@@ -1,0 +1,7 @@
+{
+  "archive_integrity": "PASS",
+  "sha256": "ee4f26a2c0bb97fd96ba46408e913f92ae81c2ac5609c809889e4e85435f623b",
+  "non_reusable_checkpoint_artifacts": [
+    "datasets/amy_gardens/F/colmap.db"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "after": {
+    "counts": {
+      "cameras": 54,
+      "descriptors": 0,
+      "images": 54,
+      "keypoints": 54,
+      "matches": 1431,
+      "pose_priors": 0,
+      "sqlite_sequence": 2,
+      "two_view_geometries": 1431
+    },
+    "records": {
+      "schema": "a063961d1fd8881e261eb0e9ef563b42dce3eb72bd42d62144faf760b5dd9a59",
+      "tables": {
+        "cameras": "6330a03b716fe517b9dba1ee59a72c85a226219df8fcdcd59d45f9be51d5f598",
+        "descriptors": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "images": "d9d9e86fe2a1d7a0cd0d4b7fe8ae6eeb6e83e4d335295d89429762b431626d22",
+        "keypoints": "a0db25e005d89e02d58ca26be71d99410cc2e1a91b9e817eb694bfbd60a63741",
+        "matches": "b1a14022fec93473ffa320392103fa9eda18eb14994a5651538c5ddc5b6bf370",
+        "pose_priors": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sqlite_sequence": "e0fe3127bdcdf25bcfe10a1c2dd0910683c47747e268c32ae827c88e952c6a88",
+        "two_view_geometries": "d14d33c9d370a2d3ec984287c2e5e90d366659af90780251ee8f022aebd10aab"
+      }
+    }
+  },
+  "before": {
+    "counts": {
+      "cameras": 54,
+      "descriptors": 0,
+      "images": 54,
+      "keypoints": 54,
+      "matches": 1431,
+      "pose_priors": 0,
+      "sqlite_sequence": 2,
+      "two_view_geometries": 1431
+    },
+    "records": {
+      "schema": "a063961d1fd8881e261eb0e9ef563b42dce3eb72bd42d62144faf760b5dd9a59",
+      "tables": {
+        "cameras": "6330a03b716fe517b9dba1ee59a72c85a226219df8fcdcd59d45f9be51d5f598",
+        "descriptors": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "images": "d9d9e86fe2a1d7a0cd0d4b7fe8ae6eeb6e83e4d335295d89429762b431626d22",
+        "keypoints": "a0db25e005d89e02d58ca26be71d99410cc2e1a91b9e817eb694bfbd60a63741",
+        "matches": "b1a14022fec93473ffa320392103fa9eda18eb14994a5651538c5ddc5b6bf370",
+        "pose_priors": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sqlite_sequence": "e0fe3127bdcdf25bcfe10a1c2dd0910683c47747e268c32ae827c88e952c6a88",
+        "two_view_geometries": "d14d33c9d370a2d3ec984287c2e5e90d366659af90780251ee8f022aebd10aab"
+      }
+    }
+  },
+  "forbidden": []
+}

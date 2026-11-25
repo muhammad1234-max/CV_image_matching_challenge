@@ -1,0 +1,18 @@
+{
+  "status": "VERIFIED_BUILD_AND_IMPORT_RECEIPT",
+  "archive_sha256": "c7827e32ea0fbf501de8bf97273491389f1b3c0c89d1b4f29b061e9d57e58b18",
+  "wheels": {
+    "asmk-0.1-cp311-cp311-linux_x86_64.whl": "d45f694a50fe0fa1c25e500b0edf6a0b1e5802a84241c95ae78f4be270976308",
+    "curope-0.0.0-cp311-cp311-linux_x86_64.whl": "6e021ae761fd6694e80482e2aa0ff581cf321eb247d4b212f3ac2ed7a8ce6ee2"
+  },
+  "adaptation": {
+    "source_revision": "2a96d9c03a841dffdfddabc699a20512dcd09363",
+    "cython_version": "0.29.37",
+    "reason": "Regenerate legacy C code for CPython 3.11",
+    "pyx_sha256_before": "7d63ae89fc0cf375d78896fd19999afea94aa77ef1202a602754a344744be6c7",
+    "generated_c_sha256_before": "d0c0673123961f517737e98afec5f27541b5aa1e67c8088f746c2c95661d8832",
+    "pyx_sha256_after": "7d63ae89fc0cf375d78896fd19999afea94aa77ef1202a602754a344744be6c7",
+    "generated_c_sha256_after": "c010c9cfc71c3dccaaf452498b0bc3d084ef284f21bec66d86559dc11332654c"
+  },
+  "scope": "Recorded Linux cp311 builds and imports; original model and retrieval execution pending"
+}

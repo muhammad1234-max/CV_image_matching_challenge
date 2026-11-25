@@ -1,0 +1,50 @@
+[
+  {
+    "identity": {
+      "dataset": "imc2024_dioscuri_baalshamin",
+      "model": "final_candidate_v1",
+      "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+      "seed": 20261111,
+      "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+    },
+    "runner": "fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac",
+    "stage": "",
+    "status": "created"
+  },
+  {
+    "new_runner": "fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac",
+    "previous_checkpoints": [],
+    "previous_events": [
+      {
+        "identity": {
+          "dataset": "imc2024_dioscuri_baalshamin",
+          "model": "final_candidate_v1",
+          "protocol": "ec1af922c449ed0f68cc321cf972af772e491154ddaa36700a75632a24c4a690",
+          "seed": 20261111,
+          "worker": "5429666b9249c2bf685615d95c596b56b650293bd1ccede9178334e243cd8ffa"
+        },
+        "runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+        "stage": "",
+        "status": "created"
+      }
+    ],
+    "previous_runner": "dbefffec1ede534a31bad1f8cd84da7b61f484e125ef6ef1adeb5d4698ecd886",
+    "previous_sha256": "c55696d7f66f5555474fffc693566b91973b5e172f33e2a7e7e20f8a6e9a8dc4",
+    "reason": "Phase 5A.6 approved Kaggle production migration",
+    "seconds": 0,
+    "stage": "",
+    "status": "migrated"
+  },
+  {
+    "parents": {},
+    "reserved": 12570.13111974,
+    "stage": "capture",
+    "status": "started"
+  },
+  {
+    "seal": "e82d74536d7d4124deeffa56abf1cb74f262f12e9973537b8514449fd0165966",
+    "seconds": 1648.8952883439997,
+    "stage": "capture",
+    "status": "complete"
+  }
+]

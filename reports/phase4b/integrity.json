@@ -1,0 +1,13 @@
+{
+  "benchmark": {
+    "status": "FROZEN",
+    "integrity": "PASS",
+    "image_membership": "PASS",
+    "benchmark_hash": "a78f0542413b8ac2ec8c262988ed5303c934490a2b31d2a45d3939dd6d3ab2a4",
+    "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057"
+  },
+  "ns64_source_revision": "07b5695b99a8ae4725d5d952f0065c2157fadd7d",
+  "ns64_source_manifest_entries": 1810,
+  "missing_source_files": [],
+  "changed_source_files": []
+}

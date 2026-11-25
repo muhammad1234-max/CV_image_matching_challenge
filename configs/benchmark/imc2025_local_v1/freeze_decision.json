@@ -1,0 +1,9 @@
+{
+  "decision": "Accept proposed two-fold plus protected confirmation design with documented small-group and outlier-imbalance limitations",
+  "authority": "Prompt 05 authorizes freeze after evidence and hard constraints pass",
+  "baseline_registered": false,
+  "phase3_authorized": false,
+  "previous_draft_hash": "16dfa29d39cd3d9e7901f49f20b286dfb727422bd7cf75e59627afa2ed27a532",
+  "threshold_source_available": true,
+  "confirmation_model_selection_allowed": false
+}

@@ -1,0 +1,6 @@
+usage: __main__.py auth login [-h] [--no-launch-browser] [--force]
+
+options:
+  -h, --help           show this help message and exit
+  --no-launch-browser  Do not launch a browser for authentication
+  --force              Re-run the login flow even if the current account is already logged-in

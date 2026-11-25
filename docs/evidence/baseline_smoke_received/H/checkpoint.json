@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "cache_key": "5b92b4b17ff73c4b20500bbb2b73477bd9b3008dbb1a1fd0bf7bb3b79a6e8742",
+  "artifacts": {
+    "result.json": "7bfaea63e946ffd25ba1f71f02293ab1340677dc9fa5845f54850663b1abf27f",
+    "assignments.json": "907d1d913ef26a23fa564c945f932c6b876941f3adad61bffb3dd92d70447680"
+  }
+}

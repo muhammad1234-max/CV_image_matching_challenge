@@ -1,0 +1,7 @@
+# Phase 5A.3 retry runbook
+
+Await supervisor approval. The only proposed future target is imc2024_dioscuri_baalshamin, 138 Development A images in heritage_dioscuri, seed 20261111.
+
+Use step05a3_dioscuri_colab.ipynb in a fresh compatible T4 VM. Verify notebook and runtime identities against revision.json. Leave Drive unmounted, check protected-data absence, supply the frozen clean-runtime ZIP and dataset-specific opaque ZIP, then verify installed extensions, source, configuration and actual checkpoint hashes. Measure host and finite cgroup headroom, GPU free memory, scratch disk and available session duration. Keep the initial capture gate of 8,400 seconds, total budget of 14,400 seconds, 1,200-second export reserve and one trial capped at 5,400 seconds.
+
+Verify external journal and ZIP custody before execution. Declare NEW only for a genuinely unstarted authorized attempt. Retain each downloaded journal with its independently recorded SHA256. Download and independently retain each completed stage and digest before continuing. Restore a complete chain in order with its matching runner and latest journal. If an earlier attempt or journal is uncertain, stop for review. Return the sealed decision for independent evaluation.

@@ -1,0 +1,5 @@
+# Independent scoring
+
+The registered organizer scores for this group are {"participant": {"clusterness": 0.898876404494382, "combined_score": 0.5628763937749686, "maa": 0.4097222222222222}, "prose_sensitivity": {"clusterness": 0.898876404494382, "combined_score": 0.5628763937749686, "maa": 0.4097222222222222}}. These are historical registered values. Recompute them with the frozen evaluator after authenticated transfer. The original ns64, trial, normalized-cut and automatic scores are unavailable in this release. The same-run primary paired difference is pending. No extra trial is authorized for a comparator.
+
+On the trusted workstation retain the four stage .bin files, final preflight JSON and latest journal in one returns directory. Create pins.json from the four independently saved archive digests keyed by capture, original, trial and decision. Run python -m scripts.receive_dioscuri_5a6 RETURNS FINAL_JOURNAL_SHA RETURNS/pins.json NEW_OUTPUT_DIR. The entry point revalidates the stages, freeze and predecessor chain before using the frozen scorer. Keep identity mappings and identity-restored prediction CSVs private.

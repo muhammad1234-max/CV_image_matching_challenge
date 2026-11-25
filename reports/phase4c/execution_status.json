@@ -1,0 +1,12 @@
+{
+  "classification": "BLOCKED \u2014 IMPLEMENTATION OR EXECUTION",
+  "gpu_experiment_seconds": 0,
+  "new_scores": null,
+  "real_candidate_a": null,
+  "real_capture": "NOT_RUN",
+  "real_mapper_parity": null,
+  "real_parent_sha256": null,
+  "real_valid_rotations": null,
+  "real_verified_edges": null,
+  "reason": "No connected clean Linux Colab T4 runtime in this session"
+}

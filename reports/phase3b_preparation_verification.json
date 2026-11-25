@@ -1,0 +1,16 @@
+{
+  "status": "PREPARED_NOT_GPU_EXECUTED",
+  "implementation_hash": "d5d612c530d52089b6dfa7ab3589ccaee572d0ba6281b9bfb35ceba044e5ce93",
+  "tests": {
+    "command": "python -m unittest discover -s tests -q",
+    "passed": 103,
+    "failed": 0
+  },
+  "frozen_benchmark_integrity": "PASS",
+  "frozen_membership": "PASS",
+  "isolated_embedded_payload_verification": "PASS",
+  "payload_sha256": "6b3ddf1278a9786af2dd3b5ee21fb395ea0a21c150ad2fb35ae1980f408fb8dd",
+  "notebook_sha256": "ee6d1d73b7985f47169fa215508943a1b6d552d662dfe1a12f777c808105c243",
+  "phase3b_completed_datasets": 0,
+  "registration_status": "NOT REGISTERED"
+}

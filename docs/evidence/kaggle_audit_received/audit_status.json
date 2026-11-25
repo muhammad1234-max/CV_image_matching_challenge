@@ -1,0 +1,17 @@
+{
+  "state": "AUDITED",
+  "real_kaggle_execution": true,
+  "statistics_complete": true,
+  "split_frozen": false,
+  "limitations": [
+    "No source-independence or near-duplicate audit",
+    "No hidden test labels accessed",
+    "Image-reference resolution supports train/dataset/scene/image and test/dataset/image; unresolved is not proof of missing content",
+    "Archive extraction not performed"
+  ],
+  "input_root": "/kaggle/input/competitions/image-matching-challenge-2025-ongoing",
+  "discovery": "automatic structure heuristic; provenance requires user confirmation",
+  "candidates": [
+    "/kaggle/input/competitions/image-matching-challenge-2025-ongoing"
+  ]
+}

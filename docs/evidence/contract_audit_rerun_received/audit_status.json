@@ -1,0 +1,13 @@
+{
+  "state": "AUDITED",
+  "split_frozen": false,
+  "warnings": [
+    "NEAR_MATCHES_UNREVIEWED",
+    "SOURCE_INDEPENDENCE_NOT_ESTABLISHED",
+    "THRESHOLD_SEMANTICS_REQUIRE_REVIEW"
+  ],
+  "root": "/kaggle/input/competitions/image-matching-challenge-2025-ongoing",
+  "overlap_complete": true,
+  "threshold_interpretation": "UNRESOLVED",
+  "submission_acceptance": "UNVERIFIED"
+}

@@ -1,0 +1,5 @@
+{
+  "command": "python -m pip cache dir (path reduced to drive)",
+  "exit_code": 0,
+  "cache_drive": "c:"
+}

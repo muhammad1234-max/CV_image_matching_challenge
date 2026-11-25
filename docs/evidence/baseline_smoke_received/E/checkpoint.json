@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "cache_key": "e40fec7962ffa4a511fa1e2b04af87c167264cee654828fc2eeb326aa10ee310",
+  "artifacts": {
+    "result.json": "312217d8ad3a8a3c403da3f5d160cff76dff4f53cbab7c2669b8856787be6273",
+    "matches.h5": "e9954270f8df7fe4d4e8a11881f31dcd4f8068f9892effbf2de0ff9b07f49001",
+    "descriptors.h5": "f3f869942d98f381169fcc937e93165757cd65baf08168795022e1d18c8adcfe",
+    "keypoints.h5": "09eee59605b5b1f6b1f0aeaf9f42df799e1035e5ce760eba0a8853eaa6b8246f"
+  }
+}

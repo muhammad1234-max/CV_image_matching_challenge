@@ -1,0 +1,17 @@
+{
+  "actual_gpu_result": {
+    "budget_seconds": 12751.104711656,
+    "receipt": "phase5a7_gpu_preflight.json",
+    "recovery_captures_started": 0,
+    "remaining_session_seconds_at_measurement": 13850.797743373001,
+    "sha256": "b80a5bab9231075d9fe88c36db33b83b913d1f92f5daf5feb9a79af0b216b613",
+    "status": "PASS"
+  },
+  "journal": "f19165adfbf7fc12d1d17f1b4817c4d3d27a94560048655219d09e93e813f487",
+  "notebook": "417747943e3423f32dc538e93ffc831dc14e6b75fa60893145a7f237afed820f",
+  "parent": "fcc175e98945bb0e2bf5bd1328d07cd88f7e523c4bf89cb8a848e28af00fb9ac",
+  "preflight_release": "a578830b0a7dca894077ca2dcfda973c8758fc553b365a0bce8435d56c045fed",
+  "private_reader_run": "operator-reported; receipt has no run timestamp",
+  "restore_receipt": "31676a486288ffcdc5330e8a2eb6b93c891e3acd39f9187bd8173a45574b0fed",
+  "visibility": "owner-confirmed private"
+}

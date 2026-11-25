@@ -1,0 +1,9 @@
+# Dioscuri/Baalshamin retry after supervisor review
+
+1. Obtain the supervisor decision and reserve a fresh clean T4 runtime. Use notebooks/step05a1_dioscuri_colab.ipynb. The sole target is the 138-image Development A heritage_dioscuri group, seed 20261111.
+2. Delete and reconnect the VM. Leave Drive unmounted. Supply the frozen clean-runtime bundle and original opaque archive when prompted. Run the dependency cells. Check clean paths, host and finite cgroup headroom, GPU memory, free disk, available session time, environment, source and all weights on the actual VM.
+3. Enter actual remaining seconds. Initial capture requires at least 8,400 seconds, total experiment budget is 14,400, export reserve is 1,200, and trial is capped at 5,400.
+4. On the first authorized attempt enter NEW. For every status transition retain the downloaded journal outside Colab and record its SHA256 before acknowledging custody. Use a single notebook operator. Keep the latest receipt, even on failure.
+5. Execute capture, original, trial and decision in order. Download each dataset_stage.zip and independently retain its printed hash. After a VM restart supply the latest journal and separately recorded hash, upload prior ZIPs to /content under their original names and run their cells in order to restore them. The restore path must validate before launching a later stage.
+6. On a fatal status save the journal and the attempt directory's diagnostic files. An unresolved start after a lost runtime requires supervisor review. A failed trial consumes its only start. Retain historical valid files and quarantined conflicts.
+7. Return the verified chain for independent evaluation. This package contains CPU operational evidence only. The release decision concerns runner correctness. Model performance remains unmeasured here.

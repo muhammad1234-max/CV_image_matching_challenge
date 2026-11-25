@@ -1,0 +1,5 @@
+# Compute and storage
+
+No model weights were stored on the Windows system. The verifier streams mounted files into SHA256, loads models in separate child processes and releases each process. The pinned upstream MASt3R matching file is 2,754,910,614 bytes, retrieval head 8,399,111 bytes, codebook 268,435,691 bytes and ISC 420,418,996 bytes. Allow additional space for DINOv2, wheels, extraction, image staging and reconstruction. An engineering starting point is 20 GiB free disk and 32 GiB host RAM, subject to measurement.
+
+Distributed splitting in kernel.py assigns whole datasets by rank. ETs runs on one GPU. Two 15 GiB devices have separate memory. A university Linux x86_64 GPU with 3.11, a CUDA development toolkit and a T4-class card is a practical first validation target. Required VRAM for the full selected pipeline on ETs has not been measured. Dedicated cloud can provide a controlled image and more VRAM but would still require the original weights and ABI checks. No paid infrastructure was provisioned. Full-fold runtime remains unknown.

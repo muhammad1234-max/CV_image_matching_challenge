@@ -1,0 +1,3 @@
+# Phase 5A.5 filesystem isolation
+
+Use a fresh private VM with only the two prepared files attached. The adapter records input existence and directory status, Kaggle mount points and an inventory of allowed files by hash. Unknown files, links, digest mismatches, missing mounts or unreadable entries stop the smoke. The opaque archive is checked for 138 neutral names and the ordered digest. No original competition mount or evaluation directory is needed. Path checks and an approved-input VM rely on a fresh private session and controlled attachments. They do not establish kernel-enforced read denial to arbitrary host paths. If prohibited data are present, detach the dataset and start a clean VM. No protected file content is needed to diagnose a failed allowlist.

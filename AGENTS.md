@@ -1,0 +1,3 @@
+# Research invariants
+
+Every future model improvement MUST be compared with the same frozen reproducible baseline and validation split. Pin baseline code, configuration, weights, environment, evaluator and dataset/split hashes before improvement experiments. Never silently regenerate splits or change the comparator. If a necessary correction changes a benchmark version, rerun baseline and all compared variants on that version. Report paired per-dataset and aggregate differences, runtime, failures and resource use; leaderboard fluctuations alone are not evidence of improvement. Do not tune on the locked confirmation split or hidden test labels.

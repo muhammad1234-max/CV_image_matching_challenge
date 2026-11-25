@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "records": 1945,
+  "non_outlier_scenes": 30,
+  "outliers": 122,
+  "finite_poses": 1823,
+  "sample_rows": 1945,
+  "sample_identity_order_hash": "068912b9539e6a6784f0975f15a66e3bebedc628624a9009b879143fe03a833f",
+  "split_hash": "170546743202f21b9bcc98376ff09a6eae2da16ce833115478a976c4f46b2057",
+  "exact_duplicate_pairs_preserved": 8,
+  "all_training_identities_in_returned_inventory": true,
+  "threshold_raw_strings_match": true,
+  "balance": {
+    "dev_a": {
+      "datasets": [
+        "amy_gardens",
+        "imc2023_haiper",
+        "imc2023_heritage",
+        "imc2023_theather_imc2024_church",
+        "imc2024_dioscuri_baalshamin",
+        "stairs"
+      ],
+      "groups": 5,
+      "images": 728,
+      "scenes": 13,
+      "outliers": 85
+    },
+    "dev_b": {
+      "datasets": [
+        "ETs",
+        "fbk_vineyard",
+        "pt_brandenburg_british_buckingham",
+        "pt_sacrecoeur_trevi_tajmahal",
+        "pt_stpeters_stpauls"
+      ],
+      "groups": 5,
+      "images": 835,
+      "scenes": 13,
+      "outliers": 3
+    },
+    "confirmation": {
+      "datasets": [
+        "imc2024_lizard_pond",
+        "pt_piazzasanmarco_grandplace"
+      ],
+      "groups": 2,
+      "images": 382,
+      "scenes": 4,
+      "outliers": 34
+    }
+  },
+  "original_metadata_sha256": {
+    "train_labels.csv": "f65b20be20cb2cbfd288871c20f9863fd6f052f484a97b236090989af945ea0c",
+    "sample_submission.csv": "cce6dddfdf979f0b33e821587d98d6ed0fa97042a0cc0ae4cca1a77a3cf65aab",
+    "train_thresholds.csv": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2"
+  },
+  "image_bytes_independently_reverified": false
+}

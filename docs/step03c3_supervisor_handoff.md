@@ -1,0 +1,3 @@
+BLOCKED — ENVIRONMENT ISOLATION
+
+Three new versioned role implementations, a CPU probe launcher, regression tests and experiment.json are included. See source_files for old and new SHA256 values. Historical pilot and organizer records retain their original bytes. Local frozen benchmark and membership validation passed. The project suite passed 136 tests, including 11 newly collected isolation tests. These are CPU software checks. OS access-control outcomes and loading the isolated source tree on the real Linux runtime are pending. Neither future condition has run. Follow execution_environment.md and return probe evidence for a supervisor decision before either 1800-second trial.

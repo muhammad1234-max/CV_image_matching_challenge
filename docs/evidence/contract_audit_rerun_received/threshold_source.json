@@ -1,0 +1,14 @@
+{
+  "sha256": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2",
+  "expected_sha256": "5b92db83d510ab19e66bd1ef4c23865245d75b4a981986e6d8eb1aee06fc9fe2",
+  "hash_matches_previous": true,
+  "columns": [
+    "dataset",
+    "scene",
+    "thresholds"
+  ],
+  "rows": 30,
+  "interpretation": "UNRESOLVED: preserve raw tokens; participant parser uses float(token) on semicolon-separated strings. A representable float is not proof of official intended semantics.",
+  "configuration_created": false,
+  "complete": true
+}

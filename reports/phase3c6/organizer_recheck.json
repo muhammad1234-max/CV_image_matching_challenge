@@ -1,0 +1,51 @@
+{
+  "scores": {
+    "participant": {
+      "combined_score": 0.05263157894736842,
+      "maa": 0.027777777777777776,
+      "clusterness": 0.5
+    },
+    "prose_sensitivity": {
+      "combined_score": 0.05263157894736842,
+      "maa": 0.027777777777777776,
+      "clusterness": 0.5
+    }
+  },
+  "true_scene_count": 2,
+  "true_outliers": 0,
+  "predicted_outliers": 11,
+  "predicted_clusters": 1,
+  "diagnostics": {
+    "false_outliers": 11,
+    "missed_outliers": 0,
+    "merged_clusters": {
+      "cluster1": [
+        "stairs_split_1",
+        "stairs_split_2"
+      ]
+    },
+    "split_scenes": {},
+    "contingency": [
+      {
+        "true_scene": "stairs_split_1",
+        "predicted_scene": "cluster1",
+        "images": 18
+      },
+      {
+        "true_scene": "stairs_split_1",
+        "predicted_scene": "outliers",
+        "images": 10
+      },
+      {
+        "true_scene": "stairs_split_2",
+        "predicted_scene": "cluster1",
+        "images": 22
+      },
+      {
+        "true_scene": "stairs_split_2",
+        "predicted_scene": "outliers",
+        "images": 1
+      }
+    ]
+  }
+}

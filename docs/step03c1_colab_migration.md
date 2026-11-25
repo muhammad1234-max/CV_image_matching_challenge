@@ -1,0 +1,11 @@
+# Colab migration
+
+Use notebooks/step03c_ns64_colab_ets_pilot.ipynb with imc_ns64_colab_migration.zip. The migration package includes the immutable upstream source archive, frozen evaluator/configuration, current adapter, registered comparator, original Kaggle dependency receipt and hash-verified Linux wheels. No images or weights are embedded.
+
+Select a free NVIDIA GPU runtime before setup. Run cell one, upload the migration ZIP and authorize Drive mounting. Setup installs a separate Python 3.11.11 interpreter and replays the recorded Kaggle package inventory without dependency resolution, resolving local wheel references to the included files. It checks the migrated binary imports. Binary compatibility on Colab remains unverified. If imports fail, preserve the traceback before attempting rebuild.
+
+Cell two downloads the seven original asset groups into MyDrive/IMC_ns64/weights using verified SHA256 values. Previously saved private weights may be placed in this directory to avoid another download. Cell three rechecks the complete Colab model environment and copies its dependency receipt to Drive. Any failure stops before reconstruction. After PASS, cell four accepts imc_ets_images.zip and executes the 1800-second ETs pilot. It verifies exactly the 22 original identities, copies the resulting lightweight archive to Drive and offers a download.
+
+The 22-image archive can be prepared on Kaggle with Accelerator None, competition input attached, using kaggle_upload/export_ets_for_colab.py. Paste that script into a cell and download imc_ets_images.zip. Its code reads only the permitted original ETs files and verifies their frozen hashes. Keep these competition images private. If the GPU runtime is still active and enough quota is available, this small export needs no GPU operations but use a separate CPU notebook to avoid consuming GPU allocation.
+
+Colab setup and model validation are preparation time, separately recorded from the initial ETs execution budget. Free GPU availability is not guaranteed. Save the notebook and receipts, and retain all current Kaggle artifacts already downloaded. The new notebook does not establish reproduction success until a real archive has been returned and independently scored.
